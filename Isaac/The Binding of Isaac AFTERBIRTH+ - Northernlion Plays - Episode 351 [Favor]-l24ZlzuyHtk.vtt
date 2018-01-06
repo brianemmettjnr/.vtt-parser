@@ -1,0 +1,2797 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.060 --> 00:00:04.080
+hey everybody welcome back northernlion
+
+00:00:02.399 --> 00:00:05.779
+the binding of issac entereth plus what
+
+00:00:04.080 --> 00:00:08.760
+more do you need what more can you say
+
+00:00:05.779 --> 00:00:10.710
+what'd you say this is how this is
+
+00:00:08.760 --> 00:00:14.460
+lameee prof exercise to start out every
+
+00:00:10.710 --> 00:00:19.020
+episode just rapid-fire references as if
+
+00:00:14.460 --> 00:00:24.350
+Oh an Isaac run now we can get serious
+
+00:00:19.020 --> 00:00:27.029
+old uh-oh jabo slide zeros in this one
+
+00:00:24.350 --> 00:00:31.170
+you know what they say you three zeros
+
+00:00:27.029 --> 00:00:35.510
+makes one hero look at the quick think
+
+00:00:31.170 --> 00:00:39.030
+of a superhero as three O's in his name
+
+00:00:35.510 --> 00:00:42.870
+Thor Thor Thor alright let's get going
+
+00:00:39.030 --> 00:00:45.180
+here the last run was I wish this item
+
+00:00:42.870 --> 00:00:47.780
+was better these sinks is just so much
+
+00:00:45.180 --> 00:00:51.120
+cooler anyway the last run was like
+
+00:00:47.780 --> 00:00:52.980
+pretty close to a 10 out of 10 if it had
+
+00:00:51.120 --> 00:00:55.530
+more HP earlier would have been a 10 out
+
+00:00:52.980 --> 00:00:57.239
+of 10 but it was still like a super easy
+
+00:00:55.530 --> 00:00:58.859
+win by the time you got Judas to shatter
+
+00:00:57.239 --> 00:01:01.230
+to pop and it was nice because again
+
+00:00:58.859 --> 00:01:03.390
+recording this one right after like I'm
+
+00:01:01.230 --> 00:01:05.390
+still out of practice I've been been
+
+00:01:03.390 --> 00:01:07.560
+away from the game for a week you know
+
+00:01:05.390 --> 00:01:10.290
+just because we had one run in which we
+
+00:01:07.560 --> 00:01:11.939
+succeeded while having 70 damage doesn't
+
+00:01:10.290 --> 00:01:14.939
+necessarily mean we're good to go here
+
+00:01:11.939 --> 00:01:17.820
+all things considered I would imagine
+
+00:01:14.939 --> 00:01:20.780
+anyway so I'm hoping to keep things
+
+00:01:17.820 --> 00:01:23.369
+going here I wish I had more like
+
+00:01:20.780 --> 00:01:25.110
+anecdotes I really don't have more
+
+00:01:23.369 --> 00:01:29.070
+anecdotes from my time away though
+
+00:01:25.110 --> 00:01:33.720
+there's it was it was a domestic trip I
+
+00:01:29.070 --> 00:01:36.840
+actually did a little embarrassing but
+
+00:01:33.720 --> 00:01:38.880
+what did I do with my time away well you
+
+00:01:36.840 --> 00:01:40.530
+know my parents mostly were hanging out
+
+00:01:38.880 --> 00:01:42.479
+they had the week off as well so they
+
+00:01:40.530 --> 00:01:43.759
+were just watching like a bunch of
+
+00:01:42.479 --> 00:01:48.000
+they're really into these like
+
+00:01:43.759 --> 00:01:51.350
+Scandinavian crime shows on Netflix and
+
+00:01:48.000 --> 00:01:53.250
+I'm not against it you know it's it's
+
+00:01:51.350 --> 00:01:55.229
+oftentimes very good like we watched
+
+00:01:53.250 --> 00:01:58.920
+this Swedish movie called a man called
+
+00:01:55.229 --> 00:02:00.719
+Alva and I did implicitly say it in that
+
+00:01:58.920 --> 00:02:04.049
+voice for some reason which I apologize
+
+00:02:00.719 --> 00:02:06.570
+for um which is not a crime movie but I
+
+00:02:04.049 --> 00:02:08.250
+was like this is good this is a good
+
+00:02:06.570 --> 00:02:09.860
+movie I never would have seen were not
+
+00:02:08.250 --> 00:02:12.090
+for their influence
+
+00:02:09.860 --> 00:02:12.360
+they are like watching a lot of those so
+
+00:02:12.090 --> 00:02:14.220
+now
+
+00:02:12.360 --> 00:02:18.960
+I really want to watch you know like 12
+
+00:02:14.220 --> 00:02:21.920
+episodes of case so instead I spent a
+
+00:02:18.960 --> 00:02:24.330
+lot of time it's kind of programming as
+
+00:02:21.920 --> 00:02:26.910
+lame as that might sound to you to go on
+
+00:02:24.330 --> 00:02:28.230
+vacation and then you know spend a lot
+
+00:02:26.910 --> 00:02:30.900
+of time writing code that's basically
+
+00:02:28.230 --> 00:02:33.540
+what happened and I wrote like it's bad
+
+00:02:30.900 --> 00:02:36.360
+I want to put that out there and it may
+
+00:02:33.540 --> 00:02:39.390
+or may not ever see the light of day but
+
+00:02:36.360 --> 00:02:43.170
+it is actually technically probably
+
+00:02:39.390 --> 00:02:47.340
+releasable I made a game with the name
+
+00:02:43.170 --> 00:02:50.190
+Tomo Quest using you know prolific use
+
+00:02:47.340 --> 00:02:53.040
+of free assets from the unity asset
+
+00:02:50.190 --> 00:02:56.400
+store just basically like a really
+
+00:02:53.040 --> 00:02:58.440
+really rudimentary endless runner that
+
+00:02:56.400 --> 00:03:00.480
+took me an embarrassingly long time to
+
+00:02:58.440 --> 00:03:02.850
+cobble together and it doesn't it
+
+00:03:00.480 --> 00:03:07.980
+doesn't like look or play that well but
+
+00:03:02.850 --> 00:03:10.590
+my god it actually first off runs on my
+
+00:03:07.980 --> 00:03:12.239
+phone which is a huge milestone for me
+
+00:03:10.590 --> 00:03:13.920
+I've never deployed anything to my own
+
+00:03:12.239 --> 00:03:15.840
+phone before and then been able to play
+
+00:03:13.920 --> 00:03:18.750
+it and then show with the people Israel
+
+00:03:15.840 --> 00:03:20.310
+hey check this out I made this and I'm
+
+00:03:18.750 --> 00:03:22.170
+like no no is not but you don't
+
+00:03:20.310 --> 00:03:25.650
+understand this is an important step to
+
+00:03:22.170 --> 00:03:28.620
+be able to do that and then also like it
+
+00:03:25.650 --> 00:03:31.350
+just works it has like a UI you can use
+
+00:03:28.620 --> 00:03:32.459
+buttons to navigate to the mode you want
+
+00:03:31.350 --> 00:03:34.140
+to play and then you can play it and
+
+00:03:32.459 --> 00:03:36.290
+then you can hit restart and continue to
+
+00:03:34.140 --> 00:03:40.709
+play it it's got a high score list I
+
+00:03:36.290 --> 00:03:42.120
+wrote myself despite the fact that you
+
+00:03:40.709 --> 00:03:43.560
+should never do that surely there's
+
+00:03:42.120 --> 00:03:46.110
+plugins that can just do that for you
+
+00:03:43.560 --> 00:03:47.850
+and instead I'm you know writing my own
+
+00:03:46.110 --> 00:03:50.310
+lists in the in the background every
+
+00:03:47.850 --> 00:03:52.049
+time you finish a run and get a score oh
+
+00:03:50.310 --> 00:03:53.790
+my god it's just like make me work for
+
+00:03:52.049 --> 00:03:56.280
+it a little bit here so yeah I don't
+
+00:03:53.790 --> 00:03:58.110
+know if that's ever gonna like come out
+
+00:03:56.280 --> 00:03:59.459
+people are very nice people go I want to
+
+00:03:58.110 --> 00:04:03.390
+play it you don't know anything about it
+
+00:03:59.459 --> 00:04:07.380
+you she'll it's I don't mean to be rude
+
+00:04:03.390 --> 00:04:09.570
+but it's bad it's if I got a code for
+
+00:04:07.380 --> 00:04:12.299
+Tamil quests in my email had no personal
+
+00:04:09.570 --> 00:04:13.709
+connection to it I would make fun of it
+
+00:04:12.299 --> 00:04:15.510
+I would be like and you know maybe
+
+00:04:13.709 --> 00:04:17.790
+that's reflects poorly on me in the
+
+00:04:15.510 --> 00:04:19.650
+first place whether it's bad but it's
+
+00:04:17.790 --> 00:04:22.470
+possible that you know with a little bit
+
+00:04:19.650 --> 00:04:24.419
+of polish I'm I could be convinced
+
+00:04:22.470 --> 00:04:25.580
+and in this case it really is just a
+
+00:04:24.419 --> 00:04:27.470
+little bit of Polish
+
+00:04:25.580 --> 00:04:29.930
+because it's like it's going to make it
+
+00:04:27.470 --> 00:04:32.180
+a ten it'll make it like a 1 and that
+
+00:04:29.930 --> 00:04:35.449
+that maybe is good enough I might
+
+00:04:32.180 --> 00:04:37.009
+release it for free on you know a niche
+
+00:04:35.449 --> 00:04:39.139
+geo page or something like that
+
+00:04:37.009 --> 00:04:41.599
+we'll see it really would only be
+
+00:04:39.139 --> 00:04:43.849
+interesting to play as a as a curiosity
+
+00:04:41.599 --> 00:04:47.449
+but yeah that was pretty much like half
+
+00:04:43.849 --> 00:04:50.000
+of how I spent my vacation there wasn't
+
+00:04:47.449 --> 00:04:51.349
+it wasn't intentional it wasn't like I
+
+00:04:50.000 --> 00:04:53.479
+went into the vacation being like I got
+
+00:04:51.349 --> 00:04:57.830
+to make a game I just sort of like you
+
+00:04:53.479 --> 00:04:59.690
+know on Monday day or yeah it was it was
+
+00:04:57.830 --> 00:05:01.669
+Monday on Monday I just sort of got a
+
+00:04:59.690 --> 00:05:03.080
+legal pad and some paper and was like
+
+00:05:01.669 --> 00:05:05.569
+you know what kind of projects could I
+
+00:05:03.080 --> 00:05:07.849
+work on here for a few days just to pass
+
+00:05:05.569 --> 00:05:10.310
+the time and then you know I sketched
+
+00:05:07.849 --> 00:05:12.319
+out an idea and then I made it work and
+
+00:05:10.310 --> 00:05:13.909
+then at the end of like two days it was
+
+00:05:12.319 --> 00:05:16.250
+playable and I was like I might as well
+
+00:05:13.909 --> 00:05:17.360
+just I'm still here might as well just
+
+00:05:16.250 --> 00:05:20.240
+keep trying to make it a little bit
+
+00:05:17.360 --> 00:05:21.710
+better so yeah and it was also a great
+
+00:05:20.240 --> 00:05:23.210
+reminder that even like the worst games
+
+00:05:21.710 --> 00:05:25.610
+you've ever played as long as they
+
+00:05:23.210 --> 00:05:29.690
+worked like a lot of a lot of work went
+
+00:05:25.610 --> 00:05:31.310
+into them anyway so that's it'll happen
+
+00:05:29.690 --> 00:05:33.349
+perhaps at some point you'll see that
+
+00:05:31.310 --> 00:05:37.180
+either way it's a milestone for me so
+
+00:05:33.349 --> 00:05:39.860
+I'm I'm kind of like nerdily like really
+
+00:05:37.180 --> 00:05:41.569
+pleased with myself so this is a tough
+
+00:05:39.860 --> 00:05:44.270
+situation we're in such a good spot
+
+00:05:41.569 --> 00:05:46.639
+regardless but do you take too ality
+
+00:05:44.270 --> 00:05:49.940
+followed by Abaddon that's probably like
+
+00:05:46.639 --> 00:05:52.550
+position a do you take Abaddon reroll
+
+00:05:49.940 --> 00:05:56.089
+duality and then hope to get something
+
+00:05:52.550 --> 00:05:57.289
+else in the in the duality slot that's a
+
+00:05:56.089 --> 00:05:59.569
+little better even knowing you're going
+
+00:05:57.289 --> 00:06:01.639
+to play play black arts or pay black
+
+00:05:59.569 --> 00:06:04.969
+cards for it or do you reroll both of
+
+00:06:01.639 --> 00:06:08.990
+these I think you probably go position a
+
+00:06:04.969 --> 00:06:10.879
+I don't really like duality that much to
+
+00:06:08.990 --> 00:06:14.659
+be honest sin Viktor and I disagree on
+
+00:06:10.879 --> 00:06:16.550
+many items he told me duality is like a
+
+00:06:14.659 --> 00:06:19.279
+ten out of ten I disagree with him he's
+
+00:06:16.550 --> 00:06:20.690
+not well I mean he might be wrong but I
+
+00:06:19.279 --> 00:06:23.539
+hesitate to say he's wrong because it's
+
+00:06:20.690 --> 00:06:25.690
+not like sin Victor's like a two out of
+
+00:06:23.539 --> 00:06:28.219
+ten Isaac player you know he's had
+
+00:06:25.690 --> 00:06:30.289
+triple digit streaks as well just a
+
+00:06:28.219 --> 00:06:32.270
+different playstyles or different things
+
+00:06:30.289 --> 00:06:34.310
+you're looking for I suppose but I don't
+
+00:06:32.270 --> 00:06:35.690
+see it at all he also told me coupon is
+
+00:06:34.310 --> 00:06:36.979
+like a ten out of ten because it helps
+
+00:06:35.690 --> 00:06:38.660
+to get free deals with the devil and I'm
+
+00:06:36.979 --> 00:06:40.580
+out see you buddy but
+
+00:06:38.660 --> 00:06:42.500
+I took his word for it for a while and
+
+00:06:40.580 --> 00:06:44.750
+ended up getting burned myself I think
+
+00:06:42.500 --> 00:06:46.250
+just just thinking that it was good but
+
+00:06:44.750 --> 00:06:48.680
+again different strokes for different
+
+00:06:46.250 --> 00:06:50.120
+folks it's possible he over rates those
+
+00:06:48.680 --> 00:06:50.750
+as possible ion to rate them it's
+
+00:06:50.120 --> 00:06:52.190
+possible
+
+00:06:50.750 --> 00:06:53.750
+perhaps that both are happening at the
+
+00:06:52.190 --> 00:06:57.770
+same time we are disparate individuals
+
+00:06:53.750 --> 00:07:01.280
+for their own tastes and preferences as
+
+00:06:57.770 --> 00:07:02.720
+we head downwards here I don't feel bad
+
+00:07:01.280 --> 00:07:04.940
+about this because you're going to be
+
+00:07:02.720 --> 00:07:08.060
+like and now these runs are too easy
+
+00:07:04.940 --> 00:07:10.220
+it's like comical how easy they are yeah
+
+00:07:08.060 --> 00:07:12.500
+but i'm these are the perfect runs for
+
+00:07:10.220 --> 00:07:14.810
+being out of practice like yeah do we
+
+00:07:12.500 --> 00:07:16.640
+have an above average rate of fire maybe
+
+00:07:14.810 --> 00:07:20.060
+close to triple our usual damage for
+
+00:07:16.640 --> 00:07:23.000
+this point of the game and 2020 as well
+
+00:07:20.060 --> 00:07:24.440
+effectively doubling not only our rate
+
+00:07:23.000 --> 00:07:28.340
+of fire but also the damage we do as
+
+00:07:24.440 --> 00:07:32.140
+well well that one's mildly Falls that's
+
+00:07:28.340 --> 00:07:35.840
+that's a spirit of spurious claim
+
+00:07:32.140 --> 00:07:38.450
+because I don't think 2020 doubles your
+
+00:07:35.840 --> 00:07:40.010
+your rate of fire or damage it's sorted
+
+00:07:38.450 --> 00:07:42.080
+does because the shots aren't far away
+
+00:07:40.010 --> 00:07:44.510
+but it's probably more like you know 1.8
+
+00:07:42.080 --> 00:07:47.590
+or something but if you're talking
+
+00:07:44.510 --> 00:07:52.010
+integers and not floats then okay sure
+
+00:07:47.590 --> 00:07:53.840
+although like the if you cast a a float
+
+00:07:52.010 --> 00:07:55.370
+as an integer does it get truncated or
+
+00:07:53.840 --> 00:07:56.930
+rounded this see that's like a job
+
+00:07:55.370 --> 00:07:59.180
+interview question I don't know that one
+
+00:07:56.930 --> 00:08:04.340
+all I know is the sound it makes when it
+
+00:07:59.180 --> 00:08:05.090
+takes a man's life okay now I don't want
+
+00:08:04.340 --> 00:08:07.010
+power pill
+
+00:08:05.090 --> 00:08:08.570
+puberty's fine question marks are
+
+00:08:07.010 --> 00:08:10.280
+irrelevant you know what get out of your
+
+00:08:08.570 --> 00:08:13.940
+Tower card that's that's our new dumping
+
+00:08:10.280 --> 00:08:16.790
+ground in that room so it is pretty much
+
+00:08:13.940 --> 00:08:18.440
+impossible for us to lose this run it's
+
+00:08:16.790 --> 00:08:20.030
+it's also I know that we've been having
+
+00:08:18.440 --> 00:08:21.230
+a lot of Isaac runs have been very fast
+
+00:08:20.030 --> 00:08:23.870
+lately
+
+00:08:21.230 --> 00:08:27.470
+and it's it's not my intention to be
+
+00:08:23.870 --> 00:08:29.240
+speeding through these the problem
+
+00:08:27.470 --> 00:08:31.220
+becomes you know if your run is even
+
+00:08:29.240 --> 00:08:33.200
+like mildly glass cannon II you just
+
+00:08:31.220 --> 00:08:35.599
+can't fight hush and you know you
+
+00:08:33.200 --> 00:08:37.849
+probably don't want to fight delirium
+
+00:08:35.599 --> 00:08:39.620
+but you have to expect delirium will not
+
+00:08:37.849 --> 00:08:41.750
+show up anyway except in situations
+
+00:08:39.620 --> 00:08:43.460
+where it seems like you definitely
+
+00:08:41.750 --> 00:08:45.170
+shouldn't do it there by you know giving
+
+00:08:43.460 --> 00:08:47.330
+you the Sophie's Choice of the whole
+
+00:08:45.170 --> 00:08:50.240
+situation that was just god-awful damage
+
+00:08:47.330 --> 00:08:52.220
+so it's kind of hard not to go fast when
+
+00:08:50.240 --> 00:08:52.490
+you're when your stats are ballin like
+
+00:08:52.220 --> 00:08:55.190
+this
+
+00:08:52.490 --> 00:08:56.779
+that's what I'm trying to say but this
+
+00:08:55.190 --> 00:09:01.520
+floor definitely you know we got to item
+
+00:08:56.779 --> 00:09:06.649
+rooms left one shop keep an eye out for
+
+00:09:01.520 --> 00:09:10.330
+steam sales shorty something one shut up
+
+00:09:06.649 --> 00:09:14.600
+see it's not a good reference - nas nas
+
+00:09:10.330 --> 00:09:18.890
+can I tell you something my parents are
+
+00:09:14.600 --> 00:09:22.010
+and I'm les this be seen I know some
+
+00:09:18.890 --> 00:09:24.170
+people you know they didn't have great
+
+00:09:22.010 --> 00:09:25.370
+up rings or they have other reasons to
+
+00:09:24.170 --> 00:09:26.870
+disparage their parents I'm not
+
+00:09:25.370 --> 00:09:28.459
+disparaging my parents at all what I am
+
+00:09:26.870 --> 00:09:30.500
+though is mining their experience or
+
+00:09:28.459 --> 00:09:34.850
+humor and I hope that if they ever saw
+
+00:09:30.500 --> 00:09:40.130
+this they would feel the same way but my
+
+00:09:34.850 --> 00:09:42.920
+parents are uniquely just mildly out of
+
+00:09:40.130 --> 00:09:45.440
+touch technologically in ways that are
+
+00:09:42.920 --> 00:09:50.089
+hilarious to me let me explain first off
+
+00:09:45.440 --> 00:09:52.040
+I had to set up their wireless printer
+
+00:09:50.089 --> 00:09:54.589
+for them that's I think a fairly common
+
+00:09:52.040 --> 00:09:56.029
+story you know what I had to do I had to
+
+00:09:54.589 --> 00:09:57.649
+enter the Wi-Fi password into the
+
+00:09:56.029 --> 00:09:59.390
+wireless printer you know no harm no
+
+00:09:57.649 --> 00:10:01.279
+foul they can both drive a stick-shift
+
+00:09:59.390 --> 00:10:02.480
+than I can but I just thought it was
+
+00:10:01.279 --> 00:10:03.829
+funny I was like if you entered your
+
+00:10:02.480 --> 00:10:05.420
+wireless password and they're like we
+
+00:10:03.829 --> 00:10:08.029
+don't know and I was like alright I got
+
+00:10:05.420 --> 00:10:10.279
+like a 99% confidence that I can solve
+
+00:10:08.029 --> 00:10:12.560
+this problem for you so that wasn't that
+
+00:10:10.279 --> 00:10:15.290
+was nice and it worked out the other
+
+00:10:12.560 --> 00:10:18.290
+thing is here's how my parents listened
+
+00:10:15.290 --> 00:10:20.570
+to music in the car they have all their
+
+00:10:18.290 --> 00:10:23.270
+music loaded like the car has a hard
+
+00:10:20.570 --> 00:10:27.500
+drive that it can play from for its
+
+00:10:23.270 --> 00:10:30.620
+stereo what they do is they play the
+
+00:10:27.500 --> 00:10:33.560
+music alphabetically starting at letter
+
+00:10:30.620 --> 00:10:36.709
+A and then just going through the whole
+
+00:10:33.560 --> 00:10:38.630
+collection I think I'd rather re-roll
+
+00:10:36.709 --> 00:10:42.410
+the library again going through the
+
+00:10:38.630 --> 00:10:45.130
+whole collection based on song name so
+
+00:10:42.410 --> 00:10:48.440
+you know starts and it's like you know
+
+00:10:45.130 --> 00:10:49.730
+Alabama woman Mississippi man and I'm
+
+00:10:48.440 --> 00:10:52.730
+just I'm trying to think of songs at all
+
+00:10:49.730 --> 00:10:55.160
+basically it took like four days for us
+
+00:10:52.730 --> 00:10:56.720
+to get from the A's to the B's and then
+
+00:10:55.160 --> 00:10:58.399
+the second thing it was like this is a
+
+00:10:56.720 --> 00:11:00.650
+rudimentary so at least have a playlist
+
+00:10:58.399 --> 00:11:02.300
+or you know play by artist or something
+
+00:11:00.650 --> 00:11:04.040
+this is you're really going through your
+
+00:11:02.300 --> 00:11:06.250
+whole collection letter by letter that's
+
+00:11:04.040 --> 00:11:10.460
+like a gargantuan task
+
+00:11:06.250 --> 00:11:12.560
+but then they and I don't blame them for
+
+00:11:10.460 --> 00:11:14.360
+this because you know I don't have a
+
+00:11:12.560 --> 00:11:16.610
+music collection I just have Google Play
+
+00:11:14.360 --> 00:11:18.620
+I'm limited or whatever which I think
+
+00:11:16.610 --> 00:11:21.260
+they should give us for free is YouTube
+
+00:11:18.620 --> 00:11:22.670
+partners but I digress anyway so the put
+
+00:11:21.260 --> 00:11:24.140
+enough that YouTube Partner means
+
+00:11:22.670 --> 00:11:28.220
+anything in this day and age I guess but
+
+00:11:24.140 --> 00:11:29.839
+anyway the point is my music collection
+
+00:11:28.220 --> 00:11:31.700
+might have one was disorganized as well
+
+00:11:29.839 --> 00:11:34.880
+but they have duplicates so it'll play
+
+00:11:31.700 --> 00:11:36.589
+like you know back in the USSR and then
+
+00:11:34.880 --> 00:11:38.750
+it'll go into the next track and it'll
+
+00:11:36.589 --> 00:11:41.570
+be like den nnnn and you're like oh it's
+
+00:11:38.750 --> 00:11:44.000
+back in the USSR again and then do it
+
+00:11:41.570 --> 00:11:45.800
+again it would be like okay so third
+
+00:11:44.000 --> 00:11:47.750
+time is back in the USSR and then you'll
+
+00:11:45.800 --> 00:11:50.600
+hear dananananana and you're like oh
+
+00:11:47.750 --> 00:11:52.160
+this is back in the USSR live so
+
+00:11:50.600 --> 00:11:57.410
+sometimes it would take like four or
+
+00:11:52.160 --> 00:11:59.300
+five oh it's got to be real old baby I
+
+00:11:57.410 --> 00:12:05.480
+love you way but I'm gonna reroll you
+
+00:11:59.300 --> 00:12:12.010
+anyway is okay yeah that's more like it
+
+00:12:05.480 --> 00:12:14.600
+um certainly I will take the Steam sale
+
+00:12:12.010 --> 00:12:16.100
+but yeah so you'd end up you'd hear a
+
+00:12:14.600 --> 00:12:18.200
+song and then you'd hear like the
+
+00:12:16.100 --> 00:12:20.089
+opening couple of bars of it many many
+
+00:12:18.200 --> 00:12:21.980
+times in a row I thought that was very
+
+00:12:20.089 --> 00:12:24.290
+funny I didn't bring it up to them
+
+00:12:21.980 --> 00:12:25.760
+because that's a problem that I don't
+
+00:12:24.290 --> 00:12:27.020
+want to I don't want them to be aware of
+
+00:12:25.760 --> 00:12:29.600
+if they're content with it then that's
+
+00:12:27.020 --> 00:12:31.970
+cool I don't want to be involved in the
+
+00:12:29.600 --> 00:12:33.260
+solution process for that because it's
+
+00:12:31.970 --> 00:12:35.540
+gonna be like oh what do you do oh well
+
+00:12:33.260 --> 00:12:37.339
+rip all the music out of your car and
+
+00:12:35.540 --> 00:12:38.990
+then what you do is you're gonna like
+
+00:12:37.339 --> 00:12:40.430
+you know plug a USB Drive into your
+
+00:12:38.990 --> 00:12:43.190
+computer and you're only going to drag
+
+00:12:40.430 --> 00:12:46.880
+in you know like unique songs not
+
+00:12:43.190 --> 00:12:49.610
+duplicates and no just one day I will be
+
+00:12:46.880 --> 00:12:51.980
+there I'm sort of already there to the
+
+00:12:49.610 --> 00:12:54.620
+extent that I only listen to like two
+
+00:12:51.980 --> 00:12:57.589
+albums and for a while I would do that
+
+00:12:54.620 --> 00:13:01.490
+like I would go to youtube like YouTube
+
+00:12:57.589 --> 00:13:03.470
+of Brian Eno's ambien one music for
+
+00:13:01.490 --> 00:13:07.250
+airports you know I didn't say it out
+
+00:13:03.470 --> 00:13:12.410
+loud is I'm not a hundred but we got
+
+00:13:07.250 --> 00:13:13.820
+here but my parents they have crossed I
+
+00:13:12.410 --> 00:13:15.020
+realize I'm talking a lot about my
+
+00:13:13.820 --> 00:13:17.360
+parents these episodes but I hope that
+
+00:13:15.020 --> 00:13:18.920
+it's like you know it's my nipple for
+
+00:13:17.360 --> 00:13:19.750
+humor in a way that's inoffensive but
+
+00:13:18.920 --> 00:13:21.460
+also
+
+00:13:19.750 --> 00:13:23.530
+love lifting in many ways you know a
+
+00:13:21.460 --> 00:13:25.120
+good tale of the domestic situation gone
+
+00:13:23.530 --> 00:13:27.340
+right is that another puberty you know
+
+00:13:25.120 --> 00:13:28.960
+it's reported our energy so good if I
+
+00:13:27.340 --> 00:13:32.350
+can find our library again on this curse
+
+00:13:28.960 --> 00:13:34.840
+of the lost but there'd amnesia when I
+
+00:13:32.350 --> 00:13:37.120
+was a kid and a lot of people I'm
+
+00:13:34.840 --> 00:13:39.220
+assuming that are around the same age as
+
+00:13:37.120 --> 00:13:44.130
+me and a little bit older I guess will
+
+00:13:39.220 --> 00:13:46.810
+be able to relate to this not worth it
+
+00:13:44.130 --> 00:13:48.280
+worth it although anything that gets hit
+
+00:13:46.810 --> 00:13:53.590
+is probably going to die anyway also
+
+00:13:48.280 --> 00:13:55.600
+worth it anyway we the way you used to
+
+00:13:53.590 --> 00:13:57.940
+get movies as you go to a video rental
+
+00:13:55.600 --> 00:13:59.620
+store like a blockbuster or a jumbo
+
+00:13:57.940 --> 00:14:02.410
+video by the way in my hometown there
+
+00:13:59.620 --> 00:14:04.090
+was a there were many blockbusters one
+
+00:14:02.410 --> 00:14:05.410
+of them has been rented out and has
+
+00:14:04.090 --> 00:14:07.420
+become something else the other one has
+
+00:14:05.410 --> 00:14:09.610
+been out of business since like 2008 and
+
+00:14:07.420 --> 00:14:11.890
+has not become anything else still just
+
+00:14:09.610 --> 00:14:13.750
+a weird old blockbuster with like the
+
+00:14:11.890 --> 00:14:17.020
+the reels on the windows and stuff like
+
+00:14:13.750 --> 00:14:19.840
+that but anyway you go to the video
+
+00:14:17.020 --> 00:14:21.220
+store how do you how do you know your
+
+00:14:19.840 --> 00:14:22.660
+parents are paying the bills so they're
+
+00:14:21.220 --> 00:14:26.650
+in charge of taking most of the movies
+
+00:14:22.660 --> 00:14:28.600
+least this way it worked in my house how
+
+00:14:26.650 --> 00:14:30.880
+do they choose what movie to watch I
+
+00:14:28.600 --> 00:14:33.130
+don't know about you guys my parents
+
+00:14:30.880 --> 00:14:36.160
+would like look at the cover of a movie
+
+00:14:33.130 --> 00:14:39.280
+and then be like this looks good enough
+
+00:14:36.160 --> 00:14:42.100
+to read the back audience peer at our
+
+00:14:39.280 --> 00:14:44.320
+what good could it be right and then
+
+00:14:42.100 --> 00:14:46.780
+they were to read the back and they'd be
+
+00:14:44.320 --> 00:14:49.210
+like this sounds good now you end up
+
+00:14:46.780 --> 00:14:51.610
+watching some movies that are actually
+
+00:14:49.210 --> 00:14:53.200
+good you know probably that's how we saw
+
+00:14:51.610 --> 00:14:56.770
+Slingblade or something like that
+
+00:14:53.200 --> 00:15:00.130
+fling play is a great film we also ended
+
+00:14:56.770 --> 00:15:02.650
+up watching like a lot of trash and to
+
+00:15:00.130 --> 00:15:05.230
+their credit they stuck with that style
+
+00:15:02.650 --> 00:15:08.410
+for a long time you know even they would
+
+00:15:05.230 --> 00:15:13.660
+be on Netflix as of a few years ago and
+
+00:15:08.410 --> 00:15:14.770
+they would be like we're going to like
+
+00:15:13.660 --> 00:15:16.570
+just look at the descriptions of things
+
+00:15:14.770 --> 00:15:21.730
+and see if they're good and it you know
+
+00:15:16.570 --> 00:15:23.710
+as a hipster effectively I was like you
+
+00:15:21.730 --> 00:15:25.960
+should really look at the adjusted metal
+
+00:15:23.710 --> 00:15:28.089
+score and but anyway you should go to
+
+00:15:25.960 --> 00:15:29.350
+Dan G fling comm slash movies and see
+
+00:15:28.089 --> 00:15:32.140
+what everybody's favorite Big Brother
+
+00:15:29.350 --> 00:15:35.480
+contestant thought of it
+
+00:15:32.140 --> 00:15:37.730
+but no now they obviously going to take
+
+00:15:35.480 --> 00:15:40.910
+the luck upgrade even at the cost of the
+
+00:15:37.730 --> 00:15:45.680
+spear at hard loss but now they look
+
+00:15:40.910 --> 00:15:47.030
+stuff up on Netflix on their TV because
+
+00:15:45.680 --> 00:15:48.620
+they have they have a smart TV which
+
+00:15:47.030 --> 00:15:51.740
+I'll admit that I don't even really know
+
+00:15:48.620 --> 00:15:55.370
+what that means it's a TV with apps I
+
+00:15:51.740 --> 00:16:00.680
+guess it's strange to me which means
+
+00:15:55.370 --> 00:16:02.060
+that I'm a hundred but anyway they to
+
+00:16:00.680 --> 00:16:03.170
+steam sales that's the dream right there
+
+00:16:02.060 --> 00:16:06.080
+now we really want to go to the hush
+
+00:16:03.170 --> 00:16:07.880
+fight they find something that looks
+
+00:16:06.080 --> 00:16:12.230
+good on Netflix and then they look it up
+
+00:16:07.880 --> 00:16:14.690
+on Rotten Tomatoes which I know not
+
+00:16:12.230 --> 00:16:16.610
+everybody man we got all the damage
+
+00:16:14.690 --> 00:16:17.960
+multipliers and they're all I mean after
+
+00:16:16.610 --> 00:16:19.340
+the first one they're not that good I
+
+00:16:17.960 --> 00:16:21.200
+understand people have a problem with
+
+00:16:19.340 --> 00:16:22.610
+Rotten Tomatoes trust me I understand
+
+00:16:21.200 --> 00:16:24.770
+that it's not you know if something gets
+
+00:16:22.610 --> 00:16:27.350
+100% it's the greatest movie ever made
+
+00:16:24.770 --> 00:16:29.930
+it just means it's very likeable at at a
+
+00:16:27.350 --> 00:16:31.430
+minimum but it's way better than just
+
+00:16:29.930 --> 00:16:33.890
+like looking at the box and being like
+
+00:16:31.430 --> 00:16:36.470
+you know all this movies got Danny
+
+00:16:33.890 --> 00:16:38.720
+DeVito winner die like that guy now how
+
+00:16:36.470 --> 00:16:41.090
+the heck did we end up watching Seth
+
+00:16:38.720 --> 00:16:43.490
+MacFarlane's a million ways to die in
+
+00:16:41.090 --> 00:16:45.170
+the West with this methodology I don't
+
+00:16:43.490 --> 00:16:50.630
+know it's got like a 33 percent on
+
+00:16:45.170 --> 00:16:52.130
+Rotten Tomatoes but I digress that's
+
+00:16:50.630 --> 00:16:55.220
+that's a story for another day
+
+00:16:52.130 --> 00:16:57.490
+so they have they're using the tools at
+
+00:16:55.220 --> 00:16:57.490
+their disposal
+
+00:16:58.390 --> 00:17:03.310
+I don't have anything really more to say
+
+00:17:01.870 --> 00:17:05.680
+you know what's funny is that you might
+
+00:17:03.310 --> 00:17:07.300
+think that I have like so got the adult
+
+00:17:05.680 --> 00:17:09.160
+transformation you might think that I
+
+00:17:07.300 --> 00:17:11.980
+have like some sense of superiority but
+
+00:17:09.160 --> 00:17:15.130
+I really don't because I had to print
+
+00:17:11.980 --> 00:17:17.860
+something out so you know if for two
+
+00:17:15.130 --> 00:17:19.570
+days I felt superior like oh I'm still
+
+00:17:17.860 --> 00:17:21.700
+hip and with technology I know how to
+
+00:17:19.570 --> 00:17:25.720
+install a wireless printer by putting in
+
+00:17:21.700 --> 00:17:26.950
+the Wi-Fi password like three days later
+
+00:17:25.720 --> 00:17:30.780
+I was like hey mom can I use your
+
+00:17:26.950 --> 00:17:32.830
+printer she was like yeah no problem
+
+00:17:30.780 --> 00:17:34.360
+which makes sense because I mean what
+
+00:17:32.830 --> 00:17:38.260
+did I use like you know 20 cents where
+
+00:17:34.360 --> 00:17:40.870
+the ink but anyway the point is takes
+
+00:17:38.260 --> 00:17:44.830
+takes all kinds you know we all got
+
+00:17:40.870 --> 00:17:46.780
+something to offer here I'll admit I'm a
+
+00:17:44.830 --> 00:17:48.400
+little out of touch technologically
+
+00:17:46.780 --> 00:17:53.290
+speaking I think I'm a little out of
+
+00:17:48.400 --> 00:17:56.370
+touch technologically speaking mostly
+
+00:17:53.290 --> 00:17:59.170
+because I'm on like a Canadian data plan
+
+00:17:56.370 --> 00:18:00.550
+we don't get unlimited data up here
+
+00:17:59.170 --> 00:18:02.500
+although it's starting to relax a little
+
+00:18:00.550 --> 00:18:04.000
+bit which is nice it's not because we
+
+00:18:02.500 --> 00:18:04.920
+live in the frozen north it's because
+
+00:18:04.000 --> 00:18:07.420
+you know we have like a
+
+00:18:04.920 --> 00:18:11.550
+Telecommunications Oleg ah Polly that
+
+00:18:07.420 --> 00:18:15.910
+you know keeps us keeps the man you know
+
+00:18:11.550 --> 00:18:18.280
+fingers around our throats here but so I
+
+00:18:15.910 --> 00:18:19.900
+I don't I guess the thing that's most
+
+00:18:18.280 --> 00:18:22.780
+related to my industry that I don't
+
+00:18:19.900 --> 00:18:24.790
+understand is I RL streaming that is
+
+00:18:22.780 --> 00:18:26.620
+something where I'm like I don't quite
+
+00:18:24.790 --> 00:18:29.860
+become the people who are like why would
+
+00:18:26.620 --> 00:18:32.110
+anybody watch anybody play video games
+
+00:18:29.860 --> 00:18:34.720
+you know I don't get to that level I'm
+
+00:18:32.110 --> 00:18:37.510
+more on the other side of I'm like he's
+
+00:18:34.720 --> 00:18:40.480
+yellow streamers like you got to take
+
+00:18:37.510 --> 00:18:41.440
+some time to not be on camera and I'm
+
+00:18:40.480 --> 00:18:43.090
+not telling you how to run your business
+
+00:18:41.440 --> 00:18:45.250
+because you know your audience way
+
+00:18:43.090 --> 00:18:46.780
+better than I do but at the same time
+
+00:18:45.250 --> 00:18:49.690
+when people are like hey we're doing an
+
+00:18:46.780 --> 00:18:51.730
+IRL stream it's me eating dinner at this
+
+00:18:49.690 --> 00:18:56.350
+you know Mexican restaurant out in town
+
+00:18:51.730 --> 00:18:59.410
+I'm like that scares me dude how long
+
+00:18:56.350 --> 00:19:02.890
+until like you live your whole life in
+
+00:18:59.410 --> 00:19:05.020
+the public eye like I like the division
+
+00:19:02.890 --> 00:19:07.630
+of labor that we've got going on here I
+
+00:19:05.020 --> 00:19:08.860
+make videos I try to be entertaining in
+
+00:19:07.630 --> 00:19:10.860
+the videos and I do the streams of
+
+00:19:08.860 --> 00:19:11.880
+course and
+
+00:19:10.860 --> 00:19:14.400
+strength code we're not going to need
+
+00:19:11.880 --> 00:19:16.200
+that well we've really been more than
+
+00:19:14.400 --> 00:19:22.260
+hoggle ah use your brain for two seconds
+
+00:19:16.200 --> 00:19:24.660
+here okay and I try to be entertaining
+
+00:19:22.260 --> 00:19:26.520
+and then the video goes up and you know
+
+00:19:24.660 --> 00:19:31.049
+you either like it or you don't like it
+
+00:19:26.520 --> 00:19:33.210
+but you know that's that and then I you
+
+00:19:31.049 --> 00:19:35.100
+know at some point usually like a little
+
+00:19:33.210 --> 00:19:37.020
+later than my wife would like stop
+
+00:19:35.100 --> 00:19:39.600
+working for the day and I go you know
+
+00:19:37.020 --> 00:19:41.670
+take care of my household chores without
+
+00:19:39.600 --> 00:19:43.200
+a camera being on me without you know
+
+00:19:41.670 --> 00:19:46.080
+being forced to be funny and stuff like
+
+00:19:43.200 --> 00:19:49.370
+that or to try to be funny at least and
+
+00:19:46.080 --> 00:19:52.710
+I like that I admire the ability to
+
+00:19:49.370 --> 00:19:55.500
+admire is not the right word I cherish
+
+00:19:52.710 --> 00:19:59.100
+the ability to sometimes be away from
+
+00:19:55.500 --> 00:20:00.360
+the prying eyes of the internet even if
+
+00:19:59.100 --> 00:20:05.240
+it is a futile endeavor
+
+00:20:00.360 --> 00:20:08.360
+it's our third Steam sale so I mean I
+
+00:20:05.240 --> 00:20:11.730
+feel like we should try to re-roll it
+
+00:20:08.360 --> 00:20:15.120
+well see if that comes to fruition but
+
+00:20:11.730 --> 00:20:17.669
+like when people IRL stream like not not
+
+00:20:15.120 --> 00:20:18.390
+everybody IRL streams like their whole
+
+00:20:17.669 --> 00:20:20.970
+life
+
+00:20:18.390 --> 00:20:22.380
+some people they you know if you die RL
+
+00:20:20.970 --> 00:20:24.299
+stream like I hate saying that
+
+00:20:22.380 --> 00:20:25.620
+expression over and over but if you IRL
+
+00:20:24.299 --> 00:20:27.630
+stream like eight hours then you got
+
+00:20:25.620 --> 00:20:30.299
+eight hours off that's different but you
+
+00:20:27.630 --> 00:20:31.590
+know when you like okay I'm going out
+
+00:20:30.299 --> 00:20:33.240
+with my friend that you dinner and then
+
+00:20:31.590 --> 00:20:34.950
+you stream it oh my god are you really
+
+00:20:33.240 --> 00:20:36.660
+eating dinner with your friend or are
+
+00:20:34.950 --> 00:20:38.070
+you like making a product at that point
+
+00:20:36.660 --> 00:20:39.840
+and how does that make you feel I'm not
+
+00:20:38.070 --> 00:20:41.250
+saying you're like exploiting anybody
+
+00:20:39.840 --> 00:20:43.080
+I'm just I'm saying at the end of the
+
+00:20:41.250 --> 00:20:44.730
+day like don't you feel like you're
+
+00:20:43.080 --> 00:20:47.220
+trapped in some kind of like content
+
+00:20:44.730 --> 00:20:49.559
+prison of your own creation and do you
+
+00:20:47.220 --> 00:20:53.130
+feel like you have to do it because of
+
+00:20:49.559 --> 00:20:55.200
+the because you know that's that's the
+
+00:20:53.130 --> 00:20:56.790
+way to pay the bills or you like you
+
+00:20:55.200 --> 00:20:58.980
+want to do it like you want to live your
+
+00:20:56.790 --> 00:21:01.320
+whole life to this degree of you know
+
+00:20:58.980 --> 00:21:03.360
+the lack of any kind of anonymity I
+
+00:21:01.320 --> 00:21:05.850
+guess is what I'm trying to say we're
+
+00:21:03.360 --> 00:21:08.910
+getting into some this is like highly
+
+00:21:05.850 --> 00:21:10.820
+inside baseball at this point but that's
+
+00:21:08.910 --> 00:21:14.280
+that's where I'm out of touch I think
+
+00:21:10.820 --> 00:21:16.890
+that in like to some extent I don't
+
+00:21:14.280 --> 00:21:19.290
+understand Instagram and I think that
+
+00:21:16.890 --> 00:21:21.460
+the if you're a little younger than me a
+
+00:21:19.290 --> 00:21:24.010
+little too a lot younger than me
+
+00:21:21.460 --> 00:21:25.120
+as younger of me as you can be you
+
+00:21:24.010 --> 00:21:28.059
+probably are just lay this is like a
+
+00:21:25.120 --> 00:21:30.370
+photo sharing app but like I it's not
+
+00:21:28.059 --> 00:21:33.850
+just a photo sharing app right like
+
+00:21:30.370 --> 00:21:36.429
+there's a culture like you can get like
+
+00:21:33.850 --> 00:21:39.760
+a lot of followers on Instagram just for
+
+00:21:36.429 --> 00:21:41.200
+having a nice but is my experience it's
+
+00:21:39.760 --> 00:21:43.450
+not like that's not the case on YouTube
+
+00:21:41.200 --> 00:21:46.990
+I mean like lord knows I slept my way to
+
+00:21:43.450 --> 00:21:51.669
+the top at the top of the middle please
+
+00:21:46.990 --> 00:21:53.529
+but no like it's just it's not that I
+
+00:21:51.669 --> 00:21:55.529
+don't get it because I mean I get it you
+
+00:21:53.529 --> 00:21:58.029
+know butts have been a driving force in
+
+00:21:55.529 --> 00:22:01.149
+popularity for millions and millions of
+
+00:21:58.029 --> 00:22:03.820
+years but it seems like there's a lot of
+
+00:22:01.149 --> 00:22:06.970
+like but related content coming from
+
+00:22:03.820 --> 00:22:08.950
+Instagram maybe that's just maybe that's
+
+00:22:06.970 --> 00:22:11.020
+ignorant of me maybe that's all I see is
+
+00:22:08.950 --> 00:22:13.570
+the but related content maybe that says
+
+00:22:11.020 --> 00:22:15.309
+something for me it says something about
+
+00:22:13.570 --> 00:22:20.500
+me rather I mean there's some there's
+
+00:22:15.309 --> 00:22:23.110
+some choices here we didn't take the
+
+00:22:20.500 --> 00:22:26.289
+halo of life so I think we should not
+
+00:22:23.110 --> 00:22:27.730
+take sorry we didn't take the attack fly
+
+00:22:26.289 --> 00:22:29.350
+so I think we should not take halo flies
+
+00:22:27.730 --> 00:22:31.779
+because Beelzebub is less likely to show
+
+00:22:29.350 --> 00:22:34.090
+up as a result anyway here so instead I
+
+00:22:31.779 --> 00:22:35.409
+took dark bomb and I mean we probably
+
+00:22:34.090 --> 00:22:38.470
+would have been safe to take dark bomb
+
+00:22:35.409 --> 00:22:40.419
+anyway but it is also still very good
+
+00:22:38.470 --> 00:22:42.100
+and we found a use for strength here in
+
+00:22:40.419 --> 00:22:46.000
+giving us a little bit of a leg up on
+
+00:22:42.100 --> 00:22:49.510
+the competition like I don't really I'm
+
+00:22:46.000 --> 00:22:50.320
+just saying I don't get Instagram that
+
+00:22:49.510 --> 00:22:55.630
+that's about it
+
+00:22:50.320 --> 00:22:57.720
+I sort of get it well I don't know I
+
+00:22:55.630 --> 00:22:59.890
+sort of like don't get Facebook anymore
+
+00:22:57.720 --> 00:23:03.730
+Facebook if you're if you're a little on
+
+00:22:59.890 --> 00:23:06.549
+the younger side and I had to preface a
+
+00:23:03.730 --> 00:23:08.649
+lot of my conversations with that over
+
+00:23:06.549 --> 00:23:11.980
+the course of this episode but you know
+
+00:23:08.649 --> 00:23:13.809
+I was a I was a freshman in college when
+
+00:23:11.980 --> 00:23:18.340
+Facebook opened its doors to people that
+
+00:23:13.809 --> 00:23:20.289
+didn't just have a edu email addresses
+
+00:23:18.340 --> 00:23:22.390
+so Facebook was still like new and fresh
+
+00:23:20.289 --> 00:23:24.730
+you'd like you be at a party and you'd
+
+00:23:22.390 --> 00:23:25.779
+meet somebody and you would be like I'm
+
+00:23:24.730 --> 00:23:27.370
+going to add you on facebook and then
+
+00:23:25.779 --> 00:23:29.169
+you add them and you'd be like oh my god
+
+00:23:27.370 --> 00:23:30.309
+I know way too much about this person
+
+00:23:29.169 --> 00:23:32.500
+this is awesome
+
+00:23:30.309 --> 00:23:34.300
+and we're sharing photos and like you're
+
+00:23:32.500 --> 00:23:37.000
+clicking the like button while I was
+
+00:23:34.300 --> 00:23:41.080
+five for the you know the creation of
+
+00:23:37.000 --> 00:23:43.150
+the like button as well the point is
+
+00:23:41.080 --> 00:23:44.740
+like at that point it was like this is
+
+00:23:43.150 --> 00:23:47.170
+awesome it was like exactly the right
+
+00:23:44.740 --> 00:23:50.590
+age to for Facebook to be popping off
+
+00:23:47.170 --> 00:23:54.250
+and now I only see two kinds of posts on
+
+00:23:50.590 --> 00:23:55.450
+my facebook the one kind of post is
+
+00:23:54.250 --> 00:23:57.970
+political and I'm sure you're all
+
+00:23:55.450 --> 00:24:00.790
+experiencing those even whether you live
+
+00:23:57.970 --> 00:24:04.180
+in the US or overseas I promise you
+
+00:24:00.790 --> 00:24:06.940
+you're seeing them the other one is my
+
+00:24:04.180 --> 00:24:09.220
+friends and and spouses of friends who
+
+00:24:06.940 --> 00:24:12.010
+have had babies just post like a lot of
+
+00:24:09.220 --> 00:24:14.980
+mommy stuff like and I'm not saying in
+
+00:24:12.010 --> 00:24:17.650
+like the fetish sort of way you sickos
+
+00:24:14.980 --> 00:24:20.020
+rather you just like you won't believe
+
+00:24:17.650 --> 00:24:22.330
+this you know life hack that turns your
+
+00:24:20.020 --> 00:24:24.310
+crib into a full service diaper changing
+
+00:24:22.330 --> 00:24:29.400
+station and I'm like there is like some
+
+00:24:24.310 --> 00:24:32.020
+there's a mafia like El Cosa Nostra on
+
+00:24:29.400 --> 00:24:35.140
+Facebook of moms sharing tips and that's
+
+00:24:32.020 --> 00:24:39.400
+cool people disparage that and I'm
+
+00:24:35.140 --> 00:24:42.580
+disparaging it because like you know I
+
+00:24:39.400 --> 00:24:44.380
+don't want to see that but I can choose
+
+00:24:42.580 --> 00:24:45.940
+not to see that you know if you're
+
+00:24:44.380 --> 00:24:47.800
+posting pictures of your kids I can be
+
+00:24:45.940 --> 00:24:48.280
+like you know unfollow or whatever it
+
+00:24:47.800 --> 00:24:49.840
+doesn't matter
+
+00:24:48.280 --> 00:24:52.360
+I think it's cool it like you know if
+
+00:24:49.840 --> 00:24:53.860
+you're if you're a young mom you know
+
+00:24:52.360 --> 00:24:55.570
+maybe you're like well you if you're my
+
+00:24:53.860 --> 00:24:57.730
+age you're like twenty eight not all
+
+00:24:55.570 --> 00:24:59.260
+your friends have babies at this point
+
+00:24:57.730 --> 00:25:00.460
+and you got to spend a lot of time with
+
+00:24:59.260 --> 00:25:03.700
+your baby that's something a babies
+
+00:25:00.460 --> 00:25:06.160
+they're a selfish they're an exit to
+
+00:25:03.700 --> 00:25:09.490
+this other still this guy there's a lot
+
+00:25:06.160 --> 00:25:11.710
+of a lot of time that goes into having a
+
+00:25:09.490 --> 00:25:13.780
+baby you spend time at home you're
+
+00:25:11.710 --> 00:25:15.690
+isolated you want to cultivate a social
+
+00:25:13.780 --> 00:25:18.040
+network even if it's only digitally
+
+00:25:15.690 --> 00:25:18.420
+that's what I think that that's not so
+
+00:25:18.040 --> 00:25:20.620
+bad
+
+00:25:18.420 --> 00:25:24.610
+you know when people post the pictures
+
+00:25:20.620 --> 00:25:26.080
+of themselves or they like their
+
+00:25:24.610 --> 00:25:28.270
+parenting tips or something like that
+
+00:25:26.080 --> 00:25:30.160
+doesn't bother me that much when I was
+
+00:25:28.270 --> 00:25:32.410
+like 23 I was a little smarmy about it
+
+00:25:30.160 --> 00:25:35.320
+you know how to why did we pick up moms
+
+00:25:32.410 --> 00:25:38.080
+I your idiot
+
+00:25:35.320 --> 00:25:40.150
+I don't want to see this people in my
+
+00:25:38.080 --> 00:25:42.010
+life that I used to be acquaintances
+
+00:25:40.150 --> 00:25:43.630
+with our having children and I sir I
+
+00:25:42.010 --> 00:25:44.200
+didn't sign up to this website to see
+
+00:25:43.630 --> 00:25:46.480
+children
+
+00:25:44.200 --> 00:25:47.950
+it's an enormous inconvenience so later
+
+00:25:46.480 --> 00:25:49.600
+my filet mignons Cole
+
+00:25:47.950 --> 00:25:55.179
+you know like it's not that big of a
+
+00:25:49.600 --> 00:25:57.789
+deal but at the time I was maybe like a
+
+00:25:55.179 --> 00:26:00.130
+little will smarmy about it great name
+
+00:25:57.789 --> 00:26:08.590
+for us an out-of-touch rapper as well
+
+00:26:00.130 --> 00:26:11.980
+we'll smarmy the chicken or fish oil has
+
+00:26:08.590 --> 00:26:14.500
+elapsed to please what is that voice and
+
+00:26:11.980 --> 00:26:17.110
+can I do it again ahead to that you
+
+00:26:14.500 --> 00:26:19.029
+please that's not quite the same there
+
+00:26:17.110 --> 00:26:20.500
+is a unique sort of like Kermit the Frog
+
+00:26:19.029 --> 00:26:22.690
+--is-- nips in your voice the first time
+
+00:26:20.500 --> 00:26:25.450
+that I'd like to return to it possible
+
+00:26:22.690 --> 00:26:28.059
+so with moms I apparently we're shooting
+
+00:26:25.450 --> 00:26:32.679
+behind us every single time so we got to
+
+00:26:28.059 --> 00:26:34.539
+be very cautious about this but Facebook
+
+00:26:32.679 --> 00:26:37.029
+basically sucks now I don't know maybe
+
+00:26:34.539 --> 00:26:40.090
+it's like Facebook sucks when you're
+
+00:26:37.029 --> 00:26:43.600
+over the age of like 22 but it was kind
+
+00:26:40.090 --> 00:26:45.690
+of getting there for sure because here's
+
+00:26:43.600 --> 00:26:49.269
+like the evolution of my facebook
+
+00:26:45.690 --> 00:26:51.250
+network everybody at this point either
+
+00:26:49.269 --> 00:26:53.649
+post mom stuff political stuff or they
+
+00:26:51.250 --> 00:26:57.309
+stop posting but if you started like age
+
+00:26:53.649 --> 00:26:59.169
+18 it was like making events going cool
+
+00:26:57.309 --> 00:27:00.460
+photo posted on people's walls hey what
+
+00:26:59.169 --> 00:27:02.019
+are you doing tonight you know come over
+
+00:27:00.460 --> 00:27:04.090
+to the quad I don't think my school had
+
+00:27:02.019 --> 00:27:09.490
+a quad but anyway you get the idea
+
+00:27:04.090 --> 00:27:11.679
+then by like 20 it was like graduation
+
+00:27:09.490 --> 00:27:13.299
+like by the way I got a job offer and
+
+00:27:11.679 --> 00:27:14.620
+Ornstein yelling and nearly okay so
+
+00:27:13.299 --> 00:27:17.110
+that's cool like I want to know what you
+
+00:27:14.620 --> 00:27:21.399
+guys are up to then it like 22 it was
+
+00:27:17.110 --> 00:27:25.720
+like just photos of people like in
+
+00:27:21.399 --> 00:27:28.630
+volleyball if--and you're like well this
+
+00:27:25.720 --> 00:27:32.169
+is just becoming braggadocious I haven't
+
+00:27:28.630 --> 00:27:34.389
+spoken to you in you know six years and
+
+00:27:32.169 --> 00:27:35.830
+now there's all these photos of you just
+
+00:27:34.389 --> 00:27:37.809
+like hanging out on the beach or
+
+00:27:35.830 --> 00:27:39.490
+something like I'm not disparaging your
+
+00:27:37.809 --> 00:27:40.630
+ability to hang out on the beach I'm
+
+00:27:39.490 --> 00:27:44.110
+just saying like I'm not sure I need to
+
+00:27:40.630 --> 00:27:45.370
+see these and then it's like I met the
+
+00:27:44.110 --> 00:27:48.630
+most beautiful man in the world you know
+
+00:27:45.370 --> 00:27:52.750
+y'all have sweet and then it's like
+
+00:27:48.630 --> 00:27:54.519
+mommy stuff or political stuff if you've
+
+00:27:52.750 --> 00:27:56.980
+made the decision to not have children
+
+00:27:54.519 --> 00:27:58.389
+maybe that's I'm not going to risk going
+
+00:27:56.980 --> 00:28:00.370
+back to that if you got something for me
+
+00:27:58.389 --> 00:28:01.660
+let me know if you've made the decision
+
+00:28:00.370 --> 00:28:03.220
+and not have children your poster
+
+00:28:01.660 --> 00:28:04.750
+political stuff if you're posting at all
+
+00:28:03.220 --> 00:28:06.610
+if you've made the decision to have
+
+00:28:04.750 --> 00:28:09.090
+children you're posting mommy stuff if
+
+00:28:06.610 --> 00:28:12.430
+you're posting anything at all that's a
+
+00:28:09.090 --> 00:28:18.670
+little spooky there that's my my
+
+00:28:12.430 --> 00:28:20.080
+facebook experience in 2017 so I think
+
+00:28:18.670 --> 00:28:22.840
+we should take this and then hopefully
+
+00:28:20.080 --> 00:28:24.970
+get something amazing for free which is
+
+00:28:22.840 --> 00:28:33.520
+exactly what flipping happened there so
+
+00:28:24.970 --> 00:28:36.400
+like that's pretty dope twitter is
+
+00:28:33.520 --> 00:28:39.100
+definitely like what are we on run utero
+
+00:28:36.400 --> 00:28:40.360
+one so we could fight mega Satan I kind
+
+00:28:39.100 --> 00:28:43.030
+of want to reroll this into something
+
+00:28:40.360 --> 00:28:46.390
+cool but I'll give myself the chance at
+
+00:28:43.030 --> 00:28:47.230
+least to fight mega Satan we definitely
+
+00:28:46.390 --> 00:28:49.600
+want to go fight hush because
+
+00:28:47.230 --> 00:28:54.940
+everything's free if we can have the HP
+
+00:28:49.600 --> 00:28:56.620
+necessary to swing it at least Twitter
+
+00:28:54.940 --> 00:28:59.290
+is the social network for me because
+
+00:28:56.620 --> 00:29:04.540
+it's like a nihilist social network
+
+00:28:59.290 --> 00:29:06.460
+where everything you post is it's not so
+
+00:29:04.540 --> 00:29:08.740
+bad actually everything you post is a
+
+00:29:06.460 --> 00:29:10.360
+satirical sort of thing and also the
+
+00:29:08.740 --> 00:29:13.540
+subtext is like we're all going to die
+
+00:29:10.360 --> 00:29:15.490
+someday it's like the most Hegelian
+
+00:29:13.540 --> 00:29:17.980
+social network out there which which
+
+00:29:15.490 --> 00:29:19.710
+appeals to me I hate to do this but I
+
+00:29:17.980 --> 00:29:22.120
+basically have to sit here and play this
+
+00:29:19.710 --> 00:29:23.800
+slot machine to get enough HP to survive
+
+00:29:22.120 --> 00:29:25.060
+the hush fight holy Mantle's going to
+
+00:29:23.800 --> 00:29:27.340
+help out a great deal but we're probably
+
+00:29:25.060 --> 00:29:29.140
+going to take a hit from our imp attack
+
+00:29:27.340 --> 00:29:30.310
+on every single room so the real goal is
+
+00:29:29.140 --> 00:29:40.140
+to just get through it like as quickly
+
+00:29:30.310 --> 00:29:40.140
+as possible I mean that's about it
+
+00:29:41.000 --> 00:29:44.120
+don't have anything more to say about
+
+00:29:42.500 --> 00:29:46.520
+the situation than that I mean like is
+
+00:29:44.120 --> 00:29:48.350
+there a more a more tired sort of
+
+00:29:46.520 --> 00:29:54.170
+conversation at this point in time than
+
+00:29:48.350 --> 00:29:57.580
+hey BAE Facebook is bad but you know we
+
+00:29:54.170 --> 00:29:57.580
+are Facebook dude we did it to ourselves
+
+00:29:59.500 --> 00:30:05.360
+I kind of wanted to handle this in a
+
+00:30:04.010 --> 00:30:06.820
+slightly different way but basically I
+
+00:30:05.360 --> 00:30:09.980
+wanted to use the sun cards that had
+
+00:30:06.820 --> 00:30:12.860
+made it possible for me to see the map
+
+00:30:09.980 --> 00:30:15.110
+but also go check out you know possibly
+
+00:30:12.860 --> 00:30:16.220
+kill a room at the same time so it was
+
+00:30:15.110 --> 00:30:20.210
+unfortunately just ended up fighting
+
+00:30:16.220 --> 00:30:23.450
+enemies that don't die that easily the
+
+00:30:20.210 --> 00:30:24.920
+problem with Facebook is that you know
+
+00:30:23.450 --> 00:30:26.990
+if you want to have an honest Facebook
+
+00:30:24.920 --> 00:30:30.710
+experience there's only like two options
+
+00:30:26.990 --> 00:30:32.900
+if you only post the good stuff you're
+
+00:30:30.710 --> 00:30:34.640
+bragging you know I'm guilty of Facebook
+
+00:30:32.900 --> 00:30:38.240
+bragging good editing my younger days
+
+00:30:34.640 --> 00:30:41.270
+for sure you know definitely when I went
+
+00:30:38.240 --> 00:30:43.370
+to Iceland took a picture of my like
+
+00:30:41.270 --> 00:30:45.170
+media name tag and looks like just have
+
+00:30:43.370 --> 00:30:47.090
+a couple days in Iceland you know like
+
+00:30:45.170 --> 00:30:49.190
+it's no big deal inside I was like this
+
+00:30:47.090 --> 00:30:50.900
+is the biggest deal but if you only post
+
+00:30:49.190 --> 00:30:52.940
+the good stuff you're bragging and the
+
+00:30:50.900 --> 00:30:55.030
+only purpose of bragging is not to keep
+
+00:30:52.940 --> 00:30:57.410
+people posted it's to make other people
+
+00:30:55.030 --> 00:31:01.280
+envious of you which is a very base
+
+00:30:57.410 --> 00:31:03.710
+level bad look but if you post
+
+00:31:01.280 --> 00:31:06.500
+everything it's too much information you
+
+00:31:03.710 --> 00:31:08.600
+know if you if you put the good stuff up
+
+00:31:06.500 --> 00:31:12.110
+there the mundane stuff which is 99
+
+00:31:08.600 --> 00:31:13.400
+percent of it and then the good stuff as
+
+00:31:12.110 --> 00:31:14.900
+well the good stuff the bad stuff in the
+
+00:31:13.400 --> 00:31:17.150
+mundane stuff you're going to be posting
+
+00:31:14.900 --> 00:31:18.680
+non-stop having a turkey salad sandwich
+
+00:31:17.150 --> 00:31:22.820
+today and then nobody wants to see that
+
+00:31:18.680 --> 00:31:24.200
+I guess the other uses you could put
+
+00:31:22.820 --> 00:31:27.230
+like song lyrics up there or something
+
+00:31:24.200 --> 00:31:29.030
+but yeah you'll get over that I promise
+
+00:31:27.230 --> 00:31:31.910
+ok so we should try to make the hush
+
+00:31:29.030 --> 00:31:33.410
+fight I just realized that's fine that's
+
+00:31:31.910 --> 00:31:35.600
+fine just realize that spent a lot of
+
+00:31:33.410 --> 00:31:37.100
+time in here so let's go try to make
+
+00:31:35.600 --> 00:31:40.510
+that happen we got the damage necessary
+
+00:31:37.100 --> 00:31:40.510
+to make it happen so that's ok
+
+00:31:44.490 --> 00:31:51.520
+definitely like if you got met people in
+
+00:31:49.480 --> 00:31:54.370
+college that were like I don't have a
+
+00:31:51.520 --> 00:31:56.140
+Facebook and you're like wow weird why
+
+00:31:54.370 --> 00:31:58.900
+would you not have a Facebook it's like
+
+00:31:56.140 --> 00:32:01.210
+a social necessity to have a Facebook
+
+00:31:58.900 --> 00:32:02.920
+not not like you're being a social
+
+00:32:01.210 --> 00:32:04.900
+butterfly necessarily but just like
+
+00:32:02.920 --> 00:32:08.350
+that's how people get in touch and like
+
+00:32:04.900 --> 00:32:11.710
+have events and stuff like that it's
+
+00:32:08.350 --> 00:32:13.660
+important it did sort of was at the time
+
+00:32:11.710 --> 00:32:15.820
+as weird as that sounds in hindsight but
+
+00:32:13.660 --> 00:32:18.010
+now you know people are like I don't
+
+00:32:15.820 --> 00:32:20.130
+have a Facebook I'm like you are let's
+
+00:32:18.010 --> 00:32:22.660
+hang out like can you give me your
+
+00:32:20.130 --> 00:32:24.130
+telephone numbers so we can have some
+
+00:32:22.660 --> 00:32:28.810
+conversations because it seems like you
+
+00:32:24.130 --> 00:32:31.690
+got your head screwed on straight you
+
+00:32:28.810 --> 00:32:32.950
+mean you don't have to tell people you
+
+00:32:31.690 --> 00:32:35.790
+haven't seen in 12 years that you're
+
+00:32:32.950 --> 00:32:38.590
+going to Cabo San Lucas for a weekend I
+
+00:32:35.790 --> 00:32:40.390
+didn't know that that was in the in the
+
+00:32:38.590 --> 00:32:47.380
+social contract that you could just opt
+
+00:32:40.390 --> 00:32:51.550
+out of that you mean you don't have to
+
+00:32:47.380 --> 00:32:54.430
+share a post of a wine bottle sized wine
+
+00:32:51.550 --> 00:32:56.920
+glass with the hashtag mom Eagles just
+
+00:32:54.430 --> 00:32:58.270
+because you signed on 9gag I thought
+
+00:32:56.920 --> 00:33:06.700
+that was like written into the
+
+00:32:58.270 --> 00:33:07.900
+Constitution so I not a huge fan of this
+
+00:33:06.700 --> 00:33:10.420
+fight at this point but we made it
+
+00:33:07.900 --> 00:33:15.130
+happen and we like totally made it
+
+00:33:10.420 --> 00:33:17.290
+happen because we also managed to get
+
+00:33:15.130 --> 00:33:19.990
+the oh the doors going to be closed
+
+00:33:17.290 --> 00:33:21.250
+isn't it still we made a sacrifice for
+
+00:33:19.990 --> 00:33:23.800
+what I would consider to be like a
+
+00:33:21.250 --> 00:33:26.290
+mildly okay cause we got our deal with
+
+00:33:23.800 --> 00:33:27.730
+the devil or we got our deal with the
+
+00:33:26.290 --> 00:33:31.180
+angel I should say yeah that's a bummer
+
+00:33:27.730 --> 00:33:33.480
+I mean that's I missed it by six seconds
+
+00:33:31.180 --> 00:33:36.340
+you mean I miss my major by a couple of
+
+00:33:33.480 --> 00:33:38.650
+seconds so I'm in the shop class or the
+
+00:33:36.340 --> 00:33:41.170
+basket weaving with all the rest of them
+
+00:33:38.650 --> 00:33:43.860
+MF errs underachieving mother fathers
+
+00:33:41.170 --> 00:33:43.860
+underachieving
+
+00:33:46.940 --> 00:33:51.950
+I was thinking too cuz you know while I
+
+00:33:50.150 --> 00:33:56.690
+was away I did I went back to my high
+
+00:33:51.950 --> 00:33:58.430
+school I have to say to present this
+
+00:33:56.690 --> 00:34:00.080
+award and it might seem like I'm
+
+00:33:58.430 --> 00:34:01.880
+bragging but really it's just because
+
+00:34:00.080 --> 00:34:04.100
+I'm a 28 year old man and if I just say
+
+00:34:01.880 --> 00:34:07.070
+I went back to my high school you'd be
+
+00:34:04.100 --> 00:34:08.990
+like this guy's freaking creep right no
+
+00:34:07.070 --> 00:34:10.880
+I just I went back to my high school to
+
+00:34:08.990 --> 00:34:13.700
+present that award and thinking like
+
+00:34:10.880 --> 00:34:16.220
+what's it like to be graduating from
+
+00:34:13.700 --> 00:34:18.950
+high school in 2017 I graduated from
+
+00:34:16.220 --> 00:34:21.200
+high school in 2006 so it's a big
+
+00:34:18.950 --> 00:34:22.550
+difference you know if you if you're
+
+00:34:21.200 --> 00:34:25.700
+graduating this year I graduated when
+
+00:34:22.550 --> 00:34:29.330
+you were like eight not if we're not
+
+00:34:25.700 --> 00:34:32.480
+super far off here now so I'm trying to
+
+00:34:29.330 --> 00:34:35.780
+keep myself you know relevant but you
+
+00:34:32.480 --> 00:34:37.220
+know they say like what the what the
+
+00:34:35.780 --> 00:34:39.470
+people are doing when they graduate this
+
+00:34:37.220 --> 00:34:41.810
+is just one sample size first off you
+
+00:34:39.470 --> 00:34:44.090
+know there's 17 to 18 so who knows right
+
+00:34:41.810 --> 00:34:45.680
+you know they could be saying one thing
+
+00:34:44.090 --> 00:34:47.320
+and then in three years their life will
+
+00:34:45.680 --> 00:34:50.750
+be in a totally different situation
+
+00:34:47.320 --> 00:34:52.670
+which is completely fine there's so many
+
+00:34:50.750 --> 00:34:54.770
+people they're like you know so-and-so
+
+00:34:52.670 --> 00:34:56.840
+graduated they got the award in this and
+
+00:34:54.770 --> 00:34:59.030
+then they're coming back to the height
+
+00:34:56.840 --> 00:35:00.320
+it's our fourth Steam sale we didn't
+
+00:34:59.030 --> 00:35:02.090
+pick up our third one technically
+
+00:35:00.320 --> 00:35:06.560
+they're coming back to the high school
+
+00:35:02.090 --> 00:35:07.730
+next year this person you know you need
+
+00:35:06.560 --> 00:35:09.170
+a little bit more history which is
+
+00:35:07.730 --> 00:35:13.400
+probably going to be not the most
+
+00:35:09.170 --> 00:35:15.020
+exciting thing but basically school runs
+
+00:35:13.400 --> 00:35:19.640
+from kindergarten until the 12th grade
+
+00:35:15.020 --> 00:35:22.250
+in Ontario but I used to run until like
+
+00:35:19.640 --> 00:35:24.380
+2002 it ran from kindergarten until the
+
+00:35:22.250 --> 00:35:28.100
+13th grade so you were one year older
+
+00:35:24.380 --> 00:35:30.740
+when you graduated from high school so
+
+00:35:28.100 --> 00:35:32.330
+many students around that age Joseph II
+
+00:35:30.740 --> 00:35:33.740
+was known as a victory lap where you
+
+00:35:32.330 --> 00:35:36.680
+returned for a fifth year of high school
+
+00:35:33.740 --> 00:35:37.790
+you know shore up your marks I'm going
+
+00:35:36.680 --> 00:35:40.960
+to be honest with you it's basically a
+
+00:35:37.790 --> 00:35:43.670
+good opportunity to have a part-time job
+
+00:35:40.960 --> 00:35:44.990
+take whatever classes you wanted to take
+
+00:35:43.670 --> 00:35:46.040
+that you couldn't fit in or classes you
+
+00:35:44.990 --> 00:35:47.390
+want to shore up your average a little
+
+00:35:46.040 --> 00:35:52.910
+bit before applying to post-secondary
+
+00:35:47.390 --> 00:35:55.190
+school or jobs etc etc probably like 15%
+
+00:35:52.910 --> 00:35:57.170
+of my graduating class did that and I'm
+
+00:35:55.190 --> 00:36:00.350
+actually asking from a place of like if
+
+00:35:57.170 --> 00:36:00.980
+you're in this age group what am i off
+
+00:36:00.350 --> 00:36:03.520
+base here
+
+00:36:00.980 --> 00:36:06.680
+with the numbers at least it seemed like
+
+00:36:03.520 --> 00:36:09.290
+50% roughly that is a pretty rough
+
+00:36:06.680 --> 00:36:11.270
+approximation we're like I'm going to
+
+00:36:09.290 --> 00:36:13.610
+take an extra year of high school before
+
+00:36:11.270 --> 00:36:17.690
+I choose what to do and on the one hand
+
+00:36:13.610 --> 00:36:20.360
+I'm like that's good because you're 17
+
+00:36:17.690 --> 00:36:21.440
+18 to expect you to have an idea of what
+
+00:36:20.360 --> 00:36:27.110
+you want to do for the rest of your life
+
+00:36:21.440 --> 00:36:29.960
+is not plausible for everybody guess
+
+00:36:27.110 --> 00:36:32.390
+we're just going to fight I do like the
+
+00:36:29.960 --> 00:36:37.730
+leprosy item dry babies wonderful you
+
+00:36:32.390 --> 00:36:39.890
+know what this is a horrible idea but I
+
+00:36:37.730 --> 00:36:42.110
+kind of want to try it will you will you
+
+00:36:39.890 --> 00:36:44.150
+allow me to try this here see the thing
+
+00:36:42.110 --> 00:36:46.040
+with sprinkler is that it's gonna you
+
+00:36:44.150 --> 00:36:50.830
+know shoot epic Akshata that I'm going
+
+00:36:46.040 --> 00:36:52.850
+to have to dodge weird not I want those
+
+00:36:50.830 --> 00:36:54.080
+we might be able to make something
+
+00:36:52.850 --> 00:36:55.430
+happen with that health upgrade pill
+
+00:36:54.080 --> 00:36:57.440
+again I'm going to try it with the
+
+00:36:55.430 --> 00:37:01.220
+knowledge deep in my heart that I could
+
+00:36:57.440 --> 00:37:03.550
+easily die here but gonna put it up
+
+00:37:01.220 --> 00:37:05.930
+there and see see how it goes
+
+00:37:03.550 --> 00:37:09.940
+just get ready to try to dodge some
+
+00:37:05.930 --> 00:37:09.940
+shots from time to time ah
+
+00:37:10.090 --> 00:37:16.790
+um oh yeah anyway the point is it's like
+
+00:37:13.220 --> 00:37:18.920
+unreasonable to expect an 18 year old to
+
+00:37:16.790 --> 00:37:21.050
+know what they're going to do with their
+
+00:37:18.920 --> 00:37:22.310
+lives it's just it's a ridiculous
+
+00:37:21.050 --> 00:37:25.550
+premise you do have to choose at some
+
+00:37:22.310 --> 00:37:28.010
+point but you know it's pretty young but
+
+00:37:25.550 --> 00:37:29.480
+on the other hand I was like you've got
+
+00:37:28.010 --> 00:37:31.490
+to get out of here
+
+00:37:29.480 --> 00:37:33.140
+you're just not like you're delaying
+
+00:37:31.490 --> 00:37:34.460
+your career for another year and I'm
+
+00:37:33.140 --> 00:37:35.900
+sure like when you leave them high
+
+00:37:34.460 --> 00:37:37.220
+school many people not everybody
+
+00:37:35.900 --> 00:37:38.930
+obviously when many people are going to
+
+00:37:37.220 --> 00:37:41.710
+have like good memories of it dude the
+
+00:37:38.930 --> 00:37:44.510
+mom's eye sprinkler is so funny looking
+
+00:37:41.710 --> 00:37:45.830
+but I was like you guys got it got to
+
+00:37:44.510 --> 00:37:47.630
+get out and experience the world I guess
+
+00:37:45.830 --> 00:37:49.490
+you don't have to do it right now
+
+00:37:47.630 --> 00:37:51.710
+you could wait until you know you're
+
+00:37:49.490 --> 00:37:54.530
+legally able to like sign a document but
+
+00:37:51.710 --> 00:37:57.650
+I was kind of surprised because when I
+
+00:37:54.530 --> 00:38:02.030
+graduated almost everybody was like I'm
+
+00:37:57.650 --> 00:38:04.760
+out like I got to go to the big city man
+
+00:38:02.030 --> 00:38:06.770
+and by big city I mean you know a city
+
+00:38:04.760 --> 00:38:10.700
+that's slightly bigger like Ottawa or
+
+00:38:06.770 --> 00:38:11.870
+something like that I was just surprised
+
+00:38:10.700 --> 00:38:13.250
+that you know I'm not sure if it's a
+
+00:38:11.870 --> 00:38:14.140
+generational thing or a one-off
+
+00:38:13.250 --> 00:38:16.000
+statistic
+
+00:38:14.140 --> 00:38:19.059
+you know variance sort of situation or
+
+00:38:16.000 --> 00:38:21.369
+what but seems like least the kids at my
+
+00:38:19.059 --> 00:38:23.619
+old high school are definitely way more
+
+00:38:21.369 --> 00:38:24.720
+open to just kind of hanging out for
+
+00:38:23.619 --> 00:38:27.220
+another year
+
+00:38:24.720 --> 00:38:28.660
+anyway it's irrelevant in the end thanks
+
+00:38:27.220 --> 00:38:31.720
+for watching hope you guys enjoyed the
+
+00:38:28.660 --> 00:38:32.920
+episode just you did click the like
+
+00:38:31.720 --> 00:38:33.789
+button helps out a great deal of course
+
+00:38:32.920 --> 00:38:35.970
+subscribe you want to see more in the
+
+00:38:33.789 --> 00:38:38.980
+future but for now thanks for watching
+
+00:38:35.970 --> 00:38:41.400
+thanks for your support and I'll see you
+
+00:38:38.980 --> 00:38:41.400
+next time
+

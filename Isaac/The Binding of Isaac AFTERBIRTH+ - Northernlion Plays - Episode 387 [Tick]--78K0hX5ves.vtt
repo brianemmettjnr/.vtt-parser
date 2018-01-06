@@ -1,0 +1,1384 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.089 --> 00:00:08.610
+everybody welcome back your dreams with
+
+00:00:04.799 --> 00:00:10.349
+your chicken and welcome okay you get
+
+00:00:08.610 --> 00:00:13.950
+the idea we're gonna do as asel greed
+
+00:00:10.349 --> 00:00:16.369
+because we can do as asel greed and I'll
+
+00:00:13.950 --> 00:00:22.619
+show you our seed here our zaidel seed
+
+00:00:16.369 --> 00:00:26.279
+VMC b22 NP this is not the most a lot of
+
+00:00:22.619 --> 00:00:28.560
+money and the luck do we've to luck and
+
+00:00:26.279 --> 00:00:31.170
+twenty four cents from our first room
+
+00:00:28.560 --> 00:00:33.809
+that's madness
+
+00:00:31.170 --> 00:00:37.610
+so oh my god we got thirty cents in free
+
+00:00:33.809 --> 00:00:40.079
+money to start this right now no machine
+
+00:00:37.610 --> 00:00:42.899
+unfortunately no reroll machine I should
+
+00:00:40.079 --> 00:00:45.329
+say but still it's pretty solved do kind
+
+00:00:42.899 --> 00:00:48.450
+of bomb out it this is like so great to
+
+00:00:45.329 --> 00:00:52.649
+start with let me come in here and it's
+
+00:00:48.450 --> 00:00:54.360
+okay yeah it probably is aggregate gonna
+
+00:00:52.649 --> 00:00:55.559
+contribute you know a decent amount of
+
+00:00:54.360 --> 00:00:57.270
+money over the course of this run which
+
+00:00:55.559 --> 00:00:58.469
+is important the whole point is to win
+
+00:00:57.270 --> 00:01:00.629
+greedy your mode and then we unlock
+
+00:00:58.469 --> 00:01:02.780
+Lilith and I think it's every character
+
+00:01:00.629 --> 00:01:06.390
+except the lost in the keeper on much so
+
+00:01:02.780 --> 00:01:09.780
+again those usually come much later but
+
+00:01:06.390 --> 00:01:14.010
+for now look at this it's like just
+
+00:01:09.780 --> 00:01:16.140
+every possible role has come to a good
+
+00:01:14.010 --> 00:01:17.400
+head for us here I'm going to try it - a
+
+00:01:16.140 --> 00:01:18.930
+heart so it's not what we were looking
+
+00:01:17.400 --> 00:01:23.430
+for but I figured for five cents it's
+
+00:01:18.930 --> 00:01:28.100
+not a bad deal so you know the drill
+
+00:01:23.430 --> 00:01:28.100
+here essentially every time we can use
+
+00:01:28.220 --> 00:01:34.140
+our Wooden Nickel we're going to use our
+
+00:01:30.900 --> 00:01:36.299
+Wooden Nickel now we can run like a
+
+00:01:34.140 --> 00:01:41.310
+pretty easy analysis they're like 10
+
+00:01:36.299 --> 00:01:43.259
+waves on every floor we'd expect 50% of
+
+00:01:41.310 --> 00:01:45.990
+them to payout to five extra cents per
+
+00:01:43.259 --> 00:01:47.520
+floor and then add in the chance that we
+
+00:01:45.990 --> 00:01:48.990
+could get a nickel out of it let's say
+
+00:01:47.520 --> 00:01:50.490
+like we're probably going to average 6
+
+00:01:48.990 --> 00:01:54.420
+cents per floor just for holding and
+
+00:01:50.490 --> 00:01:57.899
+using this item it's not a ton pardon me
+
+00:01:54.420 --> 00:01:59.400
+congestion there it's not a ton it's
+
+00:01:57.899 --> 00:02:02.050
+something
+
+00:01:59.400 --> 00:02:03.460
+combine that with a chance to maybe get
+
+00:02:02.050 --> 00:02:06.130
+luck upgrades out of it I think this
+
+00:02:03.460 --> 00:02:07.810
+could have like a deceptively valuable
+
+00:02:06.130 --> 00:02:10.780
+impact over the course of this entire
+
+00:02:07.810 --> 00:02:13.150
+run not quite you know shears leveled
+
+00:02:10.780 --> 00:02:16.960
+but you know what is in today's modern
+
+00:02:13.150 --> 00:02:20.490
+world I probably I don't intend to buy
+
+00:02:16.960 --> 00:02:20.490
+anything else on the rest of this floor
+
+00:02:20.550 --> 00:02:24.340
+quite a lot of money right off the bat
+
+00:02:22.600 --> 00:02:27.310
+though 46 cents we don't care about
+
+00:02:24.340 --> 00:02:29.110
+pills is the thing and we don't really
+
+00:02:27.310 --> 00:02:32.070
+care about using bombs to find secret
+
+00:02:29.110 --> 00:02:34.330
+rooms I'd rather just get them for free
+
+00:02:32.070 --> 00:02:35.980
+we can afford to be a little picky about
+
+00:02:34.330 --> 00:02:37.150
+it because we know on the next floor you
+
+00:02:35.980 --> 00:02:39.520
+know it's not like there's limited
+
+00:02:37.150 --> 00:02:42.160
+supply on the next floor we're probably
+
+00:02:39.520 --> 00:02:43.900
+going to be able to self-select
+
+00:02:42.160 --> 00:02:48.130
+things that we actually want as a result
+
+00:02:43.900 --> 00:02:50.290
+of the fact that there's more likely to
+
+00:02:48.130 --> 00:02:52.840
+be a reroll machine than not be a really
+
+00:02:50.290 --> 00:02:55.930
+sheen now the problem we had in our last
+
+00:02:52.840 --> 00:02:58.570
+run as the days old we won but we didn't
+
+00:02:55.930 --> 00:03:00.750
+win as asel it manifested itself after
+
+00:02:58.570 --> 00:03:03.430
+the deal with the devil so we probably
+
+00:03:00.750 --> 00:03:05.520
+no matter what the deal with the devil
+
+00:03:03.430 --> 00:03:07.680
+is I think we just want to avoid it here
+
+00:03:05.520 --> 00:03:10.510
+hopefully we get lucky and it's like
+
+00:03:07.680 --> 00:03:13.020
+just a regular old like Krampus deal or
+
+00:03:10.510 --> 00:03:13.020
+something like that
+
+00:03:13.140 --> 00:03:19.390
+just because our HP is bad
+
+00:03:15.430 --> 00:03:20.800
+so if it's a truly amazing item well
+
+00:03:19.390 --> 00:03:21.910
+actually you know what we kind of put
+
+00:03:20.800 --> 00:03:24.160
+ourselves in a situation where I just
+
+00:03:21.910 --> 00:03:27.130
+can't take it unless it gives us HP so
+
+00:03:24.160 --> 00:03:28.660
+you know something like the pact would
+
+00:03:27.130 --> 00:03:30.010
+be amazing right now and we would we
+
+00:03:28.660 --> 00:03:32.080
+would go for it and probably try to make
+
+00:03:30.010 --> 00:03:34.120
+it work but anything else we just can't
+
+00:03:32.080 --> 00:03:39.220
+afford without dying probably so I think
+
+00:03:34.120 --> 00:03:40.870
+it is worth our it's worth noting we
+
+00:03:39.220 --> 00:03:43.320
+kind of adhere to our strategy
+
+00:03:40.870 --> 00:03:48.850
+accidentally so let's see what we got
+
+00:03:43.320 --> 00:03:50.470
+it is two items we can't take Carol
+
+00:03:48.850 --> 00:03:52.300
+cloth is lovely I would be I mean I'd be
+
+00:03:50.470 --> 00:03:57.000
+tempted to take the nail honestly - but
+
+00:03:52.300 --> 00:03:59.620
+there's neither one is is good enough
+
+00:03:57.000 --> 00:04:00.790
+like literally on an objective level to
+
+00:03:59.620 --> 00:04:03.280
+keep us alive so we're just going to
+
+00:04:00.790 --> 00:04:05.260
+bounce instead now Kirsten the blind
+
+00:04:03.280 --> 00:04:07.510
+dangerous especially when we do want to
+
+00:04:05.260 --> 00:04:08.760
+be spending on this floor eco lies okay
+
+00:04:07.510 --> 00:04:11.470
+if we can get some invincibility
+
+00:04:08.760 --> 00:04:12.880
+breakfast is like free deal with the
+
+00:04:11.470 --> 00:04:15.640
+devil pickups
+
+00:04:12.880 --> 00:04:19.360
+and I mean I'm glad we have HP so we can
+
+00:04:15.640 --> 00:04:22.290
+do a little of this and little this as
+
+00:04:19.360 --> 00:04:27.250
+well and maybe get something paid out
+
+00:04:22.290 --> 00:04:29.230
+sorry buddy he lived I don't mean
+
+00:04:27.250 --> 00:04:32.730
+there's any reason not to buy seven cent
+
+00:04:29.230 --> 00:04:35.440
+items come on
+
+00:04:32.730 --> 00:04:38.890
+let's buy the seven cent item potato
+
+00:04:35.440 --> 00:04:40.660
+peeler it's not actually terrible but
+
+00:04:38.890 --> 00:04:42.080
+obviously as you might expect it's not
+
+00:04:40.660 --> 00:04:44.910
+exactly what we're looking for
+
+00:04:42.080 --> 00:04:47.470
+[Music]
+
+00:04:44.910 --> 00:04:50.530
+I'll keep spending this is not that bad
+
+00:04:47.470 --> 00:04:52.000
+to spend six cents to get a potential
+
+00:04:50.530 --> 00:04:54.430
+deal with the devil item is completely
+
+00:04:52.000 --> 00:04:56.170
+okay nine cents maybe we were waiting on
+
+00:04:54.430 --> 00:04:57.400
+some HP now instead you know what just
+
+00:04:56.170 --> 00:05:05.560
+use the two of Hearts which we got for
+
+00:04:57.400 --> 00:05:07.870
+free chaos every run apparently is now a
+
+00:05:05.560 --> 00:05:12.640
+chaos run in our world
+
+00:05:07.870 --> 00:05:14.890
+lots of seven cent items very thankful
+
+00:05:12.640 --> 00:05:18.970
+for that you paid out you paid out a
+
+00:05:14.890 --> 00:05:20.980
+Book of Shadows probably really really
+
+00:05:18.970 --> 00:05:22.120
+good with e.coli so let's use potato
+
+00:05:20.980 --> 00:05:24.790
+peeler to get as orbital which
+
+00:05:22.120 --> 00:05:28.480
+synergizes as well grab this spelunker
+
+00:05:24.790 --> 00:05:31.990
+set sprinkler fun item potato peelers a
+
+00:05:28.480 --> 00:05:34.690
+little better here Sacred Heart Sacred
+
+00:05:31.990 --> 00:05:38.080
+Heart copies collar dude this was like a
+
+00:05:34.690 --> 00:05:39.630
+ten out of ten area already that's
+
+00:05:38.080 --> 00:05:42.160
+absurd
+
+00:05:39.630 --> 00:05:45.730
+we've actually like completely changed
+
+00:05:42.160 --> 00:05:49.200
+the tone of this run right now so I am
+
+00:05:45.730 --> 00:05:51.640
+going to preserve my HP by doing this
+
+00:05:49.200 --> 00:05:53.380
+it'll take us a couple extra waves here
+
+00:05:51.640 --> 00:05:55.030
+but do I need to point out we have a
+
+00:05:53.380 --> 00:05:58.750
+Sacred Heart and mini brimstone right
+
+00:05:55.030 --> 00:06:00.970
+now this is like 10 out of 10 and this
+
+00:05:58.750 --> 00:06:05.020
+is again like a problem I have agreed
+
+00:06:00.970 --> 00:06:07.950
+mode is that it's kind of like I don't
+
+00:06:05.020 --> 00:06:10.900
+want to say that every run is the same
+
+00:06:07.950 --> 00:06:14.650
+but there are like some common elements
+
+00:06:10.900 --> 00:06:16.750
+to essentially every greed mode run that
+
+00:06:14.650 --> 00:06:19.870
+compromised its replayability a little
+
+00:06:16.750 --> 00:06:21.860
+bit we should probably not play it like
+
+00:06:19.870 --> 00:06:24.409
+zero percent of the time but
+
+00:06:21.860 --> 00:06:26.360
+you do run into a little bit of the same
+
+00:06:24.409 --> 00:06:28.400
+stuff over and over you might as well
+
+00:06:26.360 --> 00:06:30.650
+just finish this off here you know we
+
+00:06:28.400 --> 00:06:33.770
+got so much damage we can walk into
+
+00:06:30.650 --> 00:06:34.930
+enemies without them being able to do
+
+00:06:33.770 --> 00:06:37.520
+anything to us
+
+00:06:34.930 --> 00:06:39.409
+kill them basically just by contacting
+
+00:06:37.520 --> 00:06:44.060
+them or coming into contact with them
+
+00:06:39.409 --> 00:06:45.979
+rather this is probably pretty close to
+
+00:06:44.060 --> 00:06:47.780
+an unbeatable run at the present moment
+
+00:06:45.979 --> 00:06:49.699
+and for this to happen on the floor with
+
+00:06:47.780 --> 00:06:52.129
+curse of the blind is kind of ridiculous
+
+00:06:49.699 --> 00:06:53.750
+but they lucky up so we had to deal with
+
+00:06:52.129 --> 00:06:56.300
+the angel with the old the angel has
+
+00:06:53.750 --> 00:06:57.949
+given us a HP which is completely fine
+
+00:06:56.300 --> 00:07:00.139
+and it's not like we need key pieces so
+
+00:06:57.949 --> 00:07:01.729
+I honestly think we should keep buying
+
+00:07:00.139 --> 00:07:04.310
+$0.07 items as long as they keep
+
+00:07:01.729 --> 00:07:09.560
+presenting them Cuba meets totally fine
+
+00:07:04.310 --> 00:07:11.569
+here odd mushroom is good ham II said is
+
+00:07:09.560 --> 00:07:13.759
+actually perhaps even better than Book
+
+00:07:11.569 --> 00:07:16.550
+of Shadows book of Belial at least takes
+
+00:07:13.759 --> 00:07:20.150
+us closer to bookworm and sister Maggie
+
+00:07:16.550 --> 00:07:23.569
+was not worth it really but I mean we
+
+00:07:20.150 --> 00:07:27.080
+should go Tami's head right it's again a
+
+00:07:23.569 --> 00:07:28.909
+little a little say me but kind of so be
+
+00:07:27.080 --> 00:07:31.339
+it like we've created a run that's
+
+00:07:28.909 --> 00:07:32.930
+absurd and this is good you know we can
+
+00:07:31.339 --> 00:07:34.900
+we can actually get Lilith unlock and
+
+00:07:32.930 --> 00:07:36.949
+Lilith is a character there's before
+
+00:07:34.900 --> 00:07:40.129
+Lilith is the character that I have
+
+00:07:36.949 --> 00:07:42.319
+basically like never played as willingly
+
+00:07:40.129 --> 00:07:43.759
+except for when she first got introduced
+
+00:07:42.319 --> 00:07:50.930
+to the game to there's some good items
+
+00:07:43.759 --> 00:07:53.360
+in here so might be might be fun to give
+
+00:07:50.930 --> 00:07:56.210
+ourselves some Lilith runs and remind
+
+00:07:53.360 --> 00:07:59.000
+ourselves of what it takes to win as
+
+00:07:56.210 --> 00:08:00.199
+Lilith we basically have guppy that'll
+
+00:07:59.000 --> 00:08:02.990
+be our first pick up there unless we
+
+00:08:00.199 --> 00:08:05.000
+just got it right there but I'd like to
+
+00:08:02.990 --> 00:08:08.560
+get all of the items that are on display
+
+00:08:05.000 --> 00:08:13.180
+as you might expect that might not be
+
+00:08:08.560 --> 00:08:16.960
+plausible but so he basically traded a
+
+00:08:13.180 --> 00:08:19.789
+synergy that was amazingly good against
+
+00:08:16.960 --> 00:08:22.699
+enemies for a synergy that's amazingly
+
+00:08:19.789 --> 00:08:25.540
+good against bosses or single-target
+
+00:08:22.699 --> 00:08:29.990
+foes whatever you want to call them
+
+00:08:25.540 --> 00:08:31.550
+it's a little silly of me there and I if
+
+00:08:29.990 --> 00:08:35.570
+I'm being real with you I sort of regret
+
+00:08:31.550 --> 00:08:37.099
+it here because we had an almost
+
+00:08:35.570 --> 00:08:40.280
+guarantee that we were never going to
+
+00:08:37.099 --> 00:08:42.500
+get hit previously that's gone away in
+
+00:08:40.280 --> 00:08:44.360
+favor of a synergy we've seen many times
+
+00:08:42.500 --> 00:08:47.090
+but you like Tammy's head Brimstone's
+
+00:08:44.360 --> 00:08:48.520
+like one of the immutable laws of Isaac
+
+00:08:47.090 --> 00:08:51.260
+like if you see if you take it
+
+00:08:48.520 --> 00:08:53.930
+especially if you can get guppy out of
+
+00:08:51.260 --> 00:08:56.960
+it and the shears is also amazing this
+
+00:08:53.930 --> 00:09:02.390
+you know is in the running for I think
+
+00:08:56.960 --> 00:09:04.330
+best best chaos I've ever had especially
+
+00:09:02.390 --> 00:09:07.520
+considering again I got chaos
+
+00:09:04.330 --> 00:09:11.000
+accidentally as a result of persons of
+
+00:09:07.520 --> 00:09:13.370
+blind like it's ten out of ten but yet
+
+00:09:11.000 --> 00:09:15.230
+meanwhile I'd said maybe a monster mend
+
+00:09:13.370 --> 00:09:17.240
+I mean I'm getting bitter at this play
+
+00:09:15.230 --> 00:09:19.130
+but you know I remember I was like maybe
+
+00:09:17.240 --> 00:09:20.630
+monster Manuel should be a little bit
+
+00:09:19.130 --> 00:09:22.100
+better like allow you to use it once per
+
+00:09:20.630 --> 00:09:24.080
+room and people were like now I would
+
+00:09:22.100 --> 00:09:26.270
+make green mode too easy okay but chaos
+
+00:09:24.080 --> 00:09:27.320
+allows you to become guppy on the second
+
+00:09:26.270 --> 00:09:29.570
+floor everything yeah but that's
+
+00:09:27.320 --> 00:09:31.370
+different in some arbitrary way that I
+
+00:09:29.570 --> 00:09:32.780
+can't represent because you're using me
+
+00:09:31.370 --> 00:09:36.710
+as a straw man right now which is not
+
+00:09:32.780 --> 00:09:38.960
+really productive NL you're really being
+
+00:09:36.710 --> 00:09:40.640
+overly reductive with respect to the
+
+00:09:38.960 --> 00:09:41.870
+entire situation you know what I respect
+
+00:09:40.640 --> 00:09:44.030
+that I should have met you on the
+
+00:09:41.870 --> 00:09:45.620
+playing field as equals instead of
+
+00:09:44.030 --> 00:09:46.940
+taking an air of superiority right off
+
+00:09:45.620 --> 00:09:50.210
+the bat that's a bad habit and I
+
+00:09:46.940 --> 00:09:51.830
+apologize no problem okay everybody does
+
+00:09:50.210 --> 00:09:53.120
+it from time to time as a shorthand to
+
+00:09:51.830 --> 00:09:54.320
+make their argument seem better than it
+
+00:09:53.120 --> 00:09:56.120
+actually is you know what it's been a
+
+00:09:54.320 --> 00:09:59.420
+pleasure talking to you that's because I
+
+00:09:56.120 --> 00:10:05.840
+am you what Tyler Durden Fight Club - we
+
+00:09:59.420 --> 00:10:08.000
+just wrote it funded I I think I have a
+
+00:10:05.840 --> 00:10:11.200
+least favorite genre of movie and it's
+
+00:10:08.000 --> 00:10:16.000
+taken me a while to realize it but I
+
+00:10:11.200 --> 00:10:16.000
+watch Zoolander too you know
+
+00:10:16.690 --> 00:10:21.459
+six months ago something like that I
+
+00:10:18.730 --> 00:10:23.290
+hate it I like Zoolander one I didn't
+
+00:10:21.459 --> 00:10:26.560
+love it but I was like it's like a six
+
+00:10:23.290 --> 00:10:28.269
+and a half seven I'm okay with that
+
+00:10:26.560 --> 00:10:29.589
+and I know you're going to say you
+
+00:10:28.269 --> 00:10:33.639
+weren't there whenever I saw it in
+
+00:10:29.589 --> 00:10:35.290
+theaters when it released okay we need
+
+00:10:33.639 --> 00:10:37.269
+anything here there reroll machine there
+
+00:10:35.290 --> 00:10:39.819
+is a reroll machine
+
+00:10:37.269 --> 00:10:41.319
+I saw Jude Lander - I thought it was one
+
+00:10:39.819 --> 00:10:43.269
+of the worst movies I've ever seen bar
+
+00:10:41.319 --> 00:10:45.970
+none I thought it was horrible I hated
+
+00:10:43.269 --> 00:10:47.949
+almost every second of it we already
+
+00:10:45.970 --> 00:10:53.230
+have homing tiers I think this is like
+
+00:10:47.949 --> 00:10:54.370
+five cents well-spent and then I'll be
+
+00:10:53.230 --> 00:10:57.089
+the first to tell you I think that's
+
+00:10:54.370 --> 00:10:59.649
+worth it I I'm not a hole we need that
+
+00:10:57.089 --> 00:11:04.870
+and then maybe just start saving at this
+
+00:10:59.649 --> 00:11:05.949
+point uh we got HBO go or HBO Canada
+
+00:11:04.870 --> 00:11:13.959
+recently so we could watch Game of
+
+00:11:05.949 --> 00:11:15.850
+Thrones and that came with in Canada
+
+00:11:13.959 --> 00:11:18.069
+came with the movie network as a way to
+
+00:11:15.850 --> 00:11:19.930
+justify the absurd price point we're
+
+00:11:18.069 --> 00:11:23.139
+basically paying like four dollars a
+
+00:11:19.930 --> 00:11:26.589
+week to watch one television show it's a
+
+00:11:23.139 --> 00:11:28.810
+little too far but anyway we buying
+
+00:11:26.589 --> 00:11:30.610
+anything else in here so I like to put
+
+00:11:28.810 --> 00:11:34.060
+on like mindless stuff in the background
+
+00:11:30.610 --> 00:11:35.439
+while I'm doing programming so I just
+
+00:11:34.060 --> 00:11:38.050
+put on the movie Network last night and
+
+00:11:35.439 --> 00:11:40.120
+I watched a live free or die hard which
+
+00:11:38.050 --> 00:11:42.720
+I haven't seen since 2007 and I was like
+
+00:11:40.120 --> 00:11:46.589
+this movie is like absolutely just okay
+
+00:11:42.720 --> 00:11:51.670
+should you see live free or die hard is
+
+00:11:46.589 --> 00:11:53.110
+it on how frictionless is the ability
+
+00:11:51.670 --> 00:11:55.630
+for you to watch it dude we got to check
+
+00:11:53.110 --> 00:11:58.060
+out a new trinket hahaha what a
+
+00:11:55.630 --> 00:11:59.259
+coincidence I can't even tell you what
+
+00:11:58.060 --> 00:12:03.279
+it's a coincidence for because it would
+
+00:11:59.259 --> 00:12:05.649
+be a spoiler so we're if you if it's on
+
+00:12:03.279 --> 00:12:08.110
+and you don't have to do much effort to
+
+00:12:05.649 --> 00:12:11.350
+watch it why not dude why not give it a
+
+00:12:08.110 --> 00:12:12.850
+shot so check this out I'm going to try
+
+00:12:11.350 --> 00:12:14.769
+this on for size we're going to open
+
+00:12:12.850 --> 00:12:16.480
+that yeah I don't really like butter as
+
+00:12:14.769 --> 00:12:19.839
+an item so we're going to use our
+
+00:12:16.480 --> 00:12:22.360
+rerolls here get a bomb and what makes
+
+00:12:19.839 --> 00:12:24.550
+you larger pill not what we're looking
+
+00:12:22.360 --> 00:12:26.139
+for so let's just save our money we're
+
+00:12:24.550 --> 00:12:27.220
+actually in a great spot we might want
+
+00:12:26.139 --> 00:12:29.860
+to check this just because we can
+
+00:12:27.220 --> 00:12:31.269
+without being in a bad place
+
+00:12:29.860 --> 00:12:33.850
+and I guess we'll go to our secret room
+
+00:12:31.269 --> 00:12:36.660
+as well and hope that it's not a while
+
+00:12:33.850 --> 00:12:40.300
+that was closed not an internal heart
+
+00:12:36.660 --> 00:12:42.700
+after live free and die hard Bad Santa -
+
+00:12:40.300 --> 00:12:46.060
+was on I watched it and it was like I
+
+00:12:42.700 --> 00:12:47.649
+hated actually even more so than
+
+00:12:46.060 --> 00:12:49.660
+Zoolander - which there was some moments
+
+00:12:47.649 --> 00:12:50.370
+in it where I was like this has a good
+
+00:12:49.660 --> 00:12:54.970
+heart
+
+00:12:50.370 --> 00:12:57.550
+Bad Santa - Bad Santa one which you know
+
+00:12:54.970 --> 00:13:00.070
+hereafter referred to as bad Santa is a
+
+00:12:57.550 --> 00:13:03.700
+movie about a deplorable human being who
+
+00:13:00.070 --> 00:13:07.149
+has by the end of that movie he's come
+
+00:13:03.700 --> 00:13:09.089
+to appreciate family in his own unique
+
+00:13:07.149 --> 00:13:12.579
+and messed-up way
+
+00:13:09.089 --> 00:13:14.079
+Bad Santa - is just like you know a
+
+00:13:12.579 --> 00:13:15.910
+bunch of Hollywood executives got in the
+
+00:13:14.079 --> 00:13:18.160
+room and we're like what if the worst
+
+00:13:15.910 --> 00:13:21.250
+human being on planet Earth
+
+00:13:18.160 --> 00:13:23.110
+was surrounded by the other worst human
+
+00:13:21.250 --> 00:13:28.300
+beings on planet Earth for like 90
+
+00:13:23.110 --> 00:13:32.230
+minutes it's unfathomably cynical and
+
+00:13:28.300 --> 00:13:33.970
+just the whole movie is just one liners
+
+00:13:32.230 --> 00:13:37.750
+look hey want to go get some lunch ah
+
+00:13:33.970 --> 00:13:40.000
+your vagina smells like an old tuna can
+
+00:13:37.750 --> 00:13:44.170
+and then you're like you laugh track and
+
+00:13:40.000 --> 00:13:46.800
+like it's just it's just heinous cynical
+
+00:13:44.170 --> 00:13:50.079
+filmmaking so I think my least favorite
+
+00:13:46.800 --> 00:13:55.390
+genre movie right now is like nostalgic
+
+00:13:50.079 --> 00:13:57.190
+sequels I actually like I kind of like
+
+00:13:55.390 --> 00:13:59.230
+Bad Santa one which is not a
+
+00:13:57.190 --> 00:14:02.290
+controversial opinion there's a reason
+
+00:13:59.230 --> 00:14:06.310
+it got a sequel you know 15 years after
+
+00:14:02.290 --> 00:14:09.279
+the original came out the Bad Santa -
+
+00:14:06.310 --> 00:14:11.800
+made me want to die dude it's just like
+
+00:14:09.279 --> 00:14:13.870
+the worst thing it didn't make me want
+
+00:14:11.800 --> 00:14:17.560
+to die that's too fun but I'll spend
+
+00:14:13.870 --> 00:14:19.990
+three cents on this that's okay we still
+
+00:14:17.560 --> 00:14:22.140
+got to be green so I might have worked
+
+00:14:19.990 --> 00:14:22.140
+out
+
+00:14:22.990 --> 00:14:30.350
+the talent that they have in that movie
+
+00:14:25.730 --> 00:14:31.220
+is absurd Kathy Bates I believe she has
+
+00:14:30.350 --> 00:14:33.529
+an Oscar
+
+00:14:31.220 --> 00:14:36.130
+I'm not going to begrudge her being in
+
+00:14:33.529 --> 00:14:38.779
+Bad Santa too because you know
+
+00:14:36.130 --> 00:14:39.980
+essentially if you wanted to know how I
+
+00:14:38.779 --> 00:14:42.500
+would be in Hollywood
+
+00:14:39.980 --> 00:14:43.430
+I would sell out in a heartbeat you know
+
+00:14:42.500 --> 00:14:45.080
+everyone thinks when they go to
+
+00:14:43.430 --> 00:14:46.700
+Hollywood they would be if they were an
+
+00:14:45.080 --> 00:14:49.190
+actor or an actress they'd be like I'm
+
+00:14:46.700 --> 00:14:49.940
+Tilda Swinton I only take amazing ten
+
+00:14:49.190 --> 00:14:52.339
+out of ten roles
+
+00:14:49.940 --> 00:14:54.650
+yeah well there's like eight Tilda
+
+00:14:52.339 --> 00:14:56.900
+Swinton's on planet Earth there's Tilda
+
+00:14:54.650 --> 00:14:58.460
+Swinton Cate Blanchett I'm not convinced
+
+00:14:56.900 --> 00:15:00.850
+yet that they're not exactly the same
+
+00:14:58.460 --> 00:15:00.850
+person
+
+00:15:01.060 --> 00:15:04.940
+both have roles in the Marvel Cinematic
+
+00:15:03.260 --> 00:15:10.160
+Universe right now so the plot thickens
+
+00:15:04.940 --> 00:15:15.050
+but anyway how do we not get it there I
+
+00:15:10.160 --> 00:15:16.250
+want to preserve this never mind you
+
+00:15:15.050 --> 00:15:17.870
+know I'm trying to think of like other
+
+00:15:16.250 --> 00:15:21.200
+Hollywood actresses you can choose any
+
+00:15:17.870 --> 00:15:24.140
+role they want and and like primarily
+
+00:15:21.200 --> 00:15:26.780
+only do stuff that's like good I don't
+
+00:15:24.140 --> 00:15:30.620
+know Vera Farmiga or something like that
+
+00:15:26.780 --> 00:15:34.580
+either way the point is in the Anne
+
+00:15:30.620 --> 00:15:36.940
+Hathaway fits that bill now come a long
+
+00:15:34.580 --> 00:15:39.950
+way since the Princess Diaries - what
+
+00:15:36.940 --> 00:15:40.580
+this was just that it just ended that's
+
+00:15:39.950 --> 00:15:44.300
+lovely
+
+00:15:40.580 --> 00:15:45.740
+a bomb will probably pay for itself if
+
+00:15:44.300 --> 00:15:47.450
+we can get one but you know what to
+
+00:15:45.740 --> 00:15:50.560
+spend three cents get the heck out of
+
+00:15:47.450 --> 00:15:54.050
+here I think we're ready to fight green
+
+00:15:50.560 --> 00:15:56.150
+still like a bomb but that's okay uh
+
+00:15:54.050 --> 00:15:58.490
+wonder if that's what the whole tour
+
+00:15:56.150 --> 00:16:03.650
+knows keeps the oh maybe it keeps the
+
+00:15:58.490 --> 00:16:07.430
+dad mega satan door open I will also say
+
+00:16:03.650 --> 00:16:10.640
+that by not liking Bad Santa - you
+
+00:16:07.430 --> 00:16:12.920
+really do I recognizes 100% I've opened
+
+00:16:10.640 --> 00:16:14.870
+myself up to the idea like Oh what was
+
+00:16:12.920 --> 00:16:19.700
+the movie - offensive for you
+
+00:16:14.870 --> 00:16:23.750
+no it's like I say offensive things all
+
+00:16:19.700 --> 00:16:26.660
+the time sometimes intentionally and
+
+00:16:23.750 --> 00:16:28.190
+sometimes not but I you know I like to
+
+00:16:26.660 --> 00:16:30.410
+think I'm not saying I'm better than the
+
+00:16:28.190 --> 00:16:34.310
+collective talent you know at work on
+
+00:16:30.410 --> 00:16:37.790
+- however I try to make it like clever
+
+00:16:34.310 --> 00:16:40.009
+you know the joke can't just be you
+
+00:16:37.790 --> 00:16:42.589
+can't say that the jokes got to be like
+
+00:16:40.009 --> 00:16:44.360
+it's funny and it's funny enough that
+
+00:16:42.589 --> 00:16:49.009
+he's okay with making himself look like
+
+00:16:44.360 --> 00:16:52.279
+a bad person sort of I can't just be
+
+00:16:49.009 --> 00:16:54.350
+like man did you put a stick of butter
+
+00:16:52.279 --> 00:16:57.889
+up your butt because your farts smell
+
+00:16:54.350 --> 00:17:03.309
+like popcorn you know that's just that's
+
+00:16:57.889 --> 00:17:05.809
+just wafer-thin humor like either way
+
+00:17:03.309 --> 00:17:10.520
+Christina Hendricks from Mad Men is in
+
+00:17:05.809 --> 00:17:13.610
+that movie she plays a charity owner who
+
+00:17:10.520 --> 00:17:16.939
+is married to a jerk she sleeps with
+
+00:17:13.610 --> 00:17:21.819
+Billy Bob Thornton in like two seconds
+
+00:17:16.939 --> 00:17:24.169
+and not I'm not trying to be you know
+
+00:17:21.819 --> 00:17:25.789
+sex negative here at all
+
+00:17:24.169 --> 00:17:27.230
+yeah I know the first reaction every
+
+00:17:25.789 --> 00:17:28.640
+time about some of this maybe her
+
+00:17:27.230 --> 00:17:29.990
+husband or in an open marriage
+
+00:17:28.640 --> 00:17:31.159
+now they're both cheating on each
+
+00:17:29.990 --> 00:17:34.340
+other's the thing they're terrible
+
+00:17:31.159 --> 00:17:36.950
+people but like Billy Bob Thornton has
+
+00:17:34.340 --> 00:17:39.020
+done nothing in this movie to warrant
+
+00:17:36.950 --> 00:17:43.820
+anybody having a good opinion of him
+
+00:17:39.020 --> 00:17:46.130
+like he is drunk all the time while
+
+00:17:43.820 --> 00:17:50.299
+working as a charity he beats up another
+
+00:17:46.130 --> 00:17:52.130
+Santa just just to be a jerk basically
+
+00:17:50.299 --> 00:17:55.340
+and then also because that santa may or
+
+00:17:52.130 --> 00:17:57.740
+may not be a pedophile but again it's
+
+00:17:55.340 --> 00:17:59.570
+just something the movie is like not
+
+00:17:57.740 --> 00:18:01.400
+really interested in exploring at all
+
+00:17:59.570 --> 00:18:04.850
+it's more just like Billy Bob Thornton's
+
+00:18:01.400 --> 00:18:06.169
+gonna punch you in the head anyway she
+
+00:18:04.850 --> 00:18:08.179
+takes him to an Alcoholics Anonymous
+
+00:18:06.169 --> 00:18:09.890
+meeting where he proceeds to just not
+
+00:18:08.179 --> 00:18:11.299
+exhibit any character growth at all
+
+00:18:09.890 --> 00:18:12.770
+which I understand is part of the Bad
+
+00:18:11.299 --> 00:18:13.100
+Santa formula that he's never going to
+
+00:18:12.770 --> 00:18:15.500
+change
+
+00:18:13.100 --> 00:18:17.480
+um and then after it he's like I'd
+
+00:18:15.500 --> 00:18:19.340
+really like to you know put my straw in
+
+00:18:17.480 --> 00:18:21.289
+your tank and she goes that's gross get
+
+00:18:19.340 --> 00:18:23.299
+out of the car it's ten minutes later
+
+00:18:21.289 --> 00:18:25.700
+she drives up and goes actually let's do
+
+00:18:23.299 --> 00:18:31.429
+it and then he just has intercourse with
+
+00:18:25.700 --> 00:18:35.090
+her in an alley it's it's completely
+
+00:18:31.429 --> 00:18:39.049
+unearned both from a romantic sense and
+
+00:18:35.090 --> 00:18:40.610
+from a from a cinematic sense and if
+
+00:18:39.049 --> 00:18:42.790
+you're going to NL if so naive that's
+
+00:18:40.610 --> 00:18:45.160
+how the world works no it's not
+
+00:18:42.790 --> 00:18:47.460
+Christina Hendricks is not going to go
+
+00:18:45.160 --> 00:18:50.590
+around Navin
+
+00:18:47.460 --> 00:18:53.890
+but intercourse with the homeless
+
+00:18:50.590 --> 00:18:55.450
+alcoholic duty in an alley in the bus
+
+00:18:53.890 --> 00:18:58.450
+naked in the middle of the Chicago
+
+00:18:55.450 --> 00:18:59.050
+winter this is where people go it's just
+
+00:18:58.450 --> 00:19:03.370
+a movie
+
+00:18:59.050 --> 00:19:06.820
+no but the movie has to make sense and
+
+00:19:03.370 --> 00:19:09.910
+play by the rules that have any
+
+00:19:06.820 --> 00:19:14.890
+coherence whatsoever and so like the
+
+00:19:09.910 --> 00:19:16.960
+first bad Santa is like this guy is but
+
+00:19:14.890 --> 00:19:18.880
+grudgingly he has a heart
+
+00:19:16.960 --> 00:19:21.760
+despite being terrible the second bad
+
+00:19:18.880 --> 00:19:25.500
+Santa is like here's three sociopaths
+
+00:19:21.760 --> 00:19:27.700
+special shopkeepers heck yet anyway I
+
+00:19:25.500 --> 00:19:31.060
+don't want to talk about what they do to
+
+00:19:27.700 --> 00:19:34.360
+the the kid from the first bad Santa in
+
+00:19:31.060 --> 00:19:36.370
+Bad Santa - they gave them like a
+
+00:19:34.360 --> 00:19:39.400
+frontal lobotomy or something like that
+
+00:19:36.370 --> 00:19:41.650
+anyway don't watch Bad Santa to watch
+
+00:19:39.400 --> 00:19:47.140
+live for your die hard instead which are
+
+00:19:41.650 --> 00:19:48.430
+both like exactly okay well no one of
+
+00:19:47.140 --> 00:19:50.170
+them is okay one of them is terrible
+
+00:19:48.430 --> 00:19:51.100
+anyway bit of a shorter episode today
+
+00:19:50.170 --> 00:19:52.630
+but thanks for watching I hope you
+
+00:19:51.100 --> 00:19:54.040
+enjoyed it we accomplished something
+
+00:19:52.630 --> 00:19:55.660
+important we unlock Lilith and we
+
+00:19:54.040 --> 00:19:56.710
+donated a lot of money if you did enjoy
+
+00:19:55.660 --> 00:19:57.820
+it click the like button help set a
+
+00:19:56.710 --> 00:19:58.720
+great deal of course subscribe you won't
+
+00:19:57.820 --> 00:20:00.790
+see more in the future but for now
+
+00:19:58.720 --> 00:20:03.120
+thanks for watching and I will see you
+
+00:20:00.790 --> 00:20:03.120
+next time
+

@@ -1,0 +1,4108 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.060 --> 00:00:02.909
+everybody welcome back to nor the
+
+00:00:01.410 --> 00:00:04.799
+language bunny classic Edgeworth plus I
+
+00:00:02.909 --> 00:00:08.309
+looked at the footage from the last
+
+00:00:04.799 --> 00:00:10.889
+episode and apparently it didn't record
+
+00:00:08.309 --> 00:00:13.590
+any game sound which is a known bug with
+
+00:00:10.889 --> 00:00:16.949
+OBS so I apologize for that here's our
+
+00:00:13.590 --> 00:00:17.940
+see today's blue baby mtv our bln - it
+
+00:00:16.949 --> 00:00:19.260
+was one of those things where i went
+
+00:00:17.940 --> 00:00:19.949
+back and then looked through I was like
+
+00:00:19.260 --> 00:00:25.260
+oh my god
+
+00:00:19.949 --> 00:00:26.490
+did we did we have no game sound in like
+
+00:00:25.260 --> 00:00:27.779
+all of the videos that I've recorded
+
+00:00:26.490 --> 00:00:29.250
+recently but it was really just that
+
+00:00:27.779 --> 00:00:32.309
+Isaac won so I guess I got lucky and
+
+00:00:29.250 --> 00:00:34.680
+I'll just you know test or open and
+
+00:00:32.309 --> 00:00:38.430
+close OBS between like literally every
+
+00:00:34.680 --> 00:00:39.809
+single literally every single video that
+
+00:00:38.430 --> 00:00:42.090
+we ever do but that's inside baseball
+
+00:00:39.809 --> 00:00:43.950
+the thing is you know I start using OBS
+
+00:00:42.090 --> 00:00:46.170
+to replace the crackle everybody goes
+
+00:00:43.950 --> 00:00:47.520
+use OBS is a perfect program nothing
+
+00:00:46.170 --> 00:00:49.170
+wrong with it it'll solve your crackle
+
+00:00:47.520 --> 00:00:50.520
+issue then you use OBS and V where
+
+00:00:49.170 --> 00:00:53.010
+there's no game sound it's a known issue
+
+00:00:50.520 --> 00:00:56.250
+with OBS oh yeah we all knew about that
+
+00:00:53.010 --> 00:00:59.070
+but you know it's still a perfect
+
+00:00:56.250 --> 00:01:00.660
+program and never meant to do this ooh
+
+00:00:59.070 --> 00:01:02.219
+see it might be a Windows 10 thing as
+
+00:01:00.660 --> 00:01:04.049
+well I don't know I'm not blaming OBS
+
+00:01:02.219 --> 00:01:06.030
+even though it is OBS is problem so
+
+00:01:04.049 --> 00:01:07.530
+basically I'm saying I am blaming OBS
+
+00:01:06.030 --> 00:01:09.030
+but I'm exalting myself of that blame
+
+00:01:07.530 --> 00:01:14.340
+and that's making myself look like a
+
+00:01:09.030 --> 00:01:15.900
+better person in the process come in
+
+00:01:14.340 --> 00:01:17.640
+here that was a really lucky get I've
+
+00:01:15.900 --> 00:01:19.170
+taken a lot of bad damage while I'm
+
+00:01:17.640 --> 00:01:20.810
+taking to its of that damage which is a
+
+00:01:19.170 --> 00:01:24.000
+relative lot for the start of the show
+
+00:01:20.810 --> 00:01:25.619
+today so I'm pretty happy that we ended
+
+00:01:24.000 --> 00:01:27.960
+up getting a little bit of HP back there
+
+00:01:25.619 --> 00:01:30.030
+to kind of absolve myself start back at
+
+00:01:27.960 --> 00:01:31.110
+zero here and make a good run I know
+
+00:01:30.030 --> 00:01:32.759
+that said well you know what let's
+
+00:01:31.110 --> 00:01:34.860
+squander it immediately I know that
+
+00:01:32.759 --> 00:01:36.750
+Brian McKnight said start back at 1 but
+
+00:01:34.860 --> 00:01:38.670
+I prefer to start at 0 because I've been
+
+00:01:36.750 --> 00:01:41.460
+you know working with arrays a lot
+
+00:01:38.670 --> 00:01:45.360
+there's zero indexed and as a result L
+
+00:01:41.460 --> 00:01:47.430
+that Brian McKnight if you do want to of
+
+00:01:45.360 --> 00:01:49.979
+diamonds not much of a computer program
+
+00:01:47.430 --> 00:01:52.799
+and this is where somebody chimes in and
+
+00:01:49.979 --> 00:01:55.350
+goes actually NL in this language arrays
+
+00:01:52.799 --> 00:01:56.939
+are indexed at one and you know what if
+
+00:01:55.350 --> 00:01:58.950
+that's the case more power to you I'm
+
+00:01:56.939 --> 00:02:00.780
+unaware it's irrelevant for this
+
+00:01:58.950 --> 00:02:03.090
+purposes for the purposes of this joke
+
+00:02:00.780 --> 00:02:05.640
+like some our programmer humor stuff
+
+00:02:03.090 --> 00:02:08.039
+right there is like Brian McKnight start
+
+00:02:05.640 --> 00:02:09.989
+back in one I don't think so then the
+
+00:02:08.039 --> 00:02:10.810
+for each loop not on my campus anyway
+
+00:02:09.989 --> 00:02:15.370
+okay
+
+00:02:10.810 --> 00:02:18.280
+let's big floor here little HP big floor
+
+00:02:15.370 --> 00:02:19.900
+we're looking for a obviously our item
+
+00:02:18.280 --> 00:02:23.080
+room which we have finally found and
+
+00:02:19.900 --> 00:02:25.420
+we'd like it to just be DPS and they
+
+00:02:23.080 --> 00:02:27.010
+pretty much fits the bill or dead I pick
+
+00:02:25.420 --> 00:02:27.580
+up here is really really good to work
+
+00:02:27.010 --> 00:02:30.280
+with
+
+00:02:27.580 --> 00:02:31.540
+I can see forever is also nice if we can
+
+00:02:30.280 --> 00:02:32.020
+get like an internal heart that would be
+
+00:02:31.540 --> 00:02:33.250
+fine
+
+00:02:32.020 --> 00:02:35.590
+but to be honest with you I'm not
+
+00:02:33.250 --> 00:02:37.390
+worried about our HP COO too much please
+
+00:02:35.590 --> 00:02:38.800
+don't be a secret room rate okay good it
+
+00:02:37.390 --> 00:02:42.459
+wasn't in the location that would have
+
+00:02:38.800 --> 00:02:47.560
+allowed us to not nice it would have
+
+00:02:42.459 --> 00:02:48.910
+allowed us to not go to the curse room
+
+00:02:47.560 --> 00:02:49.360
+via the front door so I'm happy about
+
+00:02:48.910 --> 00:02:51.220
+that
+
+00:02:49.360 --> 00:02:53.920
+we also have our second secret room
+
+00:02:51.220 --> 00:02:56.170
+which has nothing of value essentially
+
+00:02:53.920 --> 00:02:56.530
+blow that up get a read hard what a
+
+00:02:56.170 --> 00:02:59.950
+waste
+
+00:02:56.530 --> 00:03:03.880
+okay let's go for broke here Dead Eye is
+
+00:02:59.950 --> 00:03:05.290
+really really really good ups our damage
+
+00:03:03.880 --> 00:03:06.610
+to seven as long as we can keep it
+
+00:03:05.290 --> 00:03:08.410
+consistent streak going here which is
+
+00:03:06.610 --> 00:03:11.170
+working out you know really nicely for
+
+00:03:08.410 --> 00:03:13.390
+the time being I think you have to miss
+
+00:03:11.170 --> 00:03:15.700
+more than once to get it to lose its
+
+00:03:13.390 --> 00:03:18.250
+maximum charger I don't know maybe you
+
+00:03:15.700 --> 00:03:19.600
+have to miss and then not have a hit
+
+00:03:18.250 --> 00:03:21.910
+within the next little bit to get it
+
+00:03:19.600 --> 00:03:24.040
+because I felt like we got a little bit
+
+00:03:21.910 --> 00:03:27.190
+of extra tolerance there that otherwise
+
+00:03:24.040 --> 00:03:30.340
+wouldn't have been common but that was
+
+00:03:27.190 --> 00:03:31.720
+fine and honestly getting an extra fast
+
+00:03:30.340 --> 00:03:33.970
+rate of fire is also really good for us
+
+00:03:31.720 --> 00:03:35.530
+as well as blue baby I'm mostly not
+
+00:03:33.970 --> 00:03:36.820
+worried about stacking up spirit hearts
+
+00:03:35.530 --> 00:03:38.769
+right now I'm worried about getting to
+
+00:03:36.820 --> 00:03:41.590
+the point that you know offense is the
+
+00:03:38.769 --> 00:03:43.600
+best defense obviously that's you know
+
+00:03:41.590 --> 00:03:45.790
+largely not true in most sports you end
+
+00:03:43.600 --> 00:03:47.769
+up having those teams that are really
+
+00:03:45.790 --> 00:03:49.870
+awesome offensively and then they you
+
+00:03:47.769 --> 00:03:54.609
+know get to the AFC conference
+
+00:03:49.870 --> 00:03:56.380
+championships and just tank 2004 Kansas
+
+00:03:54.609 --> 00:03:58.090
+City Chiefs of course who I'm talking
+
+00:03:56.380 --> 00:04:00.040
+about that's right Trent Green Tony
+
+00:03:58.090 --> 00:04:03.209
+Gonzales increased Holmes I'm subduing
+
+00:04:00.040 --> 00:04:03.209
+you you got a problem
+
+00:04:04.700 --> 00:04:10.859
+probably only name like I bet I could
+
+00:04:09.359 --> 00:04:13.730
+name less than a hundred people who have
+
+00:04:10.859 --> 00:04:17.340
+ever been in the NFL and all of them are
+
+00:04:13.730 --> 00:04:21.900
+from either cameos in The Longest Yard
+
+00:04:17.340 --> 00:04:24.599
+in the waterboy or they were on the 2004
+
+00:04:21.900 --> 00:04:28.139
+Kansas City Chiefs aka the team that I
+
+00:04:24.599 --> 00:04:30.090
+played as in ESPN NFL football rest in
+
+00:04:28.139 --> 00:04:35.490
+peace great game taken from us too soon
+
+00:04:30.090 --> 00:04:36.930
+that was the one there astray I hesitate
+
+00:04:35.490 --> 00:04:38.970
+to even tell this story not because it
+
+00:04:36.930 --> 00:04:40.110
+reflects poorly on me necessarily but
+
+00:04:38.970 --> 00:04:45.240
+just because it makes me look like an
+
+00:04:40.110 --> 00:04:47.520
+idiot those uh ESPN NFL football games
+
+00:04:45.240 --> 00:04:49.500
+had a first-person football mode in them
+
+00:04:47.520 --> 00:04:51.479
+where you actually played you know you'd
+
+00:04:49.500 --> 00:04:52.560
+be like the quarterback but instead of
+
+00:04:51.479 --> 00:04:54.570
+seeing everything from a pulled-back
+
+00:04:52.560 --> 00:04:56.639
+perspective behind you you'd be playing
+
+00:04:54.570 --> 00:04:59.250
+in first-person and it wasn't really the
+
+00:04:56.639 --> 00:05:00.810
+most optimal way to play the game but it
+
+00:04:59.250 --> 00:05:04.020
+was kind of a cool novelty of the very
+
+00:05:00.810 --> 00:05:06.300
+least and there was a fake study that I
+
+00:05:04.020 --> 00:05:08.340
+believed was real published around that
+
+00:05:06.300 --> 00:05:09.810
+time and it made the rounds on the
+
+00:05:08.340 --> 00:05:12.270
+internet and somehow found its way to me
+
+00:05:09.810 --> 00:05:14.240
+where you know doctors supposedly were
+
+00:05:12.270 --> 00:05:16.590
+writing and they were like oh we tested
+
+00:05:14.240 --> 00:05:19.650
+you know the first-person football
+
+00:05:16.590 --> 00:05:21.449
+feature on all of our patients but it's
+
+00:05:19.650 --> 00:05:23.250
+getting really spooky like when they
+
+00:05:21.449 --> 00:05:25.470
+take big hits they act as if they've
+
+00:05:23.250 --> 00:05:27.180
+gotten real pain and bruises have
+
+00:05:25.470 --> 00:05:28.949
+started appearing on their body and I
+
+00:05:27.180 --> 00:05:31.470
+have to be honest with you I bought it
+
+00:05:28.949 --> 00:05:34.830
+hook line and sinker admittedly I was
+
+00:05:31.470 --> 00:05:36.840
+like fifteen old enough to know better
+
+00:05:34.830 --> 00:05:40.860
+but still too young to care as Alan
+
+00:05:36.840 --> 00:05:42.389
+Jackson said right I don't think we
+
+00:05:40.860 --> 00:05:44.759
+really care about a-bomb for a tarot
+
+00:05:42.389 --> 00:05:46.320
+card but I might consider it and then
+
+00:05:44.759 --> 00:05:49.139
+you know one of my friends who I'm still
+
+00:05:46.320 --> 00:05:50.250
+friends with to this day is like he did
+
+00:05:49.139 --> 00:05:53.009
+something very classy
+
+00:05:50.250 --> 00:05:54.690
+that I remember and I use it to inform
+
+00:05:53.009 --> 00:05:56.250
+my my interactions with people to this
+
+00:05:54.690 --> 00:05:57.599
+day I was like dude this is pretty
+
+00:05:56.250 --> 00:05:59.340
+serious like I don't know this could be
+
+00:05:57.599 --> 00:06:01.919
+like psychologically damaging to play it
+
+00:05:59.340 --> 00:06:04.380
+and he was like haha yeah good one
+
+00:06:01.919 --> 00:06:06.180
+me and the boys had such a laugh over
+
+00:06:04.380 --> 00:06:07.770
+your post here that's that's a reference
+
+00:06:06.180 --> 00:06:10.289
+to like a Steven Spielberg letter he
+
+00:06:07.770 --> 00:06:12.659
+wrote when a producer suggested they do
+
+00:06:10.289 --> 00:06:14.310
+something stupid in the movie he ended
+
+00:06:12.659 --> 00:06:16.800
+this my friend did exactly the same
+
+00:06:14.310 --> 00:06:18.080
+thing to me basically being like he
+
+00:06:16.800 --> 00:06:20.120
+interpreted what I said is
+
+00:06:18.080 --> 00:06:22.639
+joke and as a result gave me the easiest
+
+00:06:20.120 --> 00:06:24.909
+out to be like yeah I was kidding but
+
+00:06:22.639 --> 00:06:27.319
+actually in my head I was like nah I
+
+00:06:24.909 --> 00:06:30.289
+believed it until that moment I can't
+
+00:06:27.319 --> 00:06:32.539
+take it I'm sorry I can't take we should
+
+00:06:30.289 --> 00:06:34.150
+go to the shop we could use the well we
+
+00:06:32.539 --> 00:06:35.780
+could use the everything couldn't we
+
+00:06:34.150 --> 00:06:39.650
+let's try this
+
+00:06:35.780 --> 00:06:41.000
+I forget the the extra context of that
+
+00:06:39.650 --> 00:06:42.860
+Steven Spielberg thing but I believe a
+
+00:06:41.000 --> 00:06:44.180
+producer was like you know it's not a
+
+00:06:42.860 --> 00:06:47.210
+calling the movie Back to the Future you
+
+00:06:44.180 --> 00:06:49.370
+should call it you know marty checks in
+
+00:06:47.210 --> 00:06:50.750
+and the producer sent the letter to
+
+00:06:49.370 --> 00:06:52.159
+steven spielberg and steven spielberg
+
+00:06:50.750 --> 00:06:53.629
+spends it sent a letter back that was
+
+00:06:52.159 --> 00:06:55.659
+like I don't think Steven Spielberg did
+
+00:06:53.629 --> 00:06:58.280
+back to the future but I'm conflating
+
+00:06:55.659 --> 00:07:00.560
+stories here but something like that
+
+00:06:58.280 --> 00:07:02.270
+after maybe for Jurassic Park and Steven
+
+00:07:00.560 --> 00:07:03.800
+Spielberg's sent back a letter that was
+
+00:07:02.270 --> 00:07:05.240
+like I showed your letter to everybody
+
+00:07:03.800 --> 00:07:06.949
+we all had a great laugh thanks for
+
+00:07:05.240 --> 00:07:08.330
+keeping thanks for keeping things light
+
+00:07:06.949 --> 00:07:12.080
+and airy as production gets more
+
+00:07:08.330 --> 00:07:13.819
+stressful it's a really really classy
+
+00:07:12.080 --> 00:07:15.560
+way to tell someone to go ask themselves
+
+00:07:13.819 --> 00:07:17.300
+wouldn't you say it's like you know
+
+00:07:15.560 --> 00:07:18.409
+you've suggested something so stupid but
+
+00:07:17.300 --> 00:07:20.689
+I'm going to present you with the
+
+00:07:18.409 --> 00:07:22.669
+easiest out rather than having to get in
+
+00:07:20.689 --> 00:07:24.259
+a discussion about it does it make
+
+00:07:22.669 --> 00:07:25.759
+Steven Spielberg sound like kind of a
+
+00:07:24.259 --> 00:07:27.080
+dick I guess it depends whether or not
+
+00:07:25.759 --> 00:07:30.800
+you're on Steven Spielberg side in this
+
+00:07:27.080 --> 00:07:33.770
+situation there's also like those emails
+
+00:07:30.800 --> 00:07:38.599
+from the the Sony thing like a Sony hack
+
+00:07:33.770 --> 00:07:40.669
+from like 2014 where like the CEO or the
+
+00:07:38.599 --> 00:07:42.949
+somebody that worked high up in the film
+
+00:07:40.669 --> 00:07:44.629
+department at Sony was like you know
+
+00:07:42.949 --> 00:07:46.099
+these kids are really into rollerblades
+
+00:07:44.629 --> 00:07:49.279
+these days we should make a movie we're
+
+00:07:46.099 --> 00:07:51.349
+like spider-man rollerblades and oh my
+
+00:07:49.279 --> 00:07:53.779
+god that could have been that could have
+
+00:07:51.349 --> 00:07:55.430
+been spider-man homecoming as much as
+
+00:07:53.779 --> 00:07:57.409
+you know some people love spider-man
+
+00:07:55.430 --> 00:07:59.539
+homecoming some people didn't like it at
+
+00:07:57.409 --> 00:08:01.430
+all I'm closer to the loving side for
+
+00:07:59.539 --> 00:08:04.279
+sure I thought it was pretty good at
+
+00:08:01.430 --> 00:08:06.589
+least no matter what he does in that
+
+00:08:04.279 --> 00:08:08.180
+movie he ain't rollerblading around
+
+00:08:06.589 --> 00:08:11.990
+going like you know how do you do fellow
+
+00:08:08.180 --> 00:08:14.719
+kids so anyway this is why we need to
+
+00:08:11.990 --> 00:08:17.110
+seize the means of production and eat
+
+00:08:14.719 --> 00:08:17.110
+the rich
+
+00:08:17.260 --> 00:08:22.630
+I wanted to turn this into like a modern
+
+00:08:19.930 --> 00:08:24.550
+version of these Isaak videos they need
+
+00:08:22.630 --> 00:08:26.500
+to reinvent themselves as YouTube has
+
+00:08:24.550 --> 00:08:27.880
+become more and more political all of a
+
+00:08:26.500 --> 00:08:30.370
+sudden the Isaac videos are just going
+
+00:08:27.880 --> 00:08:32.100
+to become my platform for introducing
+
+00:08:30.370 --> 00:08:35.050
+you all to my belief which is
+
+00:08:32.100 --> 00:08:37.510
+anarcho-capitalism that's a joke don't
+
+00:08:35.050 --> 00:08:40.090
+take offense to that joy wait that's a
+
+00:08:37.510 --> 00:08:41.530
+real ideology and I know that's why I
+
+00:08:40.090 --> 00:08:44.190
+used it if I just made something up it
+
+00:08:41.530 --> 00:08:44.190
+wouldn't have the same punch
+
+00:08:44.220 --> 00:08:50.080
+can't go anywhere these days of step on
+
+00:08:46.420 --> 00:08:52.870
+a Twitter it's all like anime avatars
+
+00:08:50.080 --> 00:08:55.000
+talking about you know when the
+
+00:08:52.870 --> 00:08:56.050
+revolution rises up you know this is
+
+00:08:55.000 --> 00:08:57.190
+where your head is going to go is a
+
+00:08:56.050 --> 00:08:58.060
+picture of a guillotine they're not
+
+00:08:57.190 --> 00:09:00.610
+tweeting it to me they're usually
+
+00:08:58.060 --> 00:09:02.350
+tweeting it to you know like the Land
+
+00:09:00.610 --> 00:09:03.910
+O'Lakes butter CEO or something like
+
+00:09:02.350 --> 00:09:07.180
+that understand it we live in a very
+
+00:09:03.910 --> 00:09:11.110
+tumultuous times I suppose dark bomb is
+
+00:09:07.180 --> 00:09:15.250
+like a game saver for us if I had to
+
+00:09:11.110 --> 00:09:17.140
+describe Twitter to like someone in 2012
+
+00:09:15.250 --> 00:09:19.600
+our glitz a really cool place where like
+
+00:09:17.140 --> 00:09:21.190
+you know anybody can say anything they
+
+00:09:19.600 --> 00:09:24.130
+want to anybody and it's like a lot of
+
+00:09:21.190 --> 00:09:26.380
+fun try to describe Twitter in 2017 it's
+
+00:09:24.130 --> 00:09:27.640
+like it's a place where anybody can say
+
+00:09:26.380 --> 00:09:32.490
+anything to anybody
+
+00:09:27.640 --> 00:09:36.010
+stay away get lectured about you know
+
+00:09:32.490 --> 00:09:37.570
+politics and healthcare all day I have
+
+00:09:36.010 --> 00:09:39.430
+to be say the person who tweeted this to
+
+00:09:37.570 --> 00:09:41.500
+me is probably watching I'm not trying
+
+00:09:39.430 --> 00:09:44.200
+to single you out here but I am going to
+
+00:09:41.500 --> 00:09:46.020
+use you as a sounding rod to clarify
+
+00:09:44.200 --> 00:09:48.670
+what the heck you were talking about I
+
+00:09:46.020 --> 00:09:50.470
+paid for HBO Canada to watch Game of
+
+00:09:48.670 --> 00:09:52.090
+Thrones I called up my cable provider
+
+00:09:50.470 --> 00:09:56.230
+because apparently it's the year you
+
+00:09:52.090 --> 00:09:57.610
+know 1911 and I said ah excuse me on the
+
+00:09:56.230 --> 00:09:59.350
+old-time talkbox
+
+00:09:57.610 --> 00:10:01.030
+could I get that HBO package please so
+
+00:09:59.350 --> 00:10:03.970
+they gave me the HBO package anyway and
+
+00:10:01.030 --> 00:10:05.230
+I tweeted about it and I'd used the meme
+
+00:10:03.970 --> 00:10:07.120
+that was like why the heck everything
+
+00:10:05.230 --> 00:10:09.820
+got it cost money and I got a tweet from
+
+00:10:07.120 --> 00:10:12.160
+somebody that just said must be nice to
+
+00:10:09.820 --> 00:10:16.030
+be able to legally purchase things and I
+
+00:10:12.160 --> 00:10:18.490
+didn't understand how to react I always
+
+00:10:16.030 --> 00:10:21.700
+take the assumption I die actually don't
+
+00:10:18.490 --> 00:10:25.270
+cultivate very much hatred there's
+
+00:10:21.700 --> 00:10:26.770
+youtubers out there who who cultivate
+
+00:10:25.270 --> 00:10:28.060
+hatred I'm not saying that it's deserve
+
+00:10:26.770 --> 00:10:29.290
+it or undeserving but you know if you
+
+00:10:28.060 --> 00:10:30.610
+talked about controversial subjects
+
+00:10:29.290 --> 00:10:32.230
+you're going to get people to hate you
+
+00:10:30.610 --> 00:10:34.209
+about you know sandwich meta so it
+
+00:10:32.230 --> 00:10:35.470
+doesn't matter whether whether you're
+
+00:10:34.209 --> 00:10:36.310
+fighting for the you know right side of
+
+00:10:35.470 --> 00:10:37.180
+the wrong side you're always going to
+
+00:10:36.310 --> 00:10:39.310
+people that hate you
+
+00:10:37.180 --> 00:10:40.630
+I still get people that you know I've
+
+00:10:39.310 --> 00:10:42.010
+probably got you know a few hundred
+
+00:10:40.630 --> 00:10:44.680
+people muted on Twitter but that's over
+
+00:10:42.010 --> 00:10:46.899
+many many years and you know someone
+
+00:10:44.680 --> 00:10:48.070
+goes a bald idiot how do you get out of
+
+00:10:46.899 --> 00:10:50.050
+bed in the morning I'm just like have a
+
+00:10:48.070 --> 00:10:51.970
+nice day a muted I'm not getting into
+
+00:10:50.050 --> 00:10:52.990
+arguments but anyway I didn't mute this
+
+00:10:51.970 --> 00:10:55.089
+person because it's not offensive
+
+00:10:52.990 --> 00:10:58.120
+necessarily but I just didn't understand
+
+00:10:55.089 --> 00:11:00.190
+how to react when they said must be nice
+
+00:10:58.120 --> 00:11:02.709
+to be able to legally you know obtain
+
+00:11:00.190 --> 00:11:05.920
+contest yeah are they saying it
+
+00:11:02.709 --> 00:11:07.600
+sincerely because whenever in English is
+
+00:11:05.920 --> 00:11:09.550
+the first language whenever we say must
+
+00:11:07.600 --> 00:11:11.980
+be nice it's always like a little bit of
+
+00:11:09.550 --> 00:11:13.570
+an undertone of you know oh I can't do
+
+00:11:11.980 --> 00:11:17.290
+that so you consider yourself lucky
+
+00:11:13.570 --> 00:11:19.200
+right and then I was like well if it
+
+00:11:17.290 --> 00:11:22.000
+must be nice like is this person
+
+00:11:19.200 --> 00:11:23.350
+pirating content taking a stance on that
+
+00:11:22.000 --> 00:11:26.019
+necessarily but are they pirating
+
+00:11:23.350 --> 00:11:29.170
+content but then trying to make me feel
+
+00:11:26.019 --> 00:11:31.230
+bad that I paid for it cuz I don't
+
+00:11:29.170 --> 00:11:34.810
+because that would be ridiculous but I
+
+00:11:31.230 --> 00:11:37.329
+just I I found myself befuddled I talked
+
+00:11:34.810 --> 00:11:38.350
+about the tweet with my wife and I was
+
+00:11:37.329 --> 00:11:41.350
+like I don't understand where this is
+
+00:11:38.350 --> 00:11:42.940
+coming from she's on either maybe he was
+
+00:11:41.350 --> 00:11:44.949
+actually sincere maybe they were saying
+
+00:11:42.940 --> 00:11:46.600
+oh must be nice to be able to support
+
+00:11:44.949 --> 00:11:49.839
+content that you enjoy in which case
+
+00:11:46.600 --> 00:11:50.589
+yeah I mean 18 bucks for a
+
+00:11:49.839 --> 00:11:52.420
+single-channel
+
+00:11:50.589 --> 00:11:53.649
+Wow is also as the movie channel so
+
+00:11:52.420 --> 00:11:54.310
+that's nice right I've talked about that
+
+00:11:53.649 --> 00:11:56.980
+already
+
+00:11:54.310 --> 00:11:59.620
+oh yeah it feels feels okay doesn't feel
+
+00:11:56.980 --> 00:12:01.110
+like you know I'm the Saints or anything
+
+00:11:59.620 --> 00:12:03.370
+like that but if I'm misinterpreting
+
+00:12:01.110 --> 00:12:06.640
+what it would appears to be malice
+
+00:12:03.370 --> 00:12:08.949
+where's my lucky pen use as our would've
+
+00:12:06.640 --> 00:12:10.480
+would appears to be malice has refused
+
+00:12:08.949 --> 00:12:13.120
+to be generosity is malice then I
+
+00:12:10.480 --> 00:12:15.550
+apologize but for what appears to be
+
+00:12:13.120 --> 00:12:16.839
+benevolences anyway the point is I don't
+
+00:12:15.550 --> 00:12:18.279
+know what you're talking about but I
+
+00:12:16.839 --> 00:12:20.589
+will not be shamed for legally
+
+00:12:18.279 --> 00:12:21.910
+purchasing things I'm not bragging oh it
+
+00:12:20.589 --> 00:12:25.769
+was close I think we could be close to
+
+00:12:21.910 --> 00:12:25.769
+death here so just dial in for a second
+
+00:12:25.890 --> 00:12:29.949
+I'm going to be shamed for them I don't
+
+00:12:28.000 --> 00:12:31.149
+think any realistic person or reasonable
+
+00:12:29.949 --> 00:12:32.560
+person would try to shame you for it
+
+00:12:31.149 --> 00:12:34.600
+either which is why I found myself in
+
+00:12:32.560 --> 00:12:36.010
+such a just add Arnold conundrum about
+
+00:12:34.600 --> 00:12:38.550
+what the heck was even happening over
+
+00:12:36.010 --> 00:12:38.550
+the course of this
+
+00:12:43.420 --> 00:12:47.660
+roasted I can't see my HP but I'm really
+
+00:12:46.220 --> 00:12:53.359
+happy that this guy dropped two red
+
+00:12:47.660 --> 00:12:55.100
+hearts just one spirit heart it's a
+
+00:12:53.359 --> 00:13:00.499
+little bit on the cheap side but I'll
+
+00:12:55.100 --> 00:13:02.329
+tell you what I'm happy for it
+
+00:13:00.499 --> 00:13:05.059
+nonetheless that means like he must be
+
+00:13:02.329 --> 00:13:06.619
+at most one red heart away from paying
+
+00:13:05.059 --> 00:13:08.540
+out again whether it be with Spyder
+
+00:13:06.619 --> 00:13:10.309
+black heart or you know something else
+
+00:13:08.540 --> 00:13:12.859
+spider black heart also my favorite
+
+00:13:10.309 --> 00:13:14.359
+character in here's the storm I just
+
+00:13:12.859 --> 00:13:15.679
+loved his heroic they're not called
+
+00:13:14.359 --> 00:13:17.389
+Ulsan heroes of the storm that called
+
+00:13:15.679 --> 00:13:19.160
+heroics because it's totally different
+
+00:13:17.389 --> 00:13:23.809
+it's not a MOBA it's a character based
+
+00:13:19.160 --> 00:13:25.730
+RPG with leveling let's get out of here
+
+00:13:23.809 --> 00:13:26.929
+yeah arcades are meaningless to me at
+
+00:13:25.730 --> 00:13:30.230
+this point I almost slipped into like a
+
+00:13:26.929 --> 00:13:33.859
+very a very depressed Arnold
+
+00:13:30.230 --> 00:13:35.480
+Schwarzenegger there wow we were half a
+
+00:13:33.859 --> 00:13:38.470
+spirit out away from death actually oh
+
+00:13:35.480 --> 00:13:40.730
+now we're one spirit art away from death
+
+00:13:38.470 --> 00:13:42.829
+you know everybody can struggle with
+
+00:13:40.730 --> 00:13:45.110
+mental health I'm not afraid to admit it
+
+00:13:42.829 --> 00:13:47.419
+I don't have to the best of my knowledge
+
+00:13:45.110 --> 00:13:49.279
+at least diagnoseable mental health
+
+00:13:47.419 --> 00:13:50.839
+issues but you know there are days I
+
+00:13:49.279 --> 00:13:52.249
+don't really want to record videos
+
+00:13:50.839 --> 00:13:53.660
+Thursday's I don't really want to stream
+
+00:13:52.249 --> 00:13:55.100
+I'm like I know I don't really feel good
+
+00:13:53.660 --> 00:13:58.519
+today I'd rather just like not do
+
+00:13:55.100 --> 00:14:00.470
+anything for me personally what helps is
+
+00:13:58.519 --> 00:14:02.029
+actually doing stuff and not you know
+
+00:14:00.470 --> 00:14:04.699
+giving into the beast I'm not trying to
+
+00:14:02.029 --> 00:14:06.709
+say that that's like a cure but I'm sure
+
+00:14:04.699 --> 00:14:08.660
+that like you know Arnold Schwarzenegger
+
+00:14:06.709 --> 00:14:10.189
+gets depressed sometimes it's probably a
+
+00:14:08.660 --> 00:14:12.350
+little bit you know
+
+00:14:10.189 --> 00:14:13.699
+uncouth for me to make a character for
+
+00:14:12.350 --> 00:14:18.709
+depressed Arnold Schwarzenegger like
+
+00:14:13.699 --> 00:14:20.929
+guys I just feel like everyone is out to
+
+00:14:18.709 --> 00:14:22.249
+get me you know that's you can't even do
+
+00:14:20.929 --> 00:14:24.649
+the Arnold Schwarzenegger voice when
+
+00:14:22.249 --> 00:14:26.209
+he's not angry I think the only way you
+
+00:14:24.649 --> 00:14:27.889
+could do that character justice is if
+
+00:14:26.209 --> 00:14:30.350
+you did like Mitchell and Webb style and
+
+00:14:27.889 --> 00:14:32.059
+you mind it for absurd humor first you
+
+00:14:30.350 --> 00:14:33.999
+were like hey this this is funny because
+
+00:14:32.059 --> 00:14:36.559
+it's Arnold Schwarzenegger but he's not
+
+00:14:33.999 --> 00:14:38.299
+happy or energetic he's just a little
+
+00:14:36.559 --> 00:14:39.859
+bit sad today and then at the end you
+
+00:14:38.299 --> 00:14:43.369
+actually tied in like a good lesson
+
+00:14:39.859 --> 00:14:44.730
+about mental health you know like he got
+
+00:14:43.369 --> 00:14:47.580
+better at the end
+
+00:14:44.730 --> 00:14:48.260
+something like that leave you on a good
+
+00:14:47.580 --> 00:14:51.570
+note
+
+00:14:48.260 --> 00:14:53.340
+Wow I'm mad I'm actually mad
+
+00:14:51.570 --> 00:14:55.560
+first off one of the worst dodges I've
+
+00:14:53.340 --> 00:15:00.210
+ever seen but still that was pretty poor
+
+00:14:55.560 --> 00:15:02.160
+on my part and 6g m-28 WJ I think I just
+
+00:15:00.210 --> 00:15:03.570
+have to accept that if I ever get an
+
+00:15:02.160 --> 00:15:05.060
+orbital it's like the kiss of death for
+
+00:15:03.570 --> 00:15:08.280
+me lately I'm popping off like
+
+00:15:05.060 --> 00:15:10.560
+consistent 4 wins 1 loss 4 wins 1 loss
+
+00:15:08.280 --> 00:15:13.290
+and it's honestly getting a little
+
+00:15:10.560 --> 00:15:14.850
+embarrassing but hopefully the
+
+00:15:13.290 --> 00:15:16.530
+commentary is making up for the fact
+
+00:15:14.850 --> 00:15:18.390
+that we're you know loading up another
+
+00:15:16.530 --> 00:15:20.190
+video to unload explode on Edward
+
+00:15:18.390 --> 00:15:24.470
+Hawthorne load explode on Edward
+
+00:15:20.190 --> 00:15:24.470
+Hawthorne I see you looting
+
+00:15:32.060 --> 00:15:34.940
+yes oh I don't think depressed Arnold
+
+00:15:33.890 --> 00:15:36.680
+Schwarzenegger is really going to make
+
+00:15:34.940 --> 00:15:40.850
+it as a character I'm trying I'm trying
+
+00:15:36.680 --> 00:15:43.520
+but there's got to be something maybe we
+
+00:15:40.850 --> 00:15:46.130
+can get like a Sylvester Stallone that
+
+00:15:43.520 --> 00:15:48.110
+has decided that he's like really into
+
+00:15:46.130 --> 00:15:49.700
+knitting or something like that
+
+00:15:48.110 --> 00:15:51.410
+he had subverts expectations without
+
+00:15:49.700 --> 00:15:54.050
+making anybody the butt of craps
+
+00:15:51.410 --> 00:15:56.930
+a joke that's a little off-color nose
+
+00:15:54.050 --> 00:15:59.030
+Mickey he also is just Rocky permanently
+
+00:15:56.930 --> 00:16:00.620
+I used to it I don't never felt more
+
+00:15:59.030 --> 00:16:01.490
+alive than when I got those needles in
+
+00:16:00.620 --> 00:16:04.820
+my hand Mickey
+
+00:16:01.490 --> 00:16:06.440
+he's like a mr. Peter W meat locker all
+
+00:16:04.820 --> 00:16:06.860
+over again except instead of a meat
+
+00:16:06.440 --> 00:16:10.010
+locker
+
+00:16:06.860 --> 00:16:11.960
+I'm able to sweater for people to wear
+
+00:16:10.010 --> 00:16:13.310
+in the meat locker see his can you know
+
+00:16:11.960 --> 00:16:15.820
+there's a punchline to be worked on
+
+00:16:13.310 --> 00:16:15.820
+there somewhere
+
+00:16:16.180 --> 00:16:20.770
+Wow just walked right into that one
+
+00:16:23.560 --> 00:16:29.000
+but there was that there's a closer for
+
+00:16:26.960 --> 00:16:30.320
+the Blue Jays and I don't follow
+
+00:16:29.000 --> 00:16:32.780
+baseball but I thought the story was
+
+00:16:30.320 --> 00:16:34.490
+really good I was so done really good
+
+00:16:32.780 --> 00:16:37.910
+nonetheless he's like I'm not going to
+
+00:16:34.490 --> 00:16:40.190
+work today because I'm like I have
+
+00:16:37.910 --> 00:16:41.420
+anxiety I have an anxiety disorder so
+
+00:16:40.190 --> 00:16:44.770
+I'm not going to work today and I was
+
+00:16:41.420 --> 00:16:47.090
+like that takes a lot of guts you know
+
+00:16:44.770 --> 00:16:49.070
+everybody knows that we in the video
+
+00:16:47.090 --> 00:16:49.520
+game industry are all sorts of messed up
+
+00:16:49.070 --> 00:16:51.830
+you know
+
+00:16:49.520 --> 00:16:54.200
+anyone that you can think of this like
+
+00:16:51.830 --> 00:16:56.030
+let me put it this way I'm on the normal
+
+00:16:54.200 --> 00:16:59.720
+side as a full-time streamer and
+
+00:16:56.030 --> 00:17:01.520
+youtuber and you hear me rail on about
+
+00:16:59.720 --> 00:17:04.340
+sandwiches for like 50 minutes you know
+
+00:17:01.520 --> 00:17:07.730
+I've got it pretty easy 50 minutes you
+
+00:17:04.340 --> 00:17:09.440
+know per hour apparently everybody knows
+
+00:17:07.730 --> 00:17:11.480
+the world sorts of messed up in our own
+
+00:17:09.440 --> 00:17:13.070
+you know weird and wonderful ways but
+
+00:17:11.480 --> 00:17:15.680
+for a professional athlete to come out
+
+00:17:13.070 --> 00:17:17.150
+and be like you know I feel like I'm in
+
+00:17:15.680 --> 00:17:18.590
+prison inside of my own brain I thought
+
+00:17:17.150 --> 00:17:21.410
+that was really bold thought that was a
+
+00:17:18.590 --> 00:17:23.480
+good move and I was also very proud of
+
+00:17:21.410 --> 00:17:25.040
+the way that people reacted to it very
+
+00:17:23.480 --> 00:17:26.570
+few people were like oh I wish I could
+
+00:17:25.040 --> 00:17:28.550
+just take a mental health day off from
+
+00:17:26.570 --> 00:17:30.320
+work must be nice to be a profession you
+
+00:17:28.550 --> 00:17:33.410
+should be able to take health day off
+
+00:17:30.320 --> 00:17:34.820
+from work you know there's offices my
+
+00:17:33.410 --> 00:17:37.220
+office didn't do this when I worked
+
+00:17:34.820 --> 00:17:39.650
+there but it does it now they've phased
+
+00:17:37.220 --> 00:17:41.360
+out sick days and they've just made them
+
+00:17:39.650 --> 00:17:43.100
+so instead of like you have five six
+
+00:17:41.360 --> 00:17:44.970
+days you can take or ten six days you
+
+00:17:43.100 --> 00:17:46.530
+can take you just get ten days
+
+00:17:44.970 --> 00:17:48.930
+and you don't have to tell anybody what
+
+00:17:46.530 --> 00:17:50.580
+it's for so every year you know if you
+
+00:17:48.930 --> 00:17:51.900
+don't take it you I don't think you lose
+
+00:17:50.580 --> 00:17:55.800
+it but you should take it they
+
+00:17:51.900 --> 00:17:57.120
+incentivize you being like you know I
+
+00:17:55.800 --> 00:17:58.440
+don't feel good today I'm not going to
+
+00:17:57.120 --> 00:18:00.360
+come in and it's probably good you know
+
+00:17:58.440 --> 00:18:01.350
+I mean maybe less so in baseball because
+
+00:18:00.360 --> 00:18:03.120
+it's not like they're going to postpone
+
+00:18:01.350 --> 00:18:06.150
+the game for you but I bet like you're a
+
+00:18:03.120 --> 00:18:07.830
+more you're happier you're more
+
+00:18:06.150 --> 00:18:10.890
+productive fitter happier more
+
+00:18:07.830 --> 00:18:12.390
+productive exactly as a result of that
+
+00:18:10.890 --> 00:18:14.880
+I'm glad that there's been kind of like
+
+00:18:12.390 --> 00:18:17.130
+a an awakening when it comes to mental
+
+00:18:14.880 --> 00:18:18.360
+health now if I could just get people to
+
+00:18:17.130 --> 00:18:21.420
+start caring about their physical health
+
+00:18:18.360 --> 00:18:23.190
+and washing their dang hands when they
+
+00:18:21.420 --> 00:18:25.920
+come out of the bathroom that's the only
+
+00:18:23.190 --> 00:18:29.490
+thing I ask I see you looting I see you
+
+00:18:25.920 --> 00:18:31.500
+at PAX toilets break down every two
+
+00:18:29.490 --> 00:18:33.930
+seconds soap canisters are still 80%
+
+00:18:31.500 --> 00:18:35.820
+full how does it happen some of y'all
+
+00:18:33.930 --> 00:18:37.230
+ain't washing your hands if you're
+
+00:18:35.820 --> 00:18:38.790
+sitting here right now you're trying to
+
+00:18:37.230 --> 00:18:40.140
+come up with a logical argument not to
+
+00:18:38.790 --> 00:18:41.460
+wash your hands well I don't want to
+
+00:18:40.140 --> 00:18:42.990
+contribute to the degradation of
+
+00:18:41.460 --> 00:18:45.300
+society's ability to fight germs by
+
+00:18:42.990 --> 00:18:50.310
+washing my hands right no it's not about
+
+00:18:45.300 --> 00:18:52.530
+you okay I've had this discussion many
+
+00:18:50.310 --> 00:18:54.690
+times I've even had these opinions when
+
+00:18:52.530 --> 00:18:57.330
+I was a little bit younger but you know
+
+00:18:54.690 --> 00:18:59.280
+you wash your hands when you go to the
+
+00:18:57.330 --> 00:19:00.780
+bathroom a couple of reasons first off
+
+00:18:59.280 --> 00:19:02.370
+make them smell good so they don't smell
+
+00:19:00.780 --> 00:19:03.750
+like pee or poop I know you might be
+
+00:19:02.370 --> 00:19:05.850
+Santa just don't pee or poop in my hand
+
+00:19:03.750 --> 00:19:08.280
+oh yeah this avoids it completely you
+
+00:19:05.850 --> 00:19:09.780
+know the same reason like I want the
+
+00:19:08.280 --> 00:19:11.310
+person making my sandwich to be wearing
+
+00:19:09.780 --> 00:19:12.720
+gloves I don't know what's on his hands
+
+00:19:11.310 --> 00:19:14.240
+but just you know these hands are
+
+00:19:12.720 --> 00:19:17.000
+probably clean but let's absolve in the
+
+00:19:14.240 --> 00:19:21.150
+responsibility and necessity right
+
+00:19:17.000 --> 00:19:23.160
+second reason is I'm a young healthy you
+
+00:19:21.150 --> 00:19:24.840
+know adult male youngish anyway come on
+
+00:19:23.160 --> 00:19:27.750
+let me just butter me up a little bit
+
+00:19:24.840 --> 00:19:29.520
+here I might come in contact I mean I
+
+00:19:27.750 --> 00:19:30.810
+won't because I stay inside almost all
+
+00:19:29.520 --> 00:19:33.870
+the time but I might come in contact
+
+00:19:30.810 --> 00:19:36.710
+with old people people with depressed
+
+00:19:33.870 --> 00:19:40.170
+immune systems ie sick people
+
+00:19:36.710 --> 00:19:41.430
+toddlers you know I it's not just I'm
+
+00:19:40.170 --> 00:19:43.170
+gonna try this I probably shouldn't be
+
+00:19:41.430 --> 00:19:44.850
+I'm gonna try this it's not just for you
+
+00:19:43.170 --> 00:19:47.100
+you know there's a certain herd immunity
+
+00:19:44.850 --> 00:19:48.840
+it's like saying you know I'm not going
+
+00:19:47.100 --> 00:19:50.790
+to get this vaccine because you know I'd
+
+00:19:48.840 --> 00:19:54.330
+rather just get the flu and roll with it
+
+00:19:50.790 --> 00:19:56.430
+not just for you you know you once you
+
+00:19:54.330 --> 00:19:58.500
+have the sickness you're also a carrier
+
+00:19:56.430 --> 00:19:59.730
+of the sickness and you could
+
+00:19:58.500 --> 00:20:01.320
+in fact other people that's why I
+
+00:19:59.730 --> 00:20:03.330
+recommend washing your hands and you
+
+00:20:01.320 --> 00:20:05.280
+know who needs to get this message
+
+00:20:03.330 --> 00:20:07.020
+you're like oh god please tell me who in
+
+00:20:05.280 --> 00:20:08.790
+the NL SS doesn't wash their hands no I
+
+00:20:07.020 --> 00:20:09.930
+don't know that if they're not washing
+
+00:20:08.790 --> 00:20:11.370
+their hands they're not telling me which
+
+00:20:09.930 --> 00:20:13.380
+honestly is a smart decision because I'd
+
+00:20:11.370 --> 00:20:16.020
+kick them off a show like that till they
+
+00:20:13.380 --> 00:20:17.940
+got their dang hands clean so we don't
+
+00:20:16.020 --> 00:20:20.730
+change till you get up and wash your
+
+00:20:17.940 --> 00:20:23.850
+hands buddy we're not going to go any
+
+00:20:20.730 --> 00:20:26.010
+further than that the entire nation of
+
+00:20:23.850 --> 00:20:28.110
+Japan that's right I'm going there I
+
+00:20:26.010 --> 00:20:30.810
+mean I'm not going to Japan any time
+
+00:20:28.110 --> 00:20:34.800
+soon k-tiz but I'm not I've had my fill
+
+00:20:30.810 --> 00:20:37.140
+for the time being yeah let's do it
+
+00:20:34.800 --> 00:20:39.090
+let's recreate this last run any
+
+00:20:37.140 --> 00:20:42.090
+Japanese bathroom in a public place
+
+00:20:39.090 --> 00:20:45.210
+there's like a 95% chance they always
+
+00:20:42.090 --> 00:20:46.410
+have a sink and I appreciate that
+
+00:20:45.210 --> 00:20:46.970
+because I'm sure the water is better
+
+00:20:46.410 --> 00:20:50.670
+than nothing
+
+00:20:46.970 --> 00:20:52.080
+95 percent chance of no soap I see him
+
+00:20:50.670 --> 00:20:56.070
+go into Japanese business right as a
+
+00:20:52.080 --> 00:20:58.740
+country of 150 million people they go in
+
+00:20:56.070 --> 00:21:00.750
+peer pool run a little bit of water on
+
+00:20:58.740 --> 00:21:02.820
+their hands splash them against the sink
+
+00:21:00.750 --> 00:21:06.710
+and then walk out get on a train that
+
+00:21:02.820 --> 00:21:10.380
+has like 1500 people packed into a car I
+
+00:21:06.710 --> 00:21:14.610
+don't know if Japan and this is being
+
+00:21:10.380 --> 00:21:16.350
+sincere do they get mildly sick more
+
+00:21:14.610 --> 00:21:18.510
+than a country like the United States
+
+00:21:16.350 --> 00:21:20.310
+for example or do they get less sick
+
+00:21:18.510 --> 00:21:21.510
+because they tend to be in I'm not
+
+00:21:20.310 --> 00:21:22.770
+trying to insult you by the way they
+
+00:21:21.510 --> 00:21:24.480
+tend to take care of themselves at least
+
+00:21:22.770 --> 00:21:29.580
+from a dietary standpoint from a better
+
+00:21:24.480 --> 00:21:31.260
+position but like either way they do it
+
+00:21:29.580 --> 00:21:33.420
+just it confuses me because it's such a
+
+00:21:31.260 --> 00:21:35.640
+sanitary country like when people get
+
+00:21:33.420 --> 00:21:38.100
+sick they all wear face masks so you
+
+00:21:35.640 --> 00:21:39.990
+don't affect anybody else what what if
+
+00:21:38.100 --> 00:21:42.000
+you did the face mask thing which I
+
+00:21:39.990 --> 00:21:43.590
+think looks a little silly but I
+
+00:21:42.000 --> 00:21:44.940
+understand I think it's admirable from
+
+00:21:43.590 --> 00:21:47.730
+like a disease controlling sort of
+
+00:21:44.940 --> 00:21:49.800
+standpoint but you also had soap in the
+
+00:21:47.730 --> 00:21:52.650
+battle I'm not being controversial here
+
+00:21:49.800 --> 00:21:54.630
+I think I'm not oh just another example
+
+00:21:52.650 --> 00:21:56.490
+of a white guy going into the you know
+
+00:21:54.630 --> 00:21:57.390
+some other cultures country and telling
+
+00:21:56.490 --> 00:21:59.010
+them how to run their business
+
+00:21:57.390 --> 00:22:03.360
+I'm just saying washing your hands with
+
+00:21:59.010 --> 00:22:05.670
+soap of science I love you but just meet
+
+00:22:03.360 --> 00:22:07.530
+me halfway here because then that means
+
+00:22:05.670 --> 00:22:08.880
+that I don't get to use soap when I wash
+
+00:22:07.530 --> 00:22:10.980
+my hands and then I feel like I'm
+
+00:22:08.880 --> 00:22:12.750
+responsible like I'm I'm being grow
+
+00:22:10.980 --> 00:22:16.830
+as a result so I gotta start carrying
+
+00:22:12.750 --> 00:22:17.910
+around like my own hand sanitizer it's
+
+00:22:16.830 --> 00:22:20.340
+one of those things that like I've
+
+00:22:17.910 --> 00:22:22.320
+talked to other expats and people who
+
+00:22:20.340 --> 00:22:24.770
+have spent a lot of time in Japan which
+
+00:22:22.320 --> 00:22:27.140
+I would argue that I have not really but
+
+00:22:24.770 --> 00:22:29.640
+we might lose this one too
+
+00:22:27.140 --> 00:22:32.850
+never soap in the bathrooms it's not
+
+00:22:29.640 --> 00:22:35.070
+like a you know wow Japan so backwards
+
+00:22:32.850 --> 00:22:35.730
+I'm more like just put the soap in the
+
+00:22:35.070 --> 00:22:38.010
+bathrooms
+
+00:22:35.730 --> 00:22:41.160
+you guys are doing so many things right
+
+00:22:38.010 --> 00:22:43.470
+here trains are wonderful so clean
+
+00:22:41.160 --> 00:22:44.760
+there's no garbage like anywhere there's
+
+00:22:43.470 --> 00:22:48.390
+probably like a lot of garbage somewhere
+
+00:22:44.760 --> 00:22:49.799
+but there's no garbage anywhere else but
+
+00:22:48.390 --> 00:22:50.820
+just get some soap in the bathroom
+
+00:22:49.799 --> 00:22:55.799
+that's all I ask
+
+00:22:50.820 --> 00:22:57.960
+you know it doesn't have to be dug okay
+
+00:22:55.799 --> 00:23:00.150
+it's a job creator as well you know
+
+00:22:57.960 --> 00:23:02.880
+starting get those soap factories
+
+00:23:00.150 --> 00:23:04.799
+running it like 10 times production or
+
+00:23:02.880 --> 00:23:07.590
+something like that I'm sure by the way
+
+00:23:04.799 --> 00:23:09.720
+I'm sure we do some things that when
+
+00:23:07.590 --> 00:23:11.640
+Japanese people come to North America
+
+00:23:09.720 --> 00:23:16.049
+they go oh my god you guys do things so
+
+00:23:11.640 --> 00:23:17.100
+weird why are their forks at the sushi
+
+00:23:16.049 --> 00:23:21.750
+restaurant I don't
+
+00:23:17.100 --> 00:23:23.610
+this is unfathomable I'm try there's got
+
+00:23:21.750 --> 00:23:25.080
+to be some examples I always my go-to
+
+00:23:23.610 --> 00:23:26.549
+example and I'm going to avoid just
+
+00:23:25.080 --> 00:23:29.630
+retreading the same ground over and over
+
+00:23:26.549 --> 00:23:31.620
+here but is whenever I see a picture of
+
+00:23:29.630 --> 00:23:33.150
+barbeque and it's served like nine
+
+00:23:31.620 --> 00:23:36.450
+slices of white bread and like that's
+
+00:23:33.150 --> 00:23:39.030
+just humanity's come to farted to be
+
+00:23:36.450 --> 00:23:41.910
+okay with that but then Austin tells me
+
+00:23:39.030 --> 00:23:43.860
+oh no barbecue places do that and I show
+
+00:23:41.910 --> 00:23:45.540
+him picture pictures and victus and he
+
+00:23:43.860 --> 00:23:48.870
+goes oh no good barbecue places here
+
+00:23:45.540 --> 00:23:51.530
+he's taking shots invictus in them slide
+
+00:23:48.870 --> 00:23:51.530
+for the cenotes
+
+00:23:52.570 --> 00:23:56.930
+anyway that's my requisite NL is a bit
+
+00:23:55.160 --> 00:23:58.340
+racist fit here I don't think it's
+
+00:23:56.930 --> 00:23:59.990
+racist to say that I wish I'm not
+
+00:23:58.340 --> 00:24:01.670
+calling them dirty I just wish that they
+
+00:23:59.990 --> 00:24:02.990
+had soap in the bathrooms although I
+
+00:24:01.670 --> 00:24:05.000
+will say I think I've told this story
+
+00:24:02.990 --> 00:24:08.980
+once before but it's too glorious not to
+
+00:24:05.000 --> 00:24:12.020
+tell again I walked into a bathroom in a
+
+00:24:08.980 --> 00:24:14.870
+train station in Japan they have squat
+
+00:24:12.020 --> 00:24:16.100
+toilets not not every toilet is a squat
+
+00:24:14.870 --> 00:24:17.420
+toilet but a lot of toilets of squat
+
+00:24:16.100 --> 00:24:19.640
+toilets never seen a squat toilet
+
+00:24:17.420 --> 00:24:22.490
+imagine caffeine pill from the binding
+
+00:24:19.640 --> 00:24:25.430
+of issac but about the size of you know
+
+00:24:22.490 --> 00:24:27.050
+like a basketball the height is the size
+
+00:24:25.430 --> 00:24:29.270
+of a basketball maybe or not the height
+
+00:24:27.050 --> 00:24:31.100
+the length and the width is of you know
+
+00:24:29.270 --> 00:24:33.710
+just to take caffeine pill and then
+
+00:24:31.100 --> 00:24:35.330
+stretch you along the y-axis and then
+
+00:24:33.710 --> 00:24:36.620
+there's no seat but there's a little bar
+
+00:24:35.330 --> 00:24:38.540
+you hang on to and you just kind of drop
+
+00:24:36.620 --> 00:24:40.820
+your poop of pee out of your out of your
+
+00:24:38.540 --> 00:24:42.620
+bottom and you come up any I don't know
+
+00:24:40.820 --> 00:24:44.300
+and Anatomy works but you know you
+
+00:24:42.620 --> 00:24:45.710
+Cooper pee into it and well you're just
+
+00:24:44.300 --> 00:24:47.660
+kind of crouching over top of it using
+
+00:24:45.710 --> 00:24:49.160
+the bar to support you I got no problem
+
+00:24:47.660 --> 00:24:51.710
+using those for a number one doesn't
+
+00:24:49.160 --> 00:24:53.750
+bother me in the least
+
+00:24:51.710 --> 00:24:55.280
+I never going to use it for a number two
+
+00:24:53.750 --> 00:24:57.170
+I'd rather hold it if it's like an
+
+00:24:55.280 --> 00:25:00.380
+unbelievable emergency I'd try I guess
+
+00:24:57.170 --> 00:25:01.790
+but and then everyone always comes in
+
+00:25:00.380 --> 00:25:03.110
+and says I've read on the internet once
+
+00:25:01.790 --> 00:25:04.130
+that it's better for your colon yeah
+
+00:25:03.110 --> 00:25:06.230
+I'll believe it when I hear from a
+
+00:25:04.130 --> 00:25:07.550
+doctor never got to my doctor and she
+
+00:25:06.230 --> 00:25:09.580
+says oh what kind of toilet do you use
+
+00:25:07.550 --> 00:25:12.620
+that's your problem right there anyway
+
+00:25:09.580 --> 00:25:15.580
+one time I walked in and I was faced
+
+00:25:12.620 --> 00:25:18.650
+with just a bizarre ethical conundrum
+
+00:25:15.580 --> 00:25:21.710
+rainbow baby because I walked in and
+
+00:25:18.650 --> 00:25:23.900
+there was a poop just on the ground and
+
+00:25:21.710 --> 00:25:28.520
+someone had stepped into it they had
+
+00:25:23.900 --> 00:25:31.250
+basically done a waffle stop now that by
+
+00:25:28.520 --> 00:25:32.660
+itself is okay I've seen some gross
+
+00:25:31.250 --> 00:25:35.270
+public bathrooms in my day I've seen
+
+00:25:32.660 --> 00:25:37.160
+some weird public bathrooms and PAX West
+
+00:25:35.270 --> 00:25:38.630
+on the first floor there's a public
+
+00:25:37.160 --> 00:25:40.880
+bathroom that has a huge it's like a
+
+00:25:38.630 --> 00:25:41.900
+stall but there's a huge hole cut out of
+
+00:25:40.880 --> 00:25:43.730
+the side of it because I guess they have
+
+00:25:41.900 --> 00:25:46.430
+a problem with people like taking
+
+00:25:43.730 --> 00:25:48.590
+intravenous drugs in that bathroom you
+
+00:25:46.430 --> 00:25:51.860
+know not adpacks but in downtown seattle
+
+00:25:48.590 --> 00:25:53.150
+and but this is in the convention center
+
+00:25:51.860 --> 00:25:54.680
+I'm just saying like I'm pretty sure
+
+00:25:53.150 --> 00:25:56.450
+it's not the PAX attendees passing out
+
+00:25:54.680 --> 00:25:59.590
+in their vote for the most part although
+
+00:25:56.450 --> 00:25:59.590
+people do get wild sometimes
+
+00:25:59.659 --> 00:26:03.419
+that bathrooms weird I would not feel
+
+00:26:01.950 --> 00:26:04.649
+comfortable using it it's like literally
+
+00:26:03.419 --> 00:26:05.639
+there's a window there where you can
+
+00:26:04.649 --> 00:26:07.679
+just look at the rest of the bathroom
+
+00:26:05.639 --> 00:26:11.340
+you'd have to be in a dire straits to
+
+00:26:07.679 --> 00:26:13.559
+check that out but see I'm getting
+
+00:26:11.340 --> 00:26:15.000
+distracted here there was a poop on the
+
+00:26:13.559 --> 00:26:19.169
+ground and somebody had waffles stomped
+
+00:26:15.000 --> 00:26:21.450
+it here's what I did I went to the
+
+00:26:19.169 --> 00:26:22.620
+bathroom I peed I got out of there and I
+
+00:26:21.450 --> 00:26:24.419
+got out of there as fast as I could
+
+00:26:22.620 --> 00:26:27.299
+after washing my hands no soap
+
+00:26:24.419 --> 00:26:28.889
+unfortunately but I thought to myself
+
+00:26:27.299 --> 00:26:30.809
+like do I even want to use this bathroom
+
+00:26:28.889 --> 00:26:32.850
+like I'm cursed as soon as I step in
+
+00:26:30.809 --> 00:26:34.139
+here because the next person if I get
+
+00:26:32.850 --> 00:26:36.059
+out of here and there's a person waiting
+
+00:26:34.139 --> 00:26:39.299
+to use this bathroom they're going to
+
+00:26:36.059 --> 00:26:40.559
+say oh my god that foreigner went into
+
+00:26:39.299 --> 00:26:43.139
+the bathroom took a poop on the ground
+
+00:26:40.559 --> 00:26:45.149
+stepped on it and now he's leaving like
+
+00:26:43.139 --> 00:26:47.399
+I'm going to catch the secondary blame
+
+00:26:45.149 --> 00:26:49.080
+for doing this even if I had just walked
+
+00:26:47.399 --> 00:26:51.990
+in and then like walked out within two
+
+00:26:49.080 --> 00:26:54.960
+seconds I'm the last person who saw that
+
+00:26:51.990 --> 00:26:56.429
+bathroom without a big poop on the floor
+
+00:26:54.960 --> 00:26:58.139
+according to you know if you'd ask the
+
+00:26:56.429 --> 00:26:59.820
+people that have come after me here so I
+
+00:26:58.139 --> 00:27:02.220
+am now like the Shepard of that poop so
+
+00:26:59.820 --> 00:27:05.009
+I did I would I'd never came close to it
+
+00:27:02.220 --> 00:27:08.279
+but in my head I was like maybe I should
+
+00:27:05.009 --> 00:27:11.100
+clean it up to absolve myself of the
+
+00:27:08.279 --> 00:27:12.629
+suspicion that it was me and then you
+
+00:27:11.100 --> 00:27:15.120
+know there's a clean bathroom back here
+
+00:27:12.629 --> 00:27:16.529
+I did not and you know in hindsight it's
+
+00:27:15.120 --> 00:27:18.659
+actually just ridiculous
+
+00:27:16.529 --> 00:27:20.129
+that I would ever have considered it I
+
+00:27:18.659 --> 00:27:21.870
+mean after I cleaned it up how am I
+
+00:27:20.129 --> 00:27:25.139
+going to wash my hands just with water
+
+00:27:21.870 --> 00:27:27.929
+oh thanks oh man it doesn't it's not the
+
+00:27:25.139 --> 00:27:31.769
+same it doesn't get the oils out so
+
+00:27:27.929 --> 00:27:33.269
+anyway that's that's my story Kate told
+
+00:27:31.769 --> 00:27:38.159
+me that when she went to Italy and
+
+00:27:33.269 --> 00:27:39.659
+admittedly this is like probably like 18
+
+00:27:38.159 --> 00:27:40.740
+years ago or something like that I'm
+
+00:27:39.659 --> 00:27:42.929
+trying to remember I think she told me
+
+00:27:40.740 --> 00:27:44.039
+she was like a seven or eight when she
+
+00:27:42.929 --> 00:27:45.750
+went she said they were near the
+
+00:27:44.039 --> 00:27:47.250
+Colosseum I'm not trying to suggest all
+
+00:27:45.750 --> 00:27:51.120
+of Italy's like this they were near the
+
+00:27:47.250 --> 00:27:54.240
+Colosseum and people apparently steal
+
+00:27:51.120 --> 00:27:56.639
+the toilet paper from the bathroom and
+
+00:27:54.240 --> 00:27:59.940
+then they try to sell it to you so that
+
+00:27:56.639 --> 00:28:01.590
+you I mean have toilet paper when you go
+
+00:27:59.940 --> 00:28:03.179
+poop I would pay 25 cents a sheet for
+
+00:28:01.590 --> 00:28:06.000
+toilet paper I'd rather not have to but
+
+00:28:03.179 --> 00:28:08.559
+if the if the situation presented itself
+
+00:28:06.000 --> 00:28:11.499
+and I absolutely had to I could see it
+
+00:28:08.559 --> 00:28:13.389
+someone verify whether or not that's a
+
+00:28:11.499 --> 00:28:15.610
+true story because if it's a fake story
+
+00:28:13.389 --> 00:28:17.919
+then I'm you know she's got some
+
+00:28:15.610 --> 00:28:22.240
+explaining to do if she's got a real if
+
+00:28:17.919 --> 00:28:26.320
+it's a real story then like man nip that
+
+00:28:22.240 --> 00:28:31.259
+in the bud okay you set up like a
+
+00:28:26.320 --> 00:28:31.259
+secondary like steam key sales market
+
+00:28:33.629 --> 00:28:39.690
+for toilet paper toilet paper they
+
+00:28:36.340 --> 00:28:39.690
+didn't even purchase in the first place
+
+00:28:40.559 --> 00:28:44.769
+I'm not trying to say you know these
+
+00:28:42.809 --> 00:28:46.029
+vagabonds shouldn't be allowed to make
+
+00:28:44.769 --> 00:28:48.360
+some money but that's like you're
+
+00:28:46.029 --> 00:28:51.249
+creating an artificial scarcity there
+
+00:28:48.360 --> 00:28:53.049
+plus you're compromising you're just
+
+00:28:51.249 --> 00:28:54.850
+creating more work for the laundry at
+
+00:28:53.049 --> 00:28:56.499
+that point because you know there's
+
+00:28:54.850 --> 00:28:58.840
+going to be I've been on vacation with
+
+00:28:56.499 --> 00:29:00.639
+dad's dad's of all stars and stripes
+
+00:28:58.840 --> 00:29:02.830
+there's going to be one dad eventually
+
+00:29:00.639 --> 00:29:04.179
+who's like you know I'd really like the
+
+00:29:02.830 --> 00:29:05.470
+toilet paper but I'm not going to pay
+
+00:29:04.179 --> 00:29:07.600
+for it I'm not going to buy into your
+
+00:29:05.470 --> 00:29:08.860
+racket you know dads are stubborn like
+
+00:29:07.600 --> 00:29:10.809
+that he's going to pull up his pants
+
+00:29:08.860 --> 00:29:14.320
+with it with half a deuce still smeared
+
+00:29:10.809 --> 00:29:17.340
+on the o-ring and you know ruin a
+
+00:29:14.320 --> 00:29:17.340
+perfectly good pair of chinos
+
+00:29:18.789 --> 00:29:22.700
+and I don't stand by that because when
+
+00:29:20.899 --> 00:29:25.760
+dads are on vacation dads should be able
+
+00:29:22.700 --> 00:29:28.370
+to let loose they've been working all
+
+00:29:25.760 --> 00:29:31.010
+year at the paper Factory just so my
+
+00:29:28.370 --> 00:29:32.539
+wife wants to go to Italy I can't wait
+
+00:29:31.010 --> 00:29:34.130
+to go to Italy so these found to be this
+
+00:29:32.539 --> 00:29:36.289
+freaking Paper Factory plus I get to
+
+00:29:34.130 --> 00:29:37.850
+make memories of my family and it's
+
+00:29:36.289 --> 00:29:38.990
+going to be an enjoyable time and then
+
+00:29:37.850 --> 00:29:41.120
+all of a sudden you know some guys
+
+00:29:38.990 --> 00:29:43.159
+trying to grip them in the toilet paper
+
+00:29:41.120 --> 00:29:45.529
+game I was born at night but not last
+
+00:29:43.159 --> 00:29:47.809
+night good serve I don't even know what
+
+00:29:45.529 --> 00:29:51.409
+I'm talking about anymore this is our
+
+00:29:47.809 --> 00:29:53.149
+first fight against Gish if I'm being
+
+00:29:51.409 --> 00:29:54.740
+100% honest and I've said this about a
+
+00:29:53.149 --> 00:29:56.659
+few runs recently you might start to
+
+00:29:54.740 --> 00:29:59.720
+think this is like the NL who cried wolf
+
+00:29:56.659 --> 00:30:02.330
+I think that this run is pretty bad
+
+00:29:59.720 --> 00:30:03.830
+halos good pacifier is good I mean just
+
+00:30:02.330 --> 00:30:07.159
+in general let's put a blanket term
+
+00:30:03.830 --> 00:30:08.899
+there our rate of fire is great dark
+
+00:30:07.159 --> 00:30:11.840
+bomb is also good although we can't seem
+
+00:30:08.899 --> 00:30:13.820
+to get a luck upgrade we're going to get
+
+00:30:11.840 --> 00:30:15.230
+a little Gish here which is not very
+
+00:30:13.820 --> 00:30:18.289
+relevant to be honest with you and our
+
+00:30:15.230 --> 00:30:21.140
+damage is pretty bad I mean it is 7.13
+
+00:30:18.289 --> 00:30:25.460
+but that's because we use the devil card
+
+00:30:21.140 --> 00:30:28.940
+here okay to spirit ours is a big take
+
+00:30:25.460 --> 00:30:31.100
+up and crystal the tower is garbage I
+
+00:30:28.940 --> 00:30:32.390
+don't think I've I think I have taking
+
+00:30:31.100 --> 00:30:34.220
+Chris to the tower once on this save
+
+00:30:32.390 --> 00:30:35.210
+file I thought I took it on a run where
+
+00:30:34.220 --> 00:30:36.860
+I was like we might as well take it
+
+00:30:35.210 --> 00:30:39.409
+we're going to win anyway which is the
+
+00:30:36.860 --> 00:30:42.919
+right approach to take for that item
+
+00:30:39.409 --> 00:30:46.520
+that was just terrible okay okay so what
+
+00:30:42.919 --> 00:30:51.620
+are we leveraging here to try to make a
+
+00:30:46.520 --> 00:30:53.419
+bad run a little better well we have a
+
+00:30:51.620 --> 00:30:54.740
+decent number of bombs and a decent
+
+00:30:53.419 --> 00:30:56.659
+number of keys so if we can leverage
+
+00:30:54.740 --> 00:30:58.520
+those to pick up more consumables than
+
+00:30:56.659 --> 00:31:00.620
+maybe could lead to something good from
+
+00:30:58.520 --> 00:31:01.940
+the shop also being able to dodge for
+
+00:31:00.620 --> 00:31:07.760
+like the first time in my adult life
+
+00:31:01.940 --> 00:31:11.539
+might be nice chemical peel is an okay
+
+00:31:07.760 --> 00:31:14.360
+damage of now half of our shots are
+
+00:31:11.539 --> 00:31:15.770
+going to deal like eight damage now
+
+00:31:14.360 --> 00:31:19.210
+eight point eight point six damage
+
+00:31:15.770 --> 00:31:21.470
+that's not bad not quite dead shot but
+
+00:31:19.210 --> 00:31:24.919
+we're still alive so that you know we
+
+00:31:21.470 --> 00:31:26.600
+have a leg up in that area hmm we're
+
+00:31:24.919 --> 00:31:31.789
+about to leave the tank that's one as
+
+00:31:26.600 --> 00:31:33.139
+well I think I can't I thought about it
+
+00:31:31.789 --> 00:31:35.029
+but I can't bring myself to bomb our
+
+00:31:33.139 --> 00:31:40.639
+donation machine I just don't think it's
+
+00:31:35.029 --> 00:31:41.899
+like I wouldn't feel right about it
+
+00:31:40.639 --> 00:31:46.070
+because our donation machine is our
+
+00:31:41.899 --> 00:31:47.840
+friend and then you don't blow up your
+
+00:31:46.070 --> 00:31:52.100
+friend just to get a couple of pennies
+
+00:31:47.840 --> 00:31:53.630
+you know if I can give you one lesson
+
+00:31:52.100 --> 00:31:54.740
+today it's first off apparently if
+
+00:31:53.630 --> 00:31:56.690
+you're going to Japan and you care about
+
+00:31:54.740 --> 00:32:01.039
+cleanliness of your hands bring your own
+
+00:31:56.690 --> 00:32:03.860
+soap secondly I'm just I want you to be
+
+00:32:01.039 --> 00:32:06.230
+clean it's not I'm saying I'm not the
+
+00:32:03.860 --> 00:32:10.190
+cleanest man in the world I'm relatively
+
+00:32:06.230 --> 00:32:12.770
+clean but you know there are times I've
+
+00:32:10.190 --> 00:32:15.620
+been blessed or cursed with the you know
+
+00:32:12.770 --> 00:32:16.850
+too much free testosterone or something
+
+00:32:15.620 --> 00:32:18.590
+I don't know the genetics behind it but
+
+00:32:16.850 --> 00:32:21.440
+I you know I went bald when I was like
+
+00:32:18.590 --> 00:32:23.659
+19 I'm 28 years old I have ear hair
+
+00:32:21.440 --> 00:32:25.580
+don't cry for me you know life's still
+
+00:32:23.659 --> 00:32:27.049
+pretty good but it is a little bit on
+
+00:32:25.580 --> 00:32:29.840
+the ridiculous side wouldn't you say
+
+00:32:27.049 --> 00:32:31.760
+sometimes I come back inside after a
+
+00:32:29.840 --> 00:32:33.559
+whole day of being outside and kael be
+
+00:32:31.760 --> 00:32:36.529
+like man your ear hair is like growing
+
+00:32:33.559 --> 00:32:37.909
+out of control and am i all good I was
+
+00:32:36.529 --> 00:32:39.760
+out there thinking that I looked
+
+00:32:37.909 --> 00:32:43.880
+respectable but it actually I look like
+
+00:32:39.760 --> 00:32:46.159
+you know the weird dude from Star Wars
+
+00:32:43.880 --> 00:32:49.220
+or Star Trek Voyager you know which one
+
+00:32:46.159 --> 00:32:50.570
+I'm talking about maybe he's from Deep
+
+00:32:49.220 --> 00:32:53.630
+Space 9 I don't know he kind of looks
+
+00:32:50.570 --> 00:32:55.520
+like a hobbit but he's big he's like
+
+00:32:53.630 --> 00:32:57.760
+bigger than a hobbit is bigger than a
+
+00:32:55.520 --> 00:32:57.760
+breadbox
+
+00:32:58.679 --> 00:33:03.690
+right I maintain a certain like I shower
+
+00:33:01.440 --> 00:33:05.220
+every day wash my hands after I go to
+
+00:33:03.690 --> 00:33:06.480
+the bathroom every once in a while I
+
+00:33:05.220 --> 00:33:09.059
+could give myself a little stink check
+
+00:33:06.480 --> 00:33:10.380
+you know you go okay we're still holding
+
+00:33:09.059 --> 00:33:14.370
+up here it's like checking the oil in
+
+00:33:10.380 --> 00:33:16.620
+your car people go I don't stink yeah
+
+00:33:14.370 --> 00:33:19.260
+but wouldn't you rather check when you
+
+00:33:16.620 --> 00:33:21.960
+rather just know like I've been to some
+
+00:33:19.260 --> 00:33:24.059
+Friday night magic I believe it for me
+
+00:33:21.960 --> 00:33:27.659
+or did you believe it or not take it
+
+00:33:24.059 --> 00:33:28.650
+from me I'm not insulting everybody that
+
+00:33:27.659 --> 00:33:30.870
+goes to Friday night magic
+
+00:33:28.650 --> 00:33:33.510
+I am just saying that by and large
+
+00:33:30.870 --> 00:33:35.250
+there's a certain the the overall
+
+00:33:33.510 --> 00:33:38.549
+average cleanliness of the room is lower
+
+00:33:35.250 --> 00:33:40.110
+than I like sometimes so you need a lot
+
+00:33:38.549 --> 00:33:41.549
+of people there probably like why would
+
+00:33:40.110 --> 00:33:43.140
+I need to shower I don't smell bad just
+
+00:33:41.549 --> 00:33:44.399
+telling you just a general rule there's
+
+00:33:43.140 --> 00:33:46.049
+days when I'm like that I'm like I don't
+
+00:33:44.399 --> 00:33:49.679
+need to shower today shower anyway build
+
+00:33:46.049 --> 00:33:51.600
+a habit I don't think people need this
+
+00:33:49.679 --> 00:33:53.460
+lesson for the most part many of you
+
+00:33:51.600 --> 00:33:56.520
+probably have your your lives more in
+
+00:33:53.460 --> 00:33:58.049
+order than me does I meet people that
+
+00:33:56.520 --> 00:34:00.000
+you know I had conventions and stuff
+
+00:33:58.049 --> 00:34:00.990
+they're like oh I love your videos I
+
+00:34:00.000 --> 00:34:03.990
+like cool what do you do and they're
+
+00:34:00.990 --> 00:34:07.740
+armed you know CEO at Facebook that's
+
+00:34:03.990 --> 00:34:09.119
+right Mark Zuckerberg Marty suck as I
+
+00:34:07.740 --> 00:34:10.919
+call him I like to call him that because
+
+00:34:09.119 --> 00:34:12.929
+it gets his name wrong and thus gives me
+
+00:34:10.919 --> 00:34:14.399
+social value over him because he's a big
+
+00:34:12.929 --> 00:34:16.830
+fan and I'm making him feel like garbage
+
+00:34:14.399 --> 00:34:19.349
+so that's like a really that's pretty
+
+00:34:16.830 --> 00:34:23.099
+much my central ethos uh we can afford
+
+00:34:19.349 --> 00:34:24.929
+to fight this guy why not right no I've
+
+00:34:23.099 --> 00:34:28.429
+never met Mark Zuckerberg but I do meet
+
+00:34:24.929 --> 00:34:31.560
+people there's there's a little irony
+
+00:34:28.429 --> 00:34:33.179
+one time I thought I was being clever
+
+00:34:31.560 --> 00:34:36.149
+this was like five years ago as a
+
+00:34:33.179 --> 00:34:38.669
+younger NL I've grown a matured a lot
+
+00:34:36.149 --> 00:34:41.970
+through through the years as most people
+
+00:34:38.669 --> 00:34:43.440
+I want to do I believe I met him at at a
+
+00:34:41.970 --> 00:34:45.690
+pax and if you're watching this you
+
+00:34:43.440 --> 00:34:47.609
+probably at this point think that I'm
+
+00:34:45.690 --> 00:34:48.690
+just a total dick and have stopped
+
+00:34:47.609 --> 00:34:50.669
+watching and you know what this is
+
+00:34:48.690 --> 00:34:52.320
+deserve it although it is just an
+
+00:34:50.669 --> 00:34:54.859
+offhanded comment anyway the point is
+
+00:34:52.320 --> 00:34:57.660
+we're going to stop baiting it here um
+
+00:34:54.859 --> 00:34:58.859
+he saw me he said like oh hey NL you
+
+00:34:57.660 --> 00:34:59.820
+know I'm a big fan and I was like cool
+
+00:34:58.859 --> 00:35:01.650
+what are you doing he's like I'm a
+
+00:34:59.820 --> 00:35:03.630
+software developer and I said my
+
+00:35:01.650 --> 00:35:07.410
+condolences which I thought was just
+
+00:35:03.630 --> 00:35:09.460
+like kind of a pity like you know ha ha
+
+00:35:07.410 --> 00:35:10.930
+ha you know that's big you know
+
+00:35:09.460 --> 00:35:13.030
+software developers real boring it's
+
+00:35:10.930 --> 00:35:15.490
+just like office space there's so much
+
+00:35:13.030 --> 00:35:16.839
+irony in that because now I'm not doing
+
+00:35:15.490 --> 00:35:18.609
+it for sad bombs but I did think about
+
+00:35:16.839 --> 00:35:20.470
+it now
+
+00:35:18.609 --> 00:35:22.359
+I love software development for one
+
+00:35:20.470 --> 00:35:25.270
+software development is really fun it's
+
+00:35:22.359 --> 00:35:26.560
+like cold Lego you know you're building
+
+00:35:25.270 --> 00:35:27.640
+something but you're not building it
+
+00:35:26.560 --> 00:35:28.300
+with your hands you're building with
+
+00:35:27.640 --> 00:35:30.280
+your brain
+
+00:35:28.300 --> 00:35:32.680
+it's really cool he just kind of laughed
+
+00:35:30.280 --> 00:35:34.690
+and was like no huh yeah anyway nice to
+
+00:35:32.680 --> 00:35:36.070
+meet you I don't think I'm not saying
+
+00:35:34.690 --> 00:35:37.599
+the guy thought I was a jerk and I don't
+
+00:35:36.070 --> 00:35:39.400
+think I necessarily come off too badly
+
+00:35:37.599 --> 00:35:41.530
+in that story but the other part of that
+
+00:35:39.400 --> 00:35:42.910
+story is first off I regret saying it
+
+00:35:41.530 --> 00:35:45.670
+because in my opinion I was just wrong
+
+00:35:42.910 --> 00:35:47.770
+but secondly basically if anyone ever
+
+00:35:45.670 --> 00:35:49.869
+tells you what they do the worst
+
+00:35:47.770 --> 00:35:51.580
+possible reaction that you can have is
+
+00:35:49.869 --> 00:35:53.200
+like oh you know that thing that you've
+
+00:35:51.580 --> 00:35:55.330
+dedicated your life to and like you know
+
+00:35:53.200 --> 00:35:57.130
+1/4 of your waking hours or 1:30 your
+
+00:35:55.330 --> 00:35:59.710
+waking hours wow what a waste you know
+
+00:35:57.130 --> 00:36:01.800
+it's just sort of a bad thing to do even
+
+00:35:59.710 --> 00:36:04.089
+if somebody's like I work at you know I
+
+00:36:01.800 --> 00:36:05.980
+clean the bedpans at the hospital if you
+
+00:36:04.089 --> 00:36:07.599
+were like well that's a crappy job right
+
+00:36:05.980 --> 00:36:09.339
+amazing yeah but maybe it's rewarding
+
+00:36:07.599 --> 00:36:11.470
+and even if it isn't rewarding even if
+
+00:36:09.339 --> 00:36:14.080
+it's even if they hated you know they
+
+00:36:11.470 --> 00:36:17.280
+don't want to be reminded that it sucks
+
+00:36:14.080 --> 00:36:20.290
+it's just kind of a jerk move honestly
+
+00:36:17.280 --> 00:36:22.690
+that's my this is my apology to that guy
+
+00:36:20.290 --> 00:36:24.400
+you know there's a long thought we can
+
+00:36:22.690 --> 00:36:25.390
+make it there it was a long time ago and
+
+00:36:24.400 --> 00:36:27.880
+I don't think you took it the wrong way
+
+00:36:25.390 --> 00:36:29.080
+but every once in a while I do think
+
+00:36:27.880 --> 00:36:30.460
+back to that moment like once a month
+
+00:36:29.080 --> 00:36:32.890
+I'll be like why did I say my
+
+00:36:30.460 --> 00:36:38.680
+condolences that's just like it's such a
+
+00:36:32.890 --> 00:36:39.820
+jerk move headed at this point in my
+
+00:36:38.680 --> 00:36:42.280
+life and trying to take a genuine
+
+00:36:39.820 --> 00:36:43.540
+interest in you know what people do
+
+00:36:42.280 --> 00:36:44.950
+because especially if you like you meet
+
+00:36:43.540 --> 00:36:47.410
+someone passionate about what they do
+
+00:36:44.950 --> 00:36:48.820
+even if you don't understand it at all
+
+00:36:47.410 --> 00:36:50.980
+it's cool to talk to them and figure out
+
+00:36:48.820 --> 00:36:52.570
+you know what drives them I feel like
+
+00:36:50.980 --> 00:36:55.510
+there's a good gisli message in there
+
+00:36:52.570 --> 00:36:57.490
+he's like the same way like Dan is one
+
+00:36:55.510 --> 00:36:59.800
+of the most interested people I've ever
+
+00:36:57.490 --> 00:37:04.390
+met I think that's why he's so likeable
+
+00:36:59.800 --> 00:37:06.190
+one of the reasons he's so likeable and
+
+00:37:04.390 --> 00:37:07.810
+I didn't misspeak I don't necessarily
+
+00:37:06.190 --> 00:37:09.369
+mean that Dan is one of the most
+
+00:37:07.810 --> 00:37:10.960
+interesting people I've ever met
+
+00:37:09.369 --> 00:37:12.940
+although I think that would also fit the
+
+00:37:10.960 --> 00:37:14.890
+bill you ever listen to him during play
+
+00:37:12.940 --> 00:37:16.810
+around on battlegrounds but anyway I
+
+00:37:14.890 --> 00:37:19.480
+think one of the most interested people
+
+00:37:16.810 --> 00:37:20.770
+I've ever met like he'd he'll get in a
+
+00:37:19.480 --> 00:37:22.660
+conversation with you about something
+
+00:37:20.770 --> 00:37:23.200
+that he knows nothing about and he
+
+00:37:22.660 --> 00:37:25.030
+really
+
+00:37:23.200 --> 00:37:26.710
+gives you the idea that he's trying to
+
+00:37:25.030 --> 00:37:28.470
+learn more about it you know I think
+
+00:37:26.710 --> 00:37:30.670
+he's very good socially in that way
+
+00:37:28.470 --> 00:37:32.470
+which is in the Big Brother house will
+
+00:37:30.670 --> 00:37:36.040
+get you killed if you're on the wrong
+
+00:37:32.470 --> 00:37:38.619
+side of the Gea's you can manipulate the
+
+00:37:36.040 --> 00:37:40.420
+masses right but in a personal sort of
+
+00:37:38.619 --> 00:37:43.300
+like affable sort of way it's it's
+
+00:37:40.420 --> 00:37:45.700
+really nice feel free to tell them I
+
+00:37:43.300 --> 00:37:50.589
+said that by the way no problem offering
+
+00:37:45.700 --> 00:37:57.250
+a fellow giving a genuine and sincere
+
+00:37:50.589 --> 00:38:01.869
+compliment like that I think it's it's
+
+00:37:57.250 --> 00:38:04.359
+virtuous now if somebody went up to me
+
+00:38:01.869 --> 00:38:05.530
+and they're like oh hey NL how you doing
+
+00:38:04.359 --> 00:38:06.430
+and I was like oh cool what do you doing
+
+00:38:05.530 --> 00:38:08.470
+they're like I run a YouTube channel
+
+00:38:06.430 --> 00:38:13.030
+called youtube.com slash Mathis games I
+
+00:38:08.470 --> 00:38:17.170
+would be like all my condolences oh man
+
+00:38:13.030 --> 00:38:20.589
+yes that anecdote hurts me because it
+
+00:38:17.170 --> 00:38:23.079
+sort of a reflects badly on me and then
+
+00:38:20.589 --> 00:38:25.150
+B also it just it makes you look like
+
+00:38:23.079 --> 00:38:26.500
+you're out of touch and I just hate when
+
+00:38:25.150 --> 00:38:28.300
+I think back to that is like I lose you
+
+00:38:26.500 --> 00:38:31.420
+know when you have those stories where I
+
+00:38:28.300 --> 00:38:33.640
+told you like you know my high school
+
+00:38:31.420 --> 00:38:36.190
+bus driver was like have fun in college
+
+00:38:33.640 --> 00:38:37.750
+and I was like yeah you too and I was
+
+00:38:36.190 --> 00:38:40.180
+like that accidentally made me look like
+
+00:38:37.750 --> 00:38:42.940
+a jerk this one kind of like was I was
+
+00:38:40.180 --> 00:38:46.300
+accidentally being a jerk which is a
+
+00:38:42.940 --> 00:38:48.069
+step in a different direction oh my god
+
+00:38:46.300 --> 00:38:50.800
+are we actually going to be able to do
+
+00:38:48.069 --> 00:38:56.740
+something on this run I'm questioning it
+
+00:38:50.800 --> 00:38:58.750
+but also like hopeful I suppose and
+
+00:38:56.740 --> 00:39:00.910
+there's a there's a level of growth
+
+00:38:58.750 --> 00:39:02.440
+there you know I hope there's a level of
+
+00:39:00.910 --> 00:39:04.480
+growth there as well maybe I don't think
+
+00:39:02.440 --> 00:39:05.940
+I've had it's like the only interaction
+
+00:39:04.480 --> 00:39:08.980
+I've ever had
+
+00:39:05.940 --> 00:39:10.599
+that went wrong and it wasn't even right
+
+00:39:08.980 --> 00:39:11.920
+it's not like he said he'd screw you and
+
+00:39:10.599 --> 00:39:13.690
+then walked away it was very pleasant
+
+00:39:11.920 --> 00:39:15.250
+interaction but you know doing the
+
+00:39:13.690 --> 00:39:17.140
+post-mortem afterwards I was like that
+
+00:39:15.250 --> 00:39:18.760
+was not a good interaction it's the only
+
+00:39:17.140 --> 00:39:21.040
+one like that I've ever had and I think
+
+00:39:18.760 --> 00:39:22.750
+that's a good sign because it's also if
+
+00:39:21.040 --> 00:39:23.710
+it's the only one that's gone wrong and
+
+00:39:22.750 --> 00:39:25.060
+it was my fault
+
+00:39:23.710 --> 00:39:27.790
+that's perfect everybody else has been
+
+00:39:25.060 --> 00:39:31.690
+doing their jobs you know then been
+
+00:39:27.790 --> 00:39:32.870
+polite and affable and not weird and
+
+00:39:31.690 --> 00:39:36.220
+that's
+
+00:39:32.870 --> 00:39:36.220
+it's all it takes you know
+
+00:39:40.740 --> 00:39:45.180
+I think anyway I am still a little salty
+
+00:39:43.470 --> 00:39:46.470
+that Dan didn't give me that TV he was
+
+00:39:45.180 --> 00:39:47.730
+giving away in that sponsored deal
+
+00:39:46.470 --> 00:39:50.160
+though I really thought I was a shoo-in
+
+00:39:47.730 --> 00:39:51.660
+I've never heard of the company that was
+
+00:39:50.160 --> 00:39:53.940
+giving it away it was probably for
+
+00:39:51.660 --> 00:39:55.850
+American residents only and somebody in
+
+00:39:53.940 --> 00:39:58.440
+the comments is like you know oh my
+
+00:39:55.850 --> 00:40:00.600
+boyfriend from overseas like we watch
+
+00:39:58.440 --> 00:40:02.340
+all your shows on Big Brother we met on
+
+00:40:00.600 --> 00:40:04.020
+Big Brother he proposed to me with a big
+
+00:40:02.340 --> 00:40:06.270
+brother themed ring and I was like come
+
+00:40:04.020 --> 00:40:08.010
+on Jennifer you're really blowing out
+
+00:40:06.270 --> 00:40:11.060
+the field for the rest of us like how am
+
+00:40:08.010 --> 00:40:11.060
+I supposed to compete with that
+
+00:40:11.660 --> 00:40:16.619
+telling your honest heartfelt story I'm
+
+00:40:15.240 --> 00:40:18.450
+just over here trying to get a free TV
+
+00:40:16.619 --> 00:40:20.310
+because I got a lot of Twitter followers
+
+00:40:18.450 --> 00:40:21.840
+and people care about my opinions on
+
+00:40:20.310 --> 00:40:23.850
+sandwiches for whatever reason you got
+
+00:40:21.840 --> 00:40:25.500
+to you know step in here with this
+
+00:40:23.850 --> 00:40:29.220
+incredibly heartfelt story about how you
+
+00:40:25.500 --> 00:40:32.220
+deserve a TV because yo I've gone
+
+00:40:29.220 --> 00:40:36.420
+through so much hardship whatever do a
+
+00:40:32.220 --> 00:40:39.780
+coin flip Jennifer I can afford it to
+
+00:40:36.420 --> 00:40:46.050
+new TV I'd rather not have to pay for it
+
+00:40:39.780 --> 00:40:48.000
+I'm being jerkin out now her story was
+
+00:40:46.050 --> 00:40:51.180
+good as soon as you read that one you're
+
+00:40:48.000 --> 00:40:52.230
+like that salons gonna win but this was
+
+00:40:51.180 --> 00:40:53.730
+like two weeks ago at this point
+
+00:40:52.230 --> 00:40:56.130
+assigned this video goes up as ancient
+
+00:40:53.730 --> 00:40:57.660
+history I wasn't actually gunning for a
+
+00:40:56.130 --> 00:40:59.640
+new TV to be honest I don't think we
+
+00:40:57.660 --> 00:41:04.200
+could fit a big TV in our apartment we
+
+00:40:59.640 --> 00:41:06.690
+got like think we have like a 36 inch TV
+
+00:41:04.200 --> 00:41:08.369
+by the way if you still watch TV or you
+
+00:41:06.690 --> 00:41:09.630
+use the TV that would you know play
+
+00:41:08.369 --> 00:41:11.130
+console games or something like that I
+
+00:41:09.630 --> 00:41:13.440
+hope you know how lucky you have it
+
+00:41:11.130 --> 00:41:15.960
+because when I was a kid a big-screen TV
+
+00:41:13.440 --> 00:41:18.000
+was like 32 inches now that's just like
+
+00:41:15.960 --> 00:41:21.980
+oh yeah we got like that TV is 32 inches
+
+00:41:18.000 --> 00:41:25.380
+TV prices have come way down when I was
+
+00:41:21.980 --> 00:41:26.520
+until the age of like 10 I remember this
+
+00:41:25.380 --> 00:41:29.760
+because it was a topic of conversation
+
+00:41:26.520 --> 00:41:33.359
+among the at the dining room table until
+
+00:41:29.760 --> 00:41:35.850
+the age of like 10 my family had a 14
+
+00:41:33.359 --> 00:41:38.190
+inch TV it was on the other side of the
+
+00:41:35.850 --> 00:41:41.010
+living room and I had undiagnosed
+
+00:41:38.190 --> 00:41:42.869
+astigmatism until I was like 11 years
+
+00:41:41.010 --> 00:41:43.980
+old so I have no idea how I got any
+
+00:41:42.869 --> 00:41:46.440
+enjoyment out of watching television
+
+00:41:43.980 --> 00:41:49.170
+just blurry shapes a hundred yards away
+
+00:41:46.440 --> 00:41:54.290
+on you know a TV screen the size of a
+
+00:41:49.170 --> 00:41:59.210
+postage stamp then my grandfather
+
+00:41:54.290 --> 00:42:01.670
+bought a 60-inch TV so he gave us his 27
+
+00:41:59.210 --> 00:42:03.920
+inch picture tube and it was like the
+
+00:42:01.670 --> 00:42:07.670
+whole world had changed I was like the
+
+00:42:03.920 --> 00:42:12.290
+TV's twice as big all the stuff in 320p
+
+00:42:07.670 --> 00:42:14.660
+is gorgeous and nowadays it's like you
+
+00:42:12.290 --> 00:42:16.760
+know these computer monitors are like
+
+00:42:14.660 --> 00:42:18.530
+you know 22 inches or something like
+
+00:42:16.760 --> 00:42:21.200
+that I'm sitting an inch away from them
+
+00:42:18.530 --> 00:42:24.440
+we got a I think our TV is like 36
+
+00:42:21.200 --> 00:42:26.800
+inches we got a probably $200 that's
+
+00:42:24.440 --> 00:42:29.600
+absurd
+
+00:42:26.800 --> 00:42:32.990
+I'm pretty sure that when it was like
+
+00:42:29.600 --> 00:42:35.000
+$19.99 I'm gonna die I know it dude
+
+00:42:32.990 --> 00:42:37.100
+first off where's my damage where's my
+
+00:42:35.000 --> 00:42:40.100
+luck and where are my red hearts that
+
+00:42:37.100 --> 00:42:43.990
+allows dark bomb to make spirit hearts
+
+00:42:40.100 --> 00:42:51.980
+out of them because I'm losing my edge I
+
+00:42:43.990 --> 00:42:52.550
+need some support nothing dude oh this
+
+00:42:51.980 --> 00:43:01.430
+is bad
+
+00:42:52.550 --> 00:43:04.070
+oh you gotta kill him hey okay I'm
+
+00:43:01.430 --> 00:43:06.650
+pretty sure he probably paid like $2,500
+
+00:43:04.070 --> 00:43:09.380
+for it now and it's hilarious because it
+
+00:43:06.650 --> 00:43:10.970
+was not like a 60-inch flat screen the
+
+00:43:09.380 --> 00:43:14.260
+thing was like it took four dudes to
+
+00:43:10.970 --> 00:43:17.990
+move it into their house and it was like
+
+00:43:14.260 --> 00:43:20.960
+maybe like two feet deep it had a depth
+
+00:43:17.990 --> 00:43:23.120
+to it and then if you sat like anywhere
+
+00:43:20.960 --> 00:43:25.040
+that wasn't within like the prime 15
+
+00:43:23.120 --> 00:43:27.050
+degrees of viewing angle the T it just
+
+00:43:25.040 --> 00:43:28.850
+you couldn't see anything this is what
+
+00:43:27.050 --> 00:43:31.730
+technology was like back then still
+
+00:43:28.850 --> 00:43:34.630
+pretty good it wasn't like the 1930s but
+
+00:43:31.730 --> 00:43:37.520
+you know it was
+
+00:43:34.630 --> 00:43:38.900
+wasn't the beautiful TV environment we
+
+00:43:37.520 --> 00:43:40.910
+live in these days I know it's the
+
+00:43:38.900 --> 00:43:42.770
+classic NL discussion topic is back in
+
+00:43:40.910 --> 00:43:44.210
+my day I almost walked on that creep
+
+00:43:42.770 --> 00:43:48.290
+because it blends in so well with the
+
+00:43:44.210 --> 00:43:50.570
+ground but really I was when I Kate was
+
+00:43:48.290 --> 00:43:52.100
+like let's buy a TV this is a 2014 I
+
+00:43:50.570 --> 00:43:54.410
+remember because I was like I got to
+
+00:43:52.100 --> 00:43:57.710
+write that in my adult progress planner
+
+00:43:54.410 --> 00:43:59.810
+but Bob first TV I was like an
+
+00:43:57.710 --> 00:44:03.980
+investment when I was a kid it's like
+
+00:43:59.810 --> 00:44:05.630
+you make payments on your TV I was like
+
+00:44:03.980 --> 00:44:07.580
+holy sure you're ready for this step
+
+00:44:05.630 --> 00:44:09.440
+buying the TV we went down to the future
+
+00:44:07.580 --> 00:44:12.400
+shop rest in peace now it's called Best
+
+00:44:09.440 --> 00:44:15.800
+Buy because they're owned by Best Buy
+
+00:44:12.400 --> 00:44:16.100
+there's a TV on sale for like 200 250
+
+00:44:15.800 --> 00:44:20.000
+bucks
+
+00:44:16.100 --> 00:44:21.740
+no we can just we can just buy that not
+
+00:44:20.000 --> 00:44:24.859
+say is not a you know a decent chunk of
+
+00:44:21.740 --> 00:44:28.940
+change there's like the cost of a dental
+
+00:44:24.859 --> 00:44:33.320
+appointment to have the future in our
+
+00:44:28.940 --> 00:44:37.060
+apartment it's a wild world man it's a
+
+00:44:33.320 --> 00:44:39.530
+wild ish world it's not really that wild
+
+00:44:37.060 --> 00:44:41.660
+what we might lose but also
+
+00:44:39.530 --> 00:44:43.100
+simultaneously win in our own unique way
+
+00:44:41.660 --> 00:44:47.869
+in this episode you know what I mean
+
+00:44:43.100 --> 00:44:52.160
+what I'm getting that is I think we
+
+00:44:47.869 --> 00:44:55.609
+could beat mom's heart we have a chance
+
+00:44:52.160 --> 00:44:57.710
+to beat mom's hard and then not beat the
+
+00:44:55.609 --> 00:44:59.300
+cathedral-like I would like to but I
+
+00:44:57.710 --> 00:45:02.480
+think that there's a decent chance we
+
+00:44:59.300 --> 00:45:04.640
+just can't even beating mom's heart is
+
+00:45:02.480 --> 00:45:12.200
+going to be like a bit of a leap of
+
+00:45:04.640 --> 00:45:16.220
+faith here for us I think if we get like
+
+00:45:12.200 --> 00:45:20.900
+a little bit lucky shouldn't be too much
+
+00:45:16.220 --> 00:45:24.500
+of a problem and I stand by to this very
+
+00:45:20.900 --> 00:45:27.020
+moment the idea that you know this run
+
+00:45:24.500 --> 00:45:29.570
+is a little bit harder than the status
+
+00:45:27.020 --> 00:45:31.369
+quo and I know it seems like how many
+
+00:45:29.570 --> 00:45:32.680
+below average runs can this guy have in
+
+00:45:31.369 --> 00:45:35.180
+a row obviously there's some like
+
+00:45:32.680 --> 00:45:37.099
+observer bias going on or something like
+
+00:45:35.180 --> 00:45:39.210
+that but
+
+00:45:37.099 --> 00:45:42.990
+I'm not fighting Hoshi I'll tell you
+
+00:45:39.210 --> 00:45:44.880
+that much but I died sincerely believe
+
+00:45:42.990 --> 00:45:46.680
+that like the last couple of runs of
+
+00:45:44.880 --> 00:45:48.480
+Hannah you have been decidedly average
+
+00:45:46.680 --> 00:45:50.220
+or below after four point two nine
+
+00:45:48.480 --> 00:45:51.839
+damage I don't care what your rate of
+
+00:45:50.220 --> 00:45:57.240
+fire is four point two nine damage is
+
+00:45:51.839 --> 00:46:00.480
+not enough unless you got soymilk to get
+
+00:45:57.240 --> 00:46:05.490
+the job done in 2007 teams Isaac economy
+
+00:46:00.480 --> 00:46:08.339
+here got these head of course is lovely
+
+00:46:05.490 --> 00:46:10.789
+at this point I don't know I mean the
+
+00:46:08.339 --> 00:46:12.900
+cathedral is I think the Cathedral is
+
+00:46:10.789 --> 00:46:15.990
+easier for the point in the game in
+
+00:46:12.900 --> 00:46:17.160
+which it is then the womb to is the
+
+00:46:15.990 --> 00:46:20.010
+difference is that we haven't gotten any
+
+00:46:17.160 --> 00:46:22.319
+better between them so I don't know if I
+
+00:46:20.010 --> 00:46:23.960
+would bet on the side of us winning here
+
+00:46:22.319 --> 00:46:26.220
+but I do think there's a chance
+
+00:46:23.960 --> 00:46:28.859
+especially we can get like two spirit
+
+00:46:26.220 --> 00:46:29.910
+hearts out of that not gonna happen but
+
+00:46:28.859 --> 00:46:31.980
+it's okay
+
+00:46:29.910 --> 00:46:37.680
+go two and a half now with twenty three
+
+00:46:31.980 --> 00:46:39.420
+bombs I hate this yeah I I had that
+
+00:46:37.680 --> 00:46:41.609
+under control and then I stood in
+
+00:46:39.420 --> 00:46:44.309
+exactly the wrong place but come on no
+
+00:46:41.609 --> 00:46:45.990
+smaller rocky to spy there's no big deal
+
+00:46:44.309 --> 00:46:47.880
+we got our spirit heart back life's good
+
+00:46:45.990 --> 00:46:52.650
+and we also got teleported possibly to a
+
+00:46:47.880 --> 00:46:54.210
+much better position here a lot of the
+
+00:46:52.650 --> 00:46:57.029
+winds that we've gotten recently I've
+
+00:46:54.210 --> 00:46:58.079
+been like kind of impressed even though
+
+00:46:57.029 --> 00:47:01.819
+I don't think I've been playing ten out
+
+00:46:58.079 --> 00:47:06.539
+of ten on many of our recent runs
+
+00:47:01.819 --> 00:47:08.220
+honestly dude sorry I'm there's been a
+
+00:47:06.539 --> 00:47:09.779
+lot of runs that we've won by the skin
+
+00:47:08.220 --> 00:47:11.670
+of our teeth and I always think that
+
+00:47:09.779 --> 00:47:14.520
+like you're entitled to take like at
+
+00:47:11.670 --> 00:47:16.890
+least ten damage over any run and the
+
+00:47:14.520 --> 00:47:20.130
+worst of run is the more damage you're
+
+00:47:16.890 --> 00:47:22.109
+entitled to take maybe a bit of a
+
+00:47:20.130 --> 00:47:25.109
+harmful attitude for making progress but
+
+00:47:22.109 --> 00:47:26.970
+oh no no no it's nice nice nice okay
+
+00:47:25.109 --> 00:47:30.059
+play this you got 13 cents try to get
+
+00:47:26.970 --> 00:47:31.710
+some spirit arts out of it we actually
+
+00:47:30.059 --> 00:47:33.510
+might be able to beat Isaac on this one
+
+00:47:31.710 --> 00:47:37.279
+which would be very very surprising to
+
+00:47:33.510 --> 00:47:37.279
+me hopefully there's game sound as well
+
+00:47:38.119 --> 00:47:45.930
+okay we got High Priestess it's not a
+
+00:47:41.460 --> 00:47:49.109
+great gift but it's okay for an Isaac
+
+00:47:45.930 --> 00:47:51.540
+fight now the way I'm going to use High
+
+00:47:49.109 --> 00:47:55.770
+Priestess is I'm going to try to get
+
+00:47:51.540 --> 00:47:58.859
+through the second phase of Isaac by
+
+00:47:55.770 --> 00:48:00.150
+just using High Priestess once I was
+
+00:47:58.859 --> 00:48:02.150
+hoping we pick up like an empress card
+
+00:48:00.150 --> 00:48:11.210
+or something but this works okay
+
+00:48:02.150 --> 00:48:12.739
+okay Lily smack
+
+00:48:11.210 --> 00:48:14.660
+didn't quite get through the entire
+
+00:48:12.739 --> 00:48:16.729
+second phase but that's okay now the
+
+00:48:14.660 --> 00:48:18.739
+hard part oh that was a bad dodge we
+
+00:48:16.729 --> 00:48:21.859
+didn't get penalized for it now the hard
+
+00:48:18.739 --> 00:48:25.509
+part is actually making sure that we can
+
+00:48:21.859 --> 00:48:29.180
+get Isaac killed or at least to not just
+
+00:48:25.509 --> 00:48:32.180
+do exactly what he did right there which
+
+00:48:29.180 --> 00:48:34.130
+is multiple attacks in the same wave so
+
+00:48:32.180 --> 00:48:36.319
+bombs are going to be useful for that
+
+00:48:34.130 --> 00:48:38.719
+our orbital potentially could be useful
+
+00:48:36.319 --> 00:48:43.249
+for that the more the merrier in terms
+
+00:48:38.719 --> 00:48:44.599
+of getting named to stand still okay
+
+00:48:43.249 --> 00:48:46.819
+that one's not going to work for orbital
+
+00:48:44.599 --> 00:48:51.170
+so throw a bomb in there throw a second
+
+00:48:46.819 --> 00:48:54.680
+bomb in there when you find in anionic
+
+00:48:51.170 --> 00:49:00.829
+and your damage is kind of direct throw
+
+00:48:54.680 --> 00:49:03.099
+a bomb in there don't you a bum oh you
+
+00:49:00.829 --> 00:49:06.650
+got me dude I don't think I need it but
+
+00:49:03.099 --> 00:49:07.819
+he's got me dude dark bomb thank you so
+
+00:49:06.650 --> 00:49:09.249
+much for your help I couldn't have done
+
+00:49:07.819 --> 00:49:11.960
+this without you
+
+00:49:09.249 --> 00:49:14.509
+sincerely looks like we're going to come
+
+00:49:11.960 --> 00:49:15.469
+away with the W here scary run but hey
+
+00:49:14.509 --> 00:49:16.880
+thanks for watching hope you guys
+
+00:49:15.469 --> 00:49:18.019
+enjoyed it if you did click the like
+
+00:49:16.880 --> 00:49:18.859
+button helps out a great deal of course
+
+00:49:18.019 --> 00:49:19.249
+subscribes you wanna see more in the
+
+00:49:18.859 --> 00:49:22.099
+future
+
+00:49:19.249 --> 00:49:23.859
+Oh what with Isaac now holds d6 the
+
+00:49:22.099 --> 00:49:26.359
+chest is now unlocked
+
+00:49:23.859 --> 00:49:28.759
+that sounded like a scripted moment it
+
+00:49:26.359 --> 00:49:31.009
+genuinely was not I thought that this
+
+00:49:28.759 --> 00:49:32.989
+run was over we have to take Thunder
+
+00:49:31.009 --> 00:49:34.969
+sighs I think hopefully it's not too
+
+00:49:32.989 --> 00:49:37.519
+much of a speed down it's unlike an
+
+00:49:34.969 --> 00:49:39.289
+enormous speed down but number one Oh
+
+00:49:37.519 --> 00:49:41.049
+number one actually does nothing for us
+
+00:49:39.289 --> 00:49:45.559
+because it doesn't adjust the dear cat
+
+00:49:41.049 --> 00:49:47.269
+parasitoid tears is lovely but I'm very
+
+00:49:45.559 --> 00:49:50.119
+wary about our chances here on the chest
+
+00:49:47.269 --> 00:49:52.940
+but at the same time we have lived down
+
+00:49:50.119 --> 00:49:55.430
+here so live to get down here so now
+
+00:49:52.940 --> 00:49:58.249
+anything could happen but I think that
+
+00:49:55.430 --> 00:50:00.769
+we will probably die I'm going to give
+
+00:49:58.249 --> 00:50:03.380
+it the you know the old college try
+
+00:50:00.769 --> 00:50:06.080
+though yeah okay I shot every bomb
+
+00:50:03.380 --> 00:50:08.910
+directly into myself
+
+00:50:06.080 --> 00:50:13.980
+[Music]
+
+00:50:08.910 --> 00:50:13.980
+okay lived through that somehow
+
+00:50:16.800 --> 00:50:20.140
+keep them guessing keeping guests nicely
+
+00:50:19.560 --> 00:50:22.020
+done
+
+00:50:20.140 --> 00:50:24.720
+[Music]
+
+00:50:22.020 --> 00:50:32.730
+look around extremely quickly for a
+
+00:50:24.720 --> 00:50:35.010
+possible secret room no secret room
+
+00:50:32.730 --> 00:50:36.540
+makes me a very unhappy boy we barely
+
+00:50:35.010 --> 00:50:38.670
+got out of the way there throw a bomb
+
+00:50:36.540 --> 00:50:41.550
+down it missed we almost got tagged
+
+00:50:38.670 --> 00:50:42.870
+again we're back I don't think he's
+
+00:50:41.550 --> 00:50:50.460
+gonna pay out there either
+
+00:50:42.870 --> 00:50:52.200
+he paid out work with me your buddy work
+
+00:50:50.460 --> 00:50:54.870
+with me we're on a fifty minute video
+
+00:50:52.200 --> 00:50:57.150
+here and I'm not looking how do they say
+
+00:50:54.870 --> 00:50:57.900
+it these days I'm not good enough lose
+
+00:50:57.150 --> 00:51:00.900
+this one
+
+00:50:57.900 --> 00:51:03.440
+okay bit of a cringe-worthy moment so
+
+00:51:00.900 --> 00:51:05.700
+you know what I leaned into the cringe
+
+00:51:03.440 --> 00:51:07.980
+if you lean into the creams it's not
+
+00:51:05.700 --> 00:51:12.300
+awkward it's confident probably I don't
+
+00:51:07.980 --> 00:51:14.220
+know antlers school that's like the
+
+00:51:12.300 --> 00:51:16.170
+opposite of the effort it could get us
+
+00:51:14.220 --> 00:51:17.840
+out of a bad dead end that we didn't see
+
+00:51:16.170 --> 00:51:21.300
+coming
+
+00:51:17.840 --> 00:51:25.520
+holy cow I was like a holy crap we did
+
+00:51:21.300 --> 00:51:30.240
+it and then decidedly we did not do it
+
+00:51:25.520 --> 00:51:32.100
+got a kill Lenny laughs here are you
+
+00:51:30.240 --> 00:51:36.000
+kidding me it's like the angriest
+
+00:51:32.100 --> 00:51:38.930
+spiders of all time whatever we don't
+
+00:51:36.000 --> 00:51:38.930
+need all these bombs
+
+00:51:40.310 --> 00:51:44.650
+step1 here is like kill this guy before
+
+00:51:42.530 --> 00:51:48.980
+the other guy becomes a problem is nice
+
+00:51:44.650 --> 00:51:51.800
+alright rinse and repeat now not quite
+
+00:51:48.980 --> 00:51:54.320
+dead that was scary
+
+00:51:51.800 --> 00:51:58.490
+shouldn't have done that dodge no HP
+
+00:51:54.320 --> 00:52:00.680
+that's fine this is a room where we
+
+00:51:58.490 --> 00:52:04.270
+should not die like if we die against
+
+00:52:00.680 --> 00:52:04.270
+Gerty we've made some mistakes
+
+00:52:08.270 --> 00:52:12.890
+[Music]
+
+00:52:09.590 --> 00:52:14.390
+Joker two hearts nice but I was hoping
+
+00:52:12.890 --> 00:52:15.560
+we get like Joker into an Abaddon or
+
+00:52:14.390 --> 00:52:18.740
+something like that but you're really
+
+00:52:15.560 --> 00:52:20.360
+gonna leave me oh you're gonna leave me
+
+00:52:18.740 --> 00:52:24.680
+right next to the boss room is what
+
+00:52:20.360 --> 00:52:31.040
+you're gonna leave me I would really
+
+00:52:24.680 --> 00:52:33.770
+like to kill the virus giving enemy who
+
+00:52:31.040 --> 00:52:35.480
+was lost last but we he was chasing us
+
+00:52:33.770 --> 00:52:38.570
+down and I didn't like our odds
+
+00:52:35.480 --> 00:52:39.890
+so I'd provide my ideals we made it
+
+00:52:38.570 --> 00:52:49.250
+through the room please be full of red
+
+00:52:39.890 --> 00:52:52.630
+hearts well give you one cent okay okay
+
+00:52:49.250 --> 00:52:52.630
+umm no
+
+00:52:55.240 --> 00:53:02.780
+thank God for the goat hoof man we're
+
+00:53:01.160 --> 00:53:06.500
+just going to try to hold it as steady
+
+00:53:02.780 --> 00:53:08.330
+as possible here our life is better you
+
+00:53:06.500 --> 00:53:14.360
+know the further away we get from blue
+
+00:53:08.330 --> 00:53:17.030
+baby he's in a persistent state of
+
+00:53:14.360 --> 00:53:19.730
+slowness which is really good for me
+
+00:53:17.030 --> 00:53:23.780
+I guess that's parasitoid tears working
+
+00:53:19.730 --> 00:53:26.300
+its magic I'm not used to a blue baby
+
+00:53:23.780 --> 00:53:32.000
+fight that's a this long or be this
+
+00:53:26.300 --> 00:53:34.600
+serious though I will say at the present
+
+00:53:32.000 --> 00:53:39.200
+moment until he moves we can't be hit
+
+00:53:34.600 --> 00:53:40.580
+we're doing almost what I'm cheese I'm
+
+00:53:39.200 --> 00:53:43.160
+sorry guys I hate to use the see where
+
+00:53:40.580 --> 00:53:44.690
+I'm real cheese right now that was I got
+
+00:53:43.160 --> 00:53:46.220
+a little too close and his shot got a
+
+00:53:44.690 --> 00:53:48.140
+speed boost what does it have a jet
+
+00:53:46.220 --> 00:53:49.430
+propelled engine in it for now though
+
+00:53:48.140 --> 00:53:50.450
+thanks for watching hope you guys
+
+00:53:49.430 --> 00:53:51.530
+enjoyed the episode if you did click the
+
+00:53:50.450 --> 00:53:52.400
+like button upside a great deal of
+
+00:53:51.530 --> 00:53:53.120
+course subscribe you wanna see more in
+
+00:53:52.400 --> 00:53:54.800
+the future for now thanks for watching
+
+00:53:53.120 --> 00:53:58.390
+and I will see you next time I'm still
+
+00:53:54.800 --> 00:53:58.390
+pleased with this run in its own way
+
